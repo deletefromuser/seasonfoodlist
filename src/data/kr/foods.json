@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "kr-seoul-3-v1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 3,
+    "category": "vegetables",
+    "name": {
+      "zh": "蕨菜",
+      "en": "Bracken"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选茎秆嫩绿、无发黄的",
+      "en": "Choose tender green stems without yellowing"
+    },
+    "recipe": {
+      "zh": "蕨菜拌饭",
+      "en": "Bracken Bibimbap"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.7,
+      "carbohydrate": 5.9,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 26.5,
+        "a": 106,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 46.1
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-3-f1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 3,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选果皮鲜红、果蒂鲜绿的",
+      "en": "Choose bright red skin with fresh green calyx"
+    },
+    "recipe": {
+      "zh": "草莓牛奶冰沙",
+      "en": "Strawberry Milk Smoothie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 55.7,
+      "carbohydrate": 15.2,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.8,
+        "a": 21.5,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 9.3
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-3-m1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 3,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实、色泽鲜红的",
+      "en": "Choose firm, bright red meat"
+    },
+    "recipe": {
+      "zh": "韩式烤牛肉",
+      "en": "Korean BBQ Beef"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 209,
+      "carbohydrate": 0,
+      "protein": 19.5,
+      "fat": 12.6,
+      "vitamins": {
+        "c": 0,
+        "a": 9.3,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.2,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-3-s1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 3,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒白如玉、粘性适中的",
+      "en": "Choose white jade-like grains with moderate stickiness"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 364.7,
+      "carbohydrate": 75.5,
+      "protein": 8.5,
+      "fat": 2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-3-sf1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 3,
+    "category": "seafood",
+    "name": {
+      "zh": "鲭鱼",
+      "en": "Mackerel"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "煎鲭鱼",
+      "en": "Pan-fried Mackerel"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 103.4,
+      "carbohydrate": 1,
+      "protein": 18.5,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 1.9,
+        "a": 20.9,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 0.9,
+        "b12": 2.8
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-6-v1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 6,
+    "category": "vegetables",
+    "name": {
+      "zh": "西葫芦",
+      "en": "Zucchini"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选表皮光滑、个头中等的",
+      "en": "Choose smooth, medium-sized zucchini"
+    },
+    "recipe": {
+      "zh": "炒西葫芦",
+      "en": "Sautéed Zucchini"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.6,
+      "carbohydrate": 6.1,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 22.9,
+        "a": 101.4,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 52.1
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-6-f1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 6,
+    "category": "fruits",
+    "name": {
+      "zh": "樱桃",
+      "en": "Cherry"
+    },
+    "season": {
+      "zh": "初夏",
+      "en": "Early Summer"
+    },
+    "tip": {
+      "zh": "选果色鲜艳、果梗新鲜的",
+      "en": "Choose bright color with fresh stems"
+    },
+    "recipe": {
+      "zh": "樱桃酒",
+      "en": "Cherry Wine"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 63.6,
+      "carbohydrate": 14.6,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.9,
+        "a": 20,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.8
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-6-m1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 6,
+    "category": "meats",
+    "name": {
+      "zh": "猪肉",
+      "en": "Pork"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽红润、肥瘦相间的",
+      "en": "Choose bright red meat with balanced fat"
+    },
+    "recipe": {
+      "zh": "烤猪肉",
+      "en": "Grilled Pork"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 207.3,
+      "carbohydrate": 0,
+      "protein": 18.5,
+      "fat": 11.1,
+      "vitamins": {
+        "c": 0,
+        "a": 9.9,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.1,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-6-s1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 6,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒白如玉的",
+      "en": "Choose white jade-like grains"
+    },
+    "recipe": {
+      "zh": "拌饭",
+      "en": "Bibimbap"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 376.6,
+      "carbohydrate": 75.5,
+      "protein": 7.7,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-6-sf1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 6,
+    "category": "seafood",
+    "name": {
+      "zh": "大虾",
+      "en": "Prawn"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选个体壮硕、体表完整无残缺的",
+      "en": "Choose robust shrimp with intact bodies"
+    },
+    "recipe": {
+      "zh": "蒜蓉蒸虾",
+      "en": "Steamed Shrimp with Garlic"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 105.3,
+      "carbohydrate": 1.1,
+      "protein": 17.4,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 2,
+        "a": 21,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 0.9,
+        "b12": 3
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-9-v1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 9,
+    "category": "vegetables",
+    "name": {
+      "zh": "白菜",
+      "en": "Chinese Cabbage"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选球体紧实、叶色翠绿的",
+      "en": "Choose compact heads with green leaves"
+    },
+    "recipe": {
+      "zh": "泡菜白菜",
+      "en": "Kimchi Cabbage"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.6,
+      "carbohydrate": 6.4,
+      "protein": 1.8,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 26.2,
+        "a": 99.2,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 48.1
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-9-f1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 9,
+    "category": "fruits",
+    "name": {
+      "zh": "苹果",
+      "en": "Apple"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果面紧实、色泽鲜艳的",
+      "en": "Choose firm surface with bright color"
+    },
+    "recipe": {
+      "zh": "苹果派",
+      "en": "Apple Pie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 65.2,
+      "carbohydrate": 16.1,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.2,
+        "a": 21.7,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-9-m1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 9,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "烤牛排",
+      "en": "Grilled Steak"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 216.3,
+      "carbohydrate": 0,
+      "protein": 19,
+      "fat": 13.2,
+      "vitamins": {
+        "c": 0,
+        "a": 9.8,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-9-s1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 9,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "秋收（新米）",
+      "en": "Autumn Harvest (New Rice)"
+    },
+    "tip": {
+      "zh": "选新米米质晶莹的",
+      "en": "Choose crystal-like new rice"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 341.5,
+      "carbohydrate": 72.4,
+      "protein": 8.6,
+      "fat": 2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.8
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-9-sf1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 9,
+    "category": "seafood",
+    "name": {
+      "zh": "花枝",
+      "en": "Cuttlefish"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选身体紧实、无异味的",
+      "en": "Choose firm body without odor"
+    },
+    "recipe": {
+      "zh": "炒花枝",
+      "en": "Stir-fried Cuttlefish"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 91.8,
+      "carbohydrate": 1,
+      "protein": 17.6,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 2.2,
+        "a": 20.7,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1,
+        "b12": 2.8
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-12-v1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 12,
+    "category": "vegetables",
+    "name": {
+      "zh": "白菜",
+      "en": "Chinese Cabbage"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选球体紧实的",
+      "en": "Choose compact heads"
+    },
+    "recipe": {
+      "zh": "泡菜",
+      "en": "Kimchi"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.1,
+      "carbohydrate": 6.5,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.6,
+        "a": 99,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 45.8
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-12-f1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 12,
+    "category": "fruits",
+    "name": {
+      "zh": "柿子",
+      "en": "Persimmon"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙红、果蒂翠绿的",
+      "en": "Choose orange-red skin with green calyx"
+    },
+    "recipe": {
+      "zh": "柿子饼",
+      "en": "Persimmon Cake"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 56.7,
+      "carbohydrate": 14.9,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 30.6,
+        "a": 20.6,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.9
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-12-m1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 12,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选肉色淡红、新鲜的",
+      "en": "Choose light red, fresh meat"
+    },
+    "recipe": {
+      "zh": "羊肉汤",
+      "en": "Mutton Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 206.6,
+      "carbohydrate": 0,
+      "protein": 19.3,
+      "fat": 11.2,
+      "vitamins": {
+        "c": 0,
+        "a": 9.4,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-12-s1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 12,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒洁白的",
+      "en": "Choose white grains"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 328.8,
+      "carbohydrate": 72.5,
+      "protein": 8.7,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2.2
+      }
+    }
+  },
+  {
+    "id": "kr-seoul-12-sf1",
+    "country": "kr",
+    "province": "首尔特别市",
+    "city": "首尔市",
+    "month": 12,
+    "category": "seafood",
+    "name": {
+      "zh": "大鱿鱼",
+      "en": "Squid"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选身体紧实、色泽洁白的",
+      "en": "Choose firm body with white color"
+    },
+    "recipe": {
+      "zh": "炒鱿鱼",
+      "en": "Stir-fried Squid"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 98.4,
+      "carbohydrate": 1.1,
+      "protein": 16.3,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 2,
+        "a": 19.4,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 0.9,
+        "b12": 2.9
+      }
+    }
+  },
+  {
+    "id": "kr-busan-6-v1",
+    "country": "kr",
+    "province": "庆尚南道",
+    "city": "釜山市",
+    "month": 6,
+    "category": "vegetables",
+    "name": {
+      "zh": "西葫芦",
+      "en": "Zucchini"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选表皮光滑的",
+      "en": "Choose smooth skin"
+    },
+    "recipe": {
+      "zh": "炒西葫芦",
+      "en": "Sautéed Zucchini"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.8,
+      "carbohydrate": 6.5,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.4,
+        "a": 94.8,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 47.5
+      }
+    }
+  },
+  {
+    "id": "kr-busan-6-f1",
+    "country": "kr",
+    "province": "庆尚南道",
+    "city": "釜山市",
+    "month": 6,
+    "category": "fruits",
+    "name": {
+      "zh": "西瓜",
+      "en": "Watermelon"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选花纹清晰的",
+      "en": "Choose clear stripes"
+    },
+    "recipe": {
+      "zh": "西瓜冰沙",
+      "en": "Watermelon Smoothie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 55.8,
+      "carbohydrate": 14,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.2,
+        "a": 20.5,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.6
+      }
+    }
+  },
+  {
+    "id": "kr-busan-6-m1",
+    "country": "kr",
+    "province": "庆尚南道",
+    "city": "釜山市",
+    "month": 6,
+    "category": "meats",
+    "name": {
+      "zh": "猪肉",
+      "en": "Pork"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽红润的",
+      "en": "Choose bright red meat"
+    },
+    "recipe": {
+      "zh": "烤猪肉",
+      "en": "Grilled Pork"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 214,
+      "carbohydrate": 0,
+      "protein": 19.8,
+      "fat": 10.9,
+      "vitamins": {
+        "c": 0,
+        "a": 10.8,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "kr-busan-6-s1",
+    "country": "kr",
+    "province": "庆尚南道",
+    "city": "釜山市",
+    "month": 6,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选白如玉的",
+      "en": "Choose white jade-like grains"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 345.4,
+      "carbohydrate": 80.7,
+      "protein": 7.9,
+      "fat": 2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "kr-busan-6-sf1",
+    "country": "kr",
+    "province": "庆尚南道",
+    "city": "釜山市",
+    "month": 6,
+    "category": "seafood",
+    "name": {
+      "zh": "生鱼片",
+      "en": "Raw Fish (Hoe)"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选鱼肉新鲜、色泽鲜红的",
+      "en": "Choose fresh fish with bright red flesh"
+    },
+    "recipe": {
+      "zh": "韩式生鱼片",
+      "en": "Korean Raw Fish (Hoe)"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 96.6,
+      "carbohydrate": 1,
+      "protein": 16.8,
+      "fat": 2,
+      "vitamins": {
+        "c": 1.9,
+        "a": 19.3,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.9,
+        "k": 0.9,
+        "b12": 2.9
+      }
+    }
+  },
+  {
+    "id": "kr-busan-12-v1",
+    "country": "kr",
+    "province": "庆尚南道",
+    "city": "釜山市",
+    "month": 12,
+    "category": "vegetables",
+    "name": {
+      "zh": "萝卜",
+      "en": "Radish"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选根部紧实、色泽洁白的",
+      "en": "Choose firm roots with white color"
+    },
+    "recipe": {
+      "zh": "萝卜泥",
+      "en": "Grated Radish"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.7,
+      "carbohydrate": 6.6,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25.5,
+        "a": 109.7,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 46.5
+      }
+    }
+  },
+  {
+    "id": "kr-busan-12-f1",
+    "country": "kr",
+    "province": "庆尚南道",
+    "city": "釜山市",
+    "month": 12,
+    "category": "fruits",
+    "name": {
+      "zh": "柑橘",
+      "en": "Citrus"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄的",
+      "en": "Choose orange-yellow skin"
+    },
+    "recipe": {
+      "zh": "柑橘茶",
+      "en": "Citrus Tea"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 59.8,
+      "carbohydrate": 13.7,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.1,
+        "a": 19.1,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 9.5
+      }
+    }
+  },
+  {
+    "id": "kr-busan-12-m1",
+    "country": "kr",
+    "province": "庆尚南道",
+    "city": "釜山市",
+    "month": 12,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "炖牛肉",
+      "en": "Stewed Beef"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 183.4,
+      "carbohydrate": 0,
+      "protein": 21.5,
+      "fat": 11,
+      "vitamins": {
+        "c": 0,
+        "a": 9.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "kr-busan-12-s1",
+    "country": "kr",
+    "province": "庆尚南道",
+    "city": "釜山市",
+    "month": 12,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒洁白的",
+      "en": "Choose white grains"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 350.6,
+      "carbohydrate": 79.6,
+      "protein": 8.4,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "kr-busan-12-sf1",
+    "country": "kr",
+    "province": "庆尚南道",
+    "city": "釜山市",
+    "month": 12,
+    "category": "seafood",
+    "name": {
+      "zh": "大虾",
+      "en": "Prawn"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选个体壮硕的",
+      "en": "Choose robust shrimp"
+    },
+    "recipe": {
+      "zh": "蒜蓉蒸虾",
+      "en": "Steamed Shrimp with Garlic"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 92.3,
+      "carbohydrate": 0.9,
+      "protein": 18.9,
+      "fat": 2,
+      "vitamins": {
+        "c": 2,
+        "a": 20.7,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.9,
+        "k": 1,
+        "b12": 3.1
+      }
+    }
+  }
+]

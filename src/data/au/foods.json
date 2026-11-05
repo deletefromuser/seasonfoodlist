@@ -1,0 +1,944 @@
+[
+  {
+    "id": "au-nsw-12-v1",
+    "country": "au",
+    "province": "新南威尔士州",
+    "city": "悉尼",
+    "month": 12,
+    "category": "vegetables",
+    "name": {
+      "zh": "番茄",
+      "en": "Tomato"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果实圆润、色泽鲜红的",
+      "en": "Choose round, bright red fruit"
+    },
+    "recipe": {
+      "zh": "番茄沙拉",
+      "en": "Tomato Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 32.1,
+      "carbohydrate": 5.9,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25,
+        "a": 102.3,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 45.1
+      }
+    }
+  },
+  {
+    "id": "au-nsw-12-f1",
+    "country": "au",
+    "province": "新南威尔士州",
+    "city": "悉尼",
+    "month": 12,
+    "category": "fruits",
+    "name": {
+      "zh": "樱桃",
+      "en": "Cherry"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果色鲜艳、果梗新鲜的",
+      "en": "Choose bright color with fresh stems"
+    },
+    "recipe": {
+      "zh": "生樱桃",
+      "en": "Fresh Cherry"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 57.8,
+      "carbohydrate": 16,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.7,
+        "a": 19.7,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 11
+      }
+    }
+  },
+  {
+    "id": "au-nsw-12-m1",
+    "country": "au",
+    "province": "新南威尔士州",
+    "city": "悉尼",
+    "month": 12,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "烧烤牛排",
+      "en": "BBQ Steak"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 198.4,
+      "carbohydrate": 0,
+      "protein": 21.1,
+      "fat": 10.8,
+      "vitamins": {
+        "c": 0,
+        "a": 10.5,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "au-nsw-12-s1",
+    "country": "au",
+    "province": "新南威尔士州",
+    "city": "悉尼",
+    "month": 12,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "夏收",
+      "en": "Summer Harvest"
+    },
+    "tip": {
+      "zh": "选麦粒饱满的",
+      "en": "Choose full grains"
+    },
+    "recipe": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 358.9,
+      "carbohydrate": 80.7,
+      "protein": 7.7,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "au-nsw-6-v1",
+    "country": "au",
+    "province": "新南威尔士州",
+    "city": "纽卡斯尔",
+    "month": 6,
+    "category": "vegetables",
+    "name": {
+      "zh": "南瓜",
+      "en": "Pumpkin"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄的",
+      "en": "Choose orange rind"
+    },
+    "recipe": {
+      "zh": "烤南瓜",
+      "en": "Roasted Pumpkin"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.8,
+      "carbohydrate": 6.4,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.4,
+        "a": 106.7,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 48.9
+      }
+    }
+  },
+  {
+    "id": "au-nsw-6-f1",
+    "country": "au",
+    "province": "新南威尔士州",
+    "city": "纽卡斯尔",
+    "month": 6,
+    "category": "fruits",
+    "name": {
+      "zh": "橙子",
+      "en": "Orange"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄的",
+      "en": "Choose orange skin"
+    },
+    "recipe": {
+      "zh": "橙汁",
+      "en": "Orange Juice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 54.5,
+      "carbohydrate": 16,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 30,
+        "a": 20.3,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 9.4
+      }
+    }
+  },
+  {
+    "id": "au-nsw-6-m1",
+    "country": "au",
+    "province": "新南威尔士州",
+    "city": "纽卡斯尔",
+    "month": 6,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉色淡红的",
+      "en": "Choose light red meat"
+    },
+    "recipe": {
+      "zh": "炖羊肉",
+      "en": "Stewed Mutton"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 192.9,
+      "carbohydrate": 0,
+      "protein": 20.4,
+      "fat": 11.1,
+      "vitamins": {
+        "c": 0,
+        "a": 9.8,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.2,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "au-nsw-6-s1",
+    "country": "au",
+    "province": "新南威尔士州",
+    "city": "纽卡斯尔",
+    "month": 6,
+    "category": "staples",
+    "name": {
+      "zh": "燕麦",
+      "en": "Oat"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选干燥无杂质的",
+      "en": "Choose dry grains without impurities"
+    },
+    "recipe": {
+      "zh": "燕麦粥",
+      "en": "Oatmeal"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 339.2,
+      "carbohydrate": 74.1,
+      "protein": 8.7,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "au-vic-1-v1",
+    "country": "au",
+    "province": "维多利亚州",
+    "city": "墨尔本",
+    "month": 1,
+    "category": "vegetables",
+    "name": {
+      "zh": "西葫芦",
+      "en": "Zucchini"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选表皮光滑的",
+      "en": "Choose smooth skin"
+    },
+    "recipe": {
+      "zh": "烤西葫芦",
+      "en": "Grilled Zucchini"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.1,
+      "carbohydrate": 6.5,
+      "protein": 2.2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25.5,
+        "a": 99.8,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 53.6
+      }
+    }
+  },
+  {
+    "id": "au-vic-1-f1",
+    "country": "au",
+    "province": "维多利亚州",
+    "city": "墨尔本",
+    "month": 1,
+    "category": "fruits",
+    "name": {
+      "zh": "桃子",
+      "en": "Peach"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果实圆润、有绒毛的",
+      "en": "Choose round, fuzzy fruit"
+    },
+    "recipe": {
+      "zh": "桃子派",
+      "en": "Peach Pie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 56.7,
+      "carbohydrate": 15.8,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.4,
+        "a": 18.6,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10
+      }
+    }
+  },
+  {
+    "id": "au-vic-1-m1",
+    "country": "au",
+    "province": "维多利亚州",
+    "city": "墨尔本",
+    "month": 1,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选新鲜的",
+      "en": "Choose fresh"
+    },
+    "recipe": {
+      "zh": "烤羊腿",
+      "en": "Roasted Leg of Lamb"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 190.3,
+      "carbohydrate": 0,
+      "protein": 18.4,
+      "fat": 11.9,
+      "vitamins": {
+        "c": 0,
+        "a": 9.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.1,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "au-vic-1-s1",
+    "country": "au",
+    "province": "维多利亚州",
+    "city": "墨尔本",
+    "month": 1,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "夏收",
+      "en": "Summer Harvest"
+    },
+    "tip": {
+      "zh": "选饱满的",
+      "en": "Choose full grains"
+    },
+    "recipe": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 383.4,
+      "carbohydrate": 68.9,
+      "protein": 7.9,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "au-vic-7-v1",
+    "country": "au",
+    "province": "维多利亚州",
+    "city": "墨尔本",
+    "month": 7,
+    "category": "vegetables",
+    "name": {
+      "zh": "花椰菜",
+      "en": "Broccoli"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选花球紧实的",
+      "en": "Choose tight heads"
+    },
+    "recipe": {
+      "zh": "烩花椰菜",
+      "en": "Stewed Broccoli"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.6,
+      "carbohydrate": 5.7,
+      "protein": 2.2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24,
+        "a": 91.9,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 52.3
+      }
+    }
+  },
+  {
+    "id": "au-vic-7-f1",
+    "country": "au",
+    "province": "维多利亚州",
+    "city": "墨尔本",
+    "month": 7,
+    "category": "fruits",
+    "name": {
+      "zh": "猕猴桃",
+      "en": "Kiwi"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选表皮有绒毛、质地适中的",
+      "en": "Choose fuzzy skin with moderate texture"
+    },
+    "recipe": {
+      "zh": "猕猴桃沙拉",
+      "en": "Kiwi Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 54.7,
+      "carbohydrate": 14.4,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 30.8,
+        "a": 20.6,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 9.9
+      }
+    }
+  },
+  {
+    "id": "au-vic-7-m1",
+    "country": "au",
+    "province": "维多利亚州",
+    "city": "墨尔本",
+    "month": 7,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "炖牛肉",
+      "en": "Stewed Beef"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 201,
+      "carbohydrate": 0,
+      "protein": 21.1,
+      "fat": 11.3,
+      "vitamins": {
+        "c": 0,
+        "a": 10.9,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "au-vic-7-s1",
+    "country": "au",
+    "province": "维多利亚州",
+    "city": "墨尔本",
+    "month": 7,
+    "category": "staples",
+    "name": {
+      "zh": "燕麦",
+      "en": "Oat"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选干燥的",
+      "en": "Choose dry"
+    },
+    "recipe": {
+      "zh": "燕麦粥",
+      "en": "Oatmeal"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 324,
+      "carbohydrate": 78.5,
+      "protein": 8.2,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.2
+      }
+    }
+  },
+  {
+    "id": "au-qld-3-v1",
+    "country": "au",
+    "province": "昆士兰州",
+    "city": "布里斯班",
+    "month": 3,
+    "category": "vegetables",
+    "name": {
+      "zh": "番茄",
+      "en": "Tomato"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选圆润鲜红的",
+      "en": "Choose round, bright red fruit"
+    },
+    "recipe": {
+      "zh": "番茄沙拉",
+      "en": "Tomato Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.2,
+      "carbohydrate": 5.5,
+      "protein": 1.8,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23,
+        "a": 108.8,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 53.6
+      }
+    }
+  },
+  {
+    "id": "au-qld-3-f1",
+    "country": "au",
+    "province": "昆士兰州",
+    "city": "布里斯班",
+    "month": 3,
+    "category": "fruits",
+    "name": {
+      "zh": "芒果",
+      "en": "Mango"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果实圆润、有香气的",
+      "en": "Choose round, aromatic fruit"
+    },
+    "recipe": {
+      "zh": "芒果冰沙",
+      "en": "Mango Smoothie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 55,
+      "carbohydrate": 13.7,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 28.2,
+        "a": 20.1,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.4
+      }
+    }
+  },
+  {
+    "id": "au-qld-3-m1",
+    "country": "au",
+    "province": "昆士兰州",
+    "city": "布里斯班",
+    "month": 3,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选新鲜的",
+      "en": "Choose fresh"
+    },
+    "recipe": {
+      "zh": "烤鸡",
+      "en": "Roasted Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 190,
+      "carbohydrate": 0,
+      "protein": 18.8,
+      "fat": 11.3,
+      "vitamins": {
+        "c": 0,
+        "a": 9.3,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "au-qld-3-s1",
+    "country": "au",
+    "province": "昆士兰州",
+    "city": "布里斯班",
+    "month": 3,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒洁白的",
+      "en": "Choose white grains"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 371.2,
+      "carbohydrate": 73.1,
+      "protein": 7.5,
+      "fat": 2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "au-qld-9-v1",
+    "country": "au",
+    "province": "昆士兰州",
+    "city": "布里斯班",
+    "month": 9,
+    "category": "vegetables",
+    "name": {
+      "zh": "胡萝卜",
+      "en": "Carrot"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选根部紧实、色泽橙红的",
+      "en": "Choose firm roots with orange-red color"
+    },
+    "recipe": {
+      "zh": "胡萝卜沙拉",
+      "en": "Carrot Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.4,
+      "carbohydrate": 6.3,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25.4,
+        "a": 105.8,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 46.1
+      }
+    }
+  },
+  {
+    "id": "au-qld-9-f1",
+    "country": "au",
+    "province": "昆士兰州",
+    "city": "布里斯班",
+    "month": 9,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选果色鲜红的",
+      "en": "Choose bright red fruit"
+    },
+    "recipe": {
+      "zh": "草莓蛋糕",
+      "en": "Strawberry Cake"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 56.7,
+      "carbohydrate": 16.2,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.5,
+        "a": 18.8,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.5
+      }
+    }
+  },
+  {
+    "id": "au-qld-9-m1",
+    "country": "au",
+    "province": "昆士兰州",
+    "city": "布里斯班",
+    "month": 9,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "烧烤牛排",
+      "en": "BBQ Steak"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 214.9,
+      "carbohydrate": 0,
+      "protein": 21.2,
+      "fat": 13.2,
+      "vitamins": {
+        "c": 0,
+        "a": 9.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.1,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "au-qld-9-s1",
+    "country": "au",
+    "province": "昆士兰州",
+    "city": "布里斯班",
+    "month": 9,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "春收",
+      "en": "Spring Harvest"
+    },
+    "tip": {
+      "zh": "选饱满的",
+      "en": "Choose full grains"
+    },
+    "recipe": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 325.2,
+      "carbohydrate": 75.5,
+      "protein": 7.7,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  }
+]

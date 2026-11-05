@@ -1,0 +1,6 @@
+[
+  { "code": "gd", "name": { "zh": "广东省", "en": "Guangdong Province" }, "cities": ["广州市", "深圳市", "珠海市"] },
+  { "code": "sc", "name": { "zh": "四川省", "en": "Sichuan Province" }, "cities": ["成都市", "绵阳市"] },
+  { "code": "bj", "name": { "zh": "北京市", "en": "Beijing" }, "cities": ["北京市"] },
+  { "code": "sh", "name": { "zh": "上海市", "en": "Shanghai" }, "cities": ["上海市"] }
+]

@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "cn-gd-3-v1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 3,
+    "category": "vegetables",
+    "name": {
+      "zh": "空心菜",
+      "en": "Water Spinach"
+    },
+    "season": {
+      "zh": "春末夏初",
+      "en": "Late Spring to Early Summer"
+    },
+    "tip": {
+      "zh": "选茎秆挺翠、叶片翠绿无黄斑的",
+      "en": "Choose crisp, bright green stems without yellow spots"
+    },
+    "recipe": {
+      "zh": "炒空心菜",
+      "en": "Stir-fried Water Spinach"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 29.1,
+      "carbohydrate": 5.5,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.2,
+        "a": 105.1,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 49.3
+      }
+    }
+  },
+  {
+    "id": "cn-gd-3-f1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 3,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选果形饱满、果蒂翠绿无烂果的",
+      "en": "Choose plump fruit with green calyx and no rot"
+    },
+    "recipe": {
+      "zh": "草莓酸奶杯",
+      "en": "Strawberry Yogurt Cup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 65.3,
+      "carbohydrate": 15.4,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.2,
+        "a": 21.6,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.4
+      }
+    }
+  },
+  {
+    "id": "cn-gd-3-m1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 3,
+    "category": "meats",
+    "name": {
+      "zh": "猪肉",
+      "en": "Pork"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽红润、有光泽、弹性好的",
+      "en": "Choose meat with bright red color and good elasticity"
+    },
+    "recipe": {
+      "zh": "红烧肉",
+      "en": "Braised Pork"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 183.3,
+      "carbohydrate": 0,
+      "protein": 19.8,
+      "fat": 11.1,
+      "vitamins": {
+        "c": 0,
+        "a": 10.5,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "cn-gd-3-s1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 3,
+    "category": "staples",
+    "name": {
+      "zh": "晚籼稻",
+      "en": "Late Indica Rice"
+    },
+    "season": {
+      "zh": "夏收（育苗期）",
+      "en": "Summer Harvest (Seedling Stage)"
+    },
+    "tip": {
+      "zh": "选米粒饱满、色泽均匀的新米",
+      "en": "Choose plump, evenly colored new rice"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 382.6,
+      "carbohydrate": 77.3,
+      "protein": 8.5,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-gd-6-v1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 6,
+    "category": "vegetables",
+    "name": {
+      "zh": "冬瓜",
+      "en": "Winter Melon"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选形状端正、表皮翠绿无裂纹的",
+      "en": "Choose well-shaped melon with green rind and no cracks"
+    },
+    "recipe": {
+      "zh": "冬瓜排骨汤",
+      "en": "Winter Melon Pork Rib Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.8,
+      "carbohydrate": 6.3,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.6,
+        "a": 108.4,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 45.6
+      }
+    }
+  },
+  {
+    "id": "cn-gd-6-f1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 6,
+    "category": "fruits",
+    "name": {
+      "zh": "荔枝",
+      "en": "Lychee"
+    },
+    "season": {
+      "zh": "初夏",
+      "en": "Early Summer"
+    },
+    "tip": {
+      "zh": "选果皮红艳、果刺清晰的",
+      "en": "Choose fruit with bright red skin and clear spikes"
+    },
+    "recipe": {
+      "zh": "荔枝肉",
+      "en": "Lychee Meat"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 54.4,
+      "carbohydrate": 15.1,
+      "protein": 1.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.3,
+        "a": 21.8,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.2
+      }
+    }
+  },
+  {
+    "id": "cn-gd-6-m1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 6,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选皮薄、肉嫩、无异味的",
+      "en": "Choose thin-skinned, tender meat without odor"
+    },
+    "recipe": {
+      "zh": "白切鸡",
+      "en": "White-cut Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 207.9,
+      "carbohydrate": 0,
+      "protein": 20.1,
+      "fat": 10.9,
+      "vitamins": {
+        "c": 0,
+        "a": 10.9,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 2.2
+      }
+    }
+  },
+  {
+    "id": "cn-gd-6-s1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 6,
+    "category": "staples",
+    "name": {
+      "zh": "米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米质晶莹、无碎米的",
+      "en": "Choose crystal-like grains with no broken rice"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 333.5,
+      "carbohydrate": 78.2,
+      "protein": 8.2,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-gd-6-sf1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 6,
+    "category": "seafood",
+    "name": {
+      "zh": "虾",
+      "en": "Shrimp"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选个体壮硕、体表完整无残缺的",
+      "en": "Choose robust shrimp with intact bodies"
+    },
+    "recipe": {
+      "zh": "蒜蓉蒸虾",
+      "en": "Steamed Shrimp with Garlic"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 100,
+      "carbohydrate": 0.9,
+      "protein": 18.3,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 1.9,
+        "a": 20.4,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 0.9,
+        "b12": 2.8
+      }
+    }
+  },
+  {
+    "id": "cn-gd-9-v1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 9,
+    "category": "vegetables",
+    "name": {
+      "zh": "莴笋",
+      "en": "Lettuce Stem"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选茎秆粗壮、无空心的",
+      "en": "Choose thick stems without hollow centers"
+    },
+    "recipe": {
+      "zh": "清炒莴笋",
+      "en": "Stir-fried Lettuce Stem"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.2,
+      "carbohydrate": 6.1,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.9,
+        "a": 102.3,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 47.6
+      }
+    }
+  },
+  {
+    "id": "cn-gd-9-f1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 9,
+    "category": "fruits",
+    "name": {
+      "zh": "芒果",
+      "en": "Mango"
+    },
+    "season": {
+      "zh": "夏末秋初",
+      "en": "Late Summer to Early Autumn"
+    },
+    "tip": {
+      "zh": "选果实圆润、有香气的",
+      "en": "Choose round, aromatic fruit"
+    },
+    "recipe": {
+      "zh": "芒果糯米饭",
+      "en": "Mango Sticky Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 56.7,
+      "carbohydrate": 14.7,
+      "protein": 1.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 28.3,
+        "a": 19.7,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.9
+      }
+    }
+  },
+  {
+    "id": "cn-gd-9-m1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 9,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选肉色淡红、无膻味的",
+      "en": "Choose light red meat without gamy smell"
+    },
+    "recipe": {
+      "zh": "萝卜炖羊肉",
+      "en": "Radish Stewed Mutton"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 192.2,
+      "carbohydrate": 0,
+      "protein": 19.9,
+      "fat": 11.3,
+      "vitamins": {
+        "c": 0,
+        "a": 9.5,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "cn-gd-9-s1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 9,
+    "category": "staples",
+    "name": {
+      "zh": "玉米",
+      "en": "Corn"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选果穗饱满、粒色金黄的",
+      "en": "Choose full cobs with golden kernels"
+    },
+    "recipe": {
+      "zh": "糯玉米",
+      "en": "Glutinous Corn"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 380.6,
+      "carbohydrate": 77.3,
+      "protein": 8.5,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.8
+      }
+    }
+  },
+  {
+    "id": "cn-gd-9-sf1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 9,
+    "category": "seafood",
+    "name": {
+      "zh": "蟹",
+      "en": "Crab"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选背壳青、肚脐凸的肥蟹",
+      "en": "Choose green-backed crabs with protruding umbilicus"
+    },
+    "recipe": {
+      "zh": "蒸蟹",
+      "en": "Steamed Crab"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 91.2,
+      "carbohydrate": 0.9,
+      "protein": 16.9,
+      "fat": 2,
+      "vitamins": {
+        "c": 2,
+        "a": 20.9,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 0.9,
+        "b12": 3.1
+      }
+    }
+  },
+  {
+    "id": "cn-gd-12-v1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 12,
+    "category": "vegetables",
+    "name": {
+      "zh": "白菜",
+      "en": "Chinese Cabbage"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选球体紧实、叶色翠绿的",
+      "en": "Choose compact heads with green leaves"
+    },
+    "recipe": {
+      "zh": "白菜炖豆腐",
+      "en": "Cabbage Stewed Tofu"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.9,
+      "carbohydrate": 5.7,
+      "protein": 2.2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27,
+        "a": 108.1,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 45.7
+      }
+    }
+  },
+  {
+    "id": "cn-gd-12-f1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 12,
+    "category": "fruits",
+    "name": {
+      "zh": "橙子",
+      "en": "Orange"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄、果蒂翠绿的",
+      "en": "Choose orange skin with green calyx"
+    },
+    "recipe": {
+      "zh": "橙子茶",
+      "en": "Orange Tea"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 55.2,
+      "carbohydrate": 14,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.5,
+        "a": 18.9,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.3
+      }
+    }
+  },
+  {
+    "id": "cn-gd-12-m1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 12,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽鲜红、有光泽的",
+      "en": "Choose bright red meat with sheen"
+    },
+    "recipe": {
+      "zh": "红烧牛肉",
+      "en": "Braised Beef"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 213.6,
+      "carbohydrate": 0,
+      "protein": 20.2,
+      "fat": 12.1,
+      "vitamins": {
+        "c": 0,
+        "a": 10.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-gd-12-s1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 12,
+    "category": "staples",
+    "name": {
+      "zh": "小米",
+      "en": "Millet"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选粒色金黄、无虫蛀的",
+      "en": "Choose golden grains without insects"
+    },
+    "recipe": {
+      "zh": "小米粥",
+      "en": "Millet Congee"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 320.1,
+      "carbohydrate": 71.6,
+      "protein": 8.4,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "cn-gd-12-sf1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "广州市",
+    "month": 12,
+    "category": "seafood",
+    "name": {
+      "zh": "草鱼",
+      "en": "Grass Carp"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "清蒸草鱼",
+      "en": "Steamed Grass Carp"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 90.4,
+      "carbohydrate": 0.9,
+      "protein": 16.3,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 2.2,
+        "a": 21.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 0.9,
+        "b12": 2.7
+      }
+    }
+  },
+  {
+    "id": "cn-sz-4-v1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 4,
+    "category": "vegetables",
+    "name": {
+      "zh": "黄瓜",
+      "en": "Cucumber"
+    },
+    "season": {
+      "zh": "春末夏初",
+      "en": "Late Spring to Early Summer"
+    },
+    "tip": {
+      "zh": "选果身坚硬、色泽翠绿的",
+      "en": "Choose firm, bright green cucumbers"
+    },
+    "recipe": {
+      "zh": "拍黄瓜",
+      "en": "Smashed Cucumber"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.7,
+      "carbohydrate": 5.7,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 26.3,
+        "a": 107.7,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 46.5
+      }
+    }
+  },
+  {
+    "id": "cn-sz-4-f1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 4,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选色泽均匀、果蒂鲜绿的",
+      "en": "Choose even color with fresh green calyx"
+    },
+    "recipe": {
+      "zh": "草莓牛奶冰沙",
+      "en": "Strawberry Milk Smoothie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 63.7,
+      "carbohydrate": 15.4,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 31.1,
+        "a": 21.3,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.3
+      }
+    }
+  },
+  {
+    "id": "cn-sz-4-m1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 4,
+    "category": "meats",
+    "name": {
+      "zh": "鲫鱼",
+      "en": "Crucian Carp"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "鲫鱼豆腐汤",
+      "en": "Crucian Carp Tofu Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 189.3,
+      "carbohydrate": 0,
+      "protein": 18.5,
+      "fat": 12.5,
+      "vitamins": {
+        "c": 0,
+        "a": 9.9,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "cn-sz-4-s1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 4,
+    "category": "staples",
+    "name": {
+      "zh": "糯米",
+      "en": "Glutinous Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒白如玉、粘性强的",
+      "en": "Choose white jade-like grains with strong stickiness"
+    },
+    "recipe": {
+      "zh": "糯米鸡",
+      "en": "Glutinous Rice Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 328.1,
+      "carbohydrate": 71.9,
+      "protein": 7.6,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.8
+      }
+    }
+  },
+  {
+    "id": "cn-sz-4-sf1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 4,
+    "category": "seafood",
+    "name": {
+      "zh": "蚝",
+      "en": "Oyster"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选贝壳紧闭、个体饱满的",
+      "en": "Choose closed shells with plump bodies"
+    },
+    "recipe": {
+      "zh": "蒜蓉蒸蚝",
+      "en": "Steamed Oysters with Garlic"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 96.5,
+      "carbohydrate": 0.9,
+      "protein": 19.4,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 1.9,
+        "a": 20.6,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1.1,
+        "k": 0.9,
+        "b12": 3
+      }
+    }
+  },
+  {
+    "id": "cn-sz-7-v1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 7,
+    "category": "vegetables",
+    "name": {
+      "zh": "西葫芦",
+      "en": "Zucchini"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选表皮光滑、个头中等的",
+      "en": "Choose smooth, medium-sized zucchini"
+    },
+    "recipe": {
+      "zh": "炒西葫芦",
+      "en": "Sautéed Zucchini"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.2,
+      "carbohydrate": 6.1,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25.1,
+        "a": 95.2,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 46.6
+      }
+    }
+  },
+  {
+    "id": "cn-sz-7-f1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 7,
+    "category": "fruits",
+    "name": {
+      "zh": "西瓜",
+      "en": "Watermelon"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选花纹清晰、敲击沙响的",
+      "en": "Choose clear stripes with hollow sound when tapped"
+    },
+    "recipe": {
+      "zh": "西瓜冰沙",
+      "en": "Watermelon Smoothie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 57.3,
+      "carbohydrate": 15.7,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 30.8,
+        "a": 20.7,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.9
+      }
+    }
+  },
+  {
+    "id": "cn-sz-7-m1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 7,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选皮薄、肉嫩、无异味的",
+      "en": "Choose thin-skinned, tender meat without odor"
+    },
+    "recipe": {
+      "zh": "白切鸡",
+      "en": "White-cut Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 193.8,
+      "carbohydrate": 0,
+      "protein": 18.1,
+      "fat": 10.8,
+      "vitamins": {
+        "c": 0,
+        "a": 9.1,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "cn-sz-7-s1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 7,
+    "category": "staples",
+    "name": {
+      "zh": "米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米质晶莹、无碎米的",
+      "en": "Choose crystal-like grains with no broken rice"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 316.3,
+      "carbohydrate": 81.3,
+      "protein": 8.3,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-sz-7-sf1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 7,
+    "category": "seafood",
+    "name": {
+      "zh": "蟹",
+      "en": "Crab"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选背壳硬、腹部饱满的",
+      "en": "Choose hard-backed crabs with full abdomens"
+    },
+    "recipe": {
+      "zh": "椒盐蟹",
+      "en": "Salt and Pepper Crab"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 93.1,
+      "carbohydrate": 1,
+      "protein": 17.8,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 1.9,
+        "a": 19.9,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1.1,
+        "b12": 3.1
+      }
+    }
+  },
+  {
+    "id": "cn-sz-10-v1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 10,
+    "category": "vegetables",
+    "name": {
+      "zh": "芋艸",
+      "en": "Taro"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选个头大、表皮无损伤的",
+      "en": "Choose large tubers with undamaged skin"
+    },
+    "recipe": {
+      "zh": "芋艸排骨汤",
+      "en": "Taro Pork Rib Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31,
+      "carbohydrate": 6.3,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25.7,
+        "a": 101.5,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 52.9
+      }
+    }
+  },
+  {
+    "id": "cn-sz-10-f1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 10,
+    "category": "fruits",
+    "name": {
+      "zh": "柚子",
+      "en": "Pomelo"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选个头大、果皮橙黄的",
+      "en": "Choose large fruit with orange-yellow skin"
+    },
+    "recipe": {
+      "zh": "柚子茶",
+      "en": "Pomelo Tea"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 59.8,
+      "carbohydrate": 14.4,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.4,
+        "a": 19.5,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 11
+      }
+    }
+  },
+  {
+    "id": "cn-sz-10-m1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 10,
+    "category": "meats",
+    "name": {
+      "zh": "猪肉",
+      "en": "Pork"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽红润、肥瘦相间的",
+      "en": "Choose bright red meat with balanced fat"
+    },
+    "recipe": {
+      "zh": "东坡肉",
+      "en": "Dongpo Pork"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 193.4,
+      "carbohydrate": 0,
+      "protein": 19.6,
+      "fat": 11.5,
+      "vitamins": {
+        "c": 0,
+        "a": 10.7,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-sz-10-s1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 10,
+    "category": "staples",
+    "name": {
+      "zh": "米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米质晶莹、香气浓的",
+      "en": "Choose crystal grains with strong aroma"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 332.5,
+      "carbohydrate": 69.5,
+      "protein": 7.8,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-sz-10-sf1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "深圳市",
+    "month": 10,
+    "category": "seafood",
+    "name": {
+      "zh": "大闸蟹",
+      "en": "Hairy Crab"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选背壳青、肚脐凸的肥蟹",
+      "en": "Choose green-backed crabs with protruding umbilicus"
+    },
+    "recipe": {
+      "zh": "蒸大闸蟹",
+      "en": "Steamed Hairy Crab"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 93.5,
+      "carbohydrate": 1,
+      "protein": 17.1,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 1.9,
+        "a": 18.3,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1,
+        "b12": 2.9
+      }
+    }
+  },
+  {
+    "id": "cn-zh-1-v1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "珠海市",
+    "month": 1,
+    "category": "vegetables",
+    "name": {
+      "zh": "白菜",
+      "en": "Chinese Cabbage"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选球体紧实、叶色翠绿的",
+      "en": "Choose compact heads with green leaves"
+    },
+    "recipe": {
+      "zh": "白菜炖豆腐",
+      "en": "Cabbage Stewed Tofu"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 32,
+      "carbohydrate": 6.2,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.6,
+        "a": 108.4,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 45.1
+      }
+    }
+  },
+  {
+    "id": "cn-zh-1-f1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "珠海市",
+    "month": 1,
+    "category": "fruits",
+    "name": {
+      "zh": "橙子",
+      "en": "Orange"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄、果蒂翠绿的",
+      "en": "Choose orange skin with green calyx"
+    },
+    "recipe": {
+      "zh": "橙子茶",
+      "en": "Orange Tea"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 54.3,
+      "carbohydrate": 13.7,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.3,
+        "a": 21.9,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.4
+      }
+    }
+  },
+  {
+    "id": "cn-zh-1-m1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "珠海市",
+    "month": 1,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽鲜红、有光泽的",
+      "en": "Choose bright red meat with sheen"
+    },
+    "recipe": {
+      "zh": "红烧牛肉",
+      "en": "Braised Beef"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 196.4,
+      "carbohydrate": 0,
+      "protein": 19.9,
+      "fat": 11.4,
+      "vitamins": {
+        "c": 0,
+        "a": 9.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-zh-1-s1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "珠海市",
+    "month": 1,
+    "category": "staples",
+    "name": {
+      "zh": "小米",
+      "en": "Millet"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选粒色金黄、无虫蛀的",
+      "en": "Choose golden grains without insects"
+    },
+    "recipe": {
+      "zh": "小米粥",
+      "en": "Millet Congee"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 357.9,
+      "carbohydrate": 72.5,
+      "protein": 8.8,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-zh-1-sf1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "珠海市",
+    "month": 1,
+    "category": "seafood",
+    "name": {
+      "zh": "大虾",
+      "en": "Prawn"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选个体壮硕、体表完整无残缺的",
+      "en": "Choose robust shrimp with intact bodies"
+    },
+    "recipe": {
+      "zh": "蒜蓉蒸虾",
+      "en": "Steamed Shrimp with Garlic"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 99.9,
+      "carbohydrate": 0.9,
+      "protein": 17.3,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 2.2,
+        "a": 18.2,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.9,
+        "k": 1,
+        "b12": 2.8
+      }
+    }
+  },
+  {
+    "id": "cn-zh-5-v1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "珠海市",
+    "month": 5,
+    "category": "vegetables",
+    "name": {
+      "zh": "黄瓜",
+      "en": "Cucumber"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果身坚硬、色泽翠绿的",
+      "en": "Choose firm, bright green cucumbers"
+    },
+    "recipe": {
+      "zh": "拍黄瓜",
+      "en": "Smashed Cucumber"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.7,
+      "carbohydrate": 6.5,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 22.5,
+        "a": 93.3,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 46.1
+      }
+    }
+  },
+  {
+    "id": "cn-zh-5-f1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "珠海市",
+    "month": 5,
+    "category": "fruits",
+    "name": {
+      "zh": "荔枝",
+      "en": "Lychee"
+    },
+    "season": {
+      "zh": "初夏",
+      "en": "Early Summer"
+    },
+    "tip": {
+      "zh": "选果皮红艳、果刺清晰的",
+      "en": "Choose fruit with bright red skin and clear spikes"
+    },
+    "recipe": {
+      "zh": "荔枝肉",
+      "en": "Lychee Meat"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 55.8,
+      "carbohydrate": 13.9,
+      "protein": 1.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.6,
+        "a": 18.7,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.2
+      }
+    }
+  },
+  {
+    "id": "cn-zh-5-m1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "珠海市",
+    "month": 5,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选皮薄、肉嫩、无异味的",
+      "en": "Choose thin-skinned, tender meat without odor"
+    },
+    "recipe": {
+      "zh": "白切鸡",
+      "en": "White-cut Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 215,
+      "carbohydrate": 0,
+      "protein": 20.8,
+      "fat": 10.9,
+      "vitamins": {
+        "c": 0,
+        "a": 9.9,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.1,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-zh-5-s1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "珠海市",
+    "month": 5,
+    "category": "staples",
+    "name": {
+      "zh": "米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米质晶莹、无碎米的",
+      "en": "Choose crystal-like grains with no broken rice"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 361.2,
+      "carbohydrate": 70.5,
+      "protein": 8.3,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.8
+      }
+    }
+  },
+  {
+    "id": "cn-zh-5-sf1",
+    "country": "cn",
+    "province": "广东省",
+    "city": "珠海市",
+    "month": 5,
+    "category": "seafood",
+    "name": {
+      "zh": "蚝",
+      "en": "Oyster"
+    },
+    "season": {
+      "zh": "春末夏初",
+      "en": "Late Spring to Early Summer"
+    },
+    "tip": {
+      "zh": "选贝壳紧闭、个体饱满的",
+      "en": "Choose closed shells with plump bodies"
+    },
+    "recipe": {
+      "zh": "蒜蓉蒸蚝",
+      "en": "Steamed Oysters with Garlic"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 97.6,
+      "carbohydrate": 1.1,
+      "protein": 18.7,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 2,
+        "a": 20.6,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1.1,
+        "k": 1,
+        "b12": 2.9
+      }
+    }
+  },
+  {
+    "id": "cn-cd-3-v1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 3,
+    "category": "vegetables",
+    "name": {
+      "zh": "莴笋",
+      "en": "Lettuce Stem"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选茎秆粗壮、无空心的",
+      "en": "Choose thick stems without hollow centers"
+    },
+    "recipe": {
+      "zh": "清炒莴笋",
+      "en": "Stir-fried Lettuce Stem"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 29.3,
+      "carbohydrate": 6.4,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.7,
+        "a": 106.8,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 51
+      }
+    }
+  },
+  {
+    "id": "cn-cd-3-f1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 3,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选色泽均匀、果蒂翠绿的",
+      "en": "Choose evenly colored fruit with green calyx"
+    },
+    "recipe": {
+      "zh": "草莓酸奶",
+      "en": "Strawberry Yogurt"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 65.1,
+      "carbohydrate": 13.5,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.7,
+        "a": 21.9,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.6
+      }
+    }
+  },
+  {
+    "id": "cn-cd-3-m1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 3,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽鲜红、有光泽的",
+      "en": "Choose bright red meat with sheen"
+    },
+    "recipe": {
+      "zh": "水煮牛肉",
+      "en": "Boiled Beef in Chili Oil"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 201.5,
+      "carbohydrate": 0,
+      "protein": 20,
+      "fat": 12.6,
+      "vitamins": {
+        "c": 0,
+        "a": 10.7,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.1,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "cn-cd-3-s1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 3,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "夏收（返青期）",
+      "en": "Summer Harvest (Greening Stage)"
+    },
+    "tip": {
+      "zh": "选麦粒饱满、无霉变的",
+      "en": "Choose full grains without mold"
+    },
+    "recipe": {
+      "zh": "挂面",
+      "en": "Dried Noodles"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 379,
+      "carbohydrate": 68.1,
+      "protein": 7.5,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.8
+      }
+    }
+  },
+  {
+    "id": "cn-cd-3-sf1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 3,
+    "category": "seafood",
+    "name": {
+      "zh": "鲫鱼",
+      "en": "Crucian Carp"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "鲫鱼豆腐汤",
+      "en": "Crucian Carp Tofu Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 105.8,
+      "carbohydrate": 1.1,
+      "protein": 18.3,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 1.9,
+        "a": 20.4,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 0.9,
+        "b12": 2.8
+      }
+    }
+  },
+  {
+    "id": "cn-cd-6-v1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 6,
+    "category": "vegetables",
+    "name": {
+      "zh": "冬瓜",
+      "en": "Winter Melon"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选形状端正、表皮翠绿无裂纹的",
+      "en": "Choose well-shaped melon with green rind and no cracks"
+    },
+    "recipe": {
+      "zh": "冬瓜排骨汤",
+      "en": "Winter Melon Pork Rib Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.1,
+      "carbohydrate": 6.3,
+      "protein": 1.8,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 26.1,
+        "a": 101.7,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 53.5
+      }
+    }
+  },
+  {
+    "id": "cn-cd-6-f1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 6,
+    "category": "fruits",
+    "name": {
+      "zh": "西瓜",
+      "en": "Watermelon"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选花纹清晰、敲击沙响的",
+      "en": "Choose clear stripes with hollow sound when tapped"
+    },
+    "recipe": {
+      "zh": "西瓜冰沙",
+      "en": "Watermelon Smoothie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 62.7,
+      "carbohydrate": 15.3,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 28,
+        "a": 19.7,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.1
+      }
+    }
+  },
+  {
+    "id": "cn-cd-6-m1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 6,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选皮薄、肉嫩、无异味的",
+      "en": "Choose thin-skinned, tender meat without odor"
+    },
+    "recipe": {
+      "zh": "白切鸡",
+      "en": "White-cut Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 210.1,
+      "carbohydrate": 0,
+      "protein": 18.7,
+      "fat": 13,
+      "vitamins": {
+        "c": 0,
+        "a": 9.3,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "cn-cd-6-s1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 6,
+    "category": "staples",
+    "name": {
+      "zh": "米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米质晶莹、无碎米的",
+      "en": "Choose crystal-like grains with no broken rice"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 326.9,
+      "carbohydrate": 67.5,
+      "protein": 8.3,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-cd-6-sf1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 6,
+    "category": "seafood",
+    "name": {
+      "zh": "虾",
+      "en": "Shrimp"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选个体壮硕、体表完整无残缺的",
+      "en": "Choose robust shrimp with intact bodies"
+    },
+    "recipe": {
+      "zh": "蒜蓉蒸虾",
+      "en": "Steamed Shrimp with Garlic"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 91.5,
+      "carbohydrate": 1.1,
+      "protein": 19.5,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 1.9,
+        "a": 19.4,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.9,
+        "k": 0.9,
+        "b12": 3.1
+      }
+    }
+  },
+  {
+    "id": "cn-cd-9-v1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 9,
+    "category": "vegetables",
+    "name": {
+      "zh": "南瓜",
+      "en": "Pumpkin"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果皮橙黄、蒂部干燥的",
+      "en": "Choose orange rind with dry stem"
+    },
+    "recipe": {
+      "zh": "蒸南瓜",
+      "en": "Steamed Pumpkin"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.9,
+      "carbohydrate": 6.2,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.7,
+        "a": 96.7,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 50.8
+      }
+    }
+  },
+  {
+    "id": "cn-cd-9-f1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 9,
+    "category": "fruits",
+    "name": {
+      "zh": "苹果",
+      "en": "Apple"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果面光滑、果蒂紧实的",
+      "en": "Choose smooth surface with tight stem"
+    },
+    "recipe": {
+      "zh": "糖葫芦",
+      "en": "Candied Apple"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 54.3,
+      "carbohydrate": 15.3,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32,
+        "a": 18.1,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.9
+      }
+    }
+  },
+  {
+    "id": "cn-cd-9-m1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 9,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选肉色淡红、无膻味的",
+      "en": "Choose light red meat without gamy smell"
+    },
+    "recipe": {
+      "zh": "萝卜炖羊肉",
+      "en": "Radish Stewed Mutton"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 215.8,
+      "carbohydrate": 0,
+      "protein": 19,
+      "fat": 12.3,
+      "vitamins": {
+        "c": 0,
+        "a": 10.1,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-cd-9-s1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 9,
+    "category": "staples",
+    "name": {
+      "zh": "玉米",
+      "en": "Corn"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选果穗饱满、粒色金黄的",
+      "en": "Choose full cobs with golden kernels"
+    },
+    "recipe": {
+      "zh": "糯玉米",
+      "en": "Glutinous Corn"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 354.5,
+      "carbohydrate": 68.2,
+      "protein": 8.3,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-cd-9-sf1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 9,
+    "category": "seafood",
+    "name": {
+      "zh": "鲤鱼",
+      "en": "Carp"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "清蒸鲤鱼",
+      "en": "Steamed Carp"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 92.3,
+      "carbohydrate": 0.9,
+      "protein": 18,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 2.2,
+        "a": 21.8,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1,
+        "b12": 3
+      }
+    }
+  },
+  {
+    "id": "cn-cd-12-v1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 12,
+    "category": "vegetables",
+    "name": {
+      "zh": "白菜",
+      "en": "Chinese Cabbage"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选球体紧实、叶色翠绿的",
+      "en": "Choose compact heads with green leaves"
+    },
+    "recipe": {
+      "zh": "白菜炖豆腐",
+      "en": "Cabbage Stewed Tofu"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 29.4,
+      "carbohydrate": 6.6,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.9,
+        "a": 95.5,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 46.9
+      }
+    }
+  },
+  {
+    "id": "cn-cd-12-f1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 12,
+    "category": "fruits",
+    "name": {
+      "zh": "橙子",
+      "en": "Orange"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄、果蒂翠绿的",
+      "en": "Choose orange skin with green calyx"
+    },
+    "recipe": {
+      "zh": "橙子茶",
+      "en": "Orange Tea"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 57.8,
+      "carbohydrate": 15.5,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.9,
+        "a": 18.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.7
+      }
+    }
+  },
+  {
+    "id": "cn-cd-12-m1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 12,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽鲜红、有光泽的",
+      "en": "Choose bright red meat with sheen"
+    },
+    "recipe": {
+      "zh": "红烧牛肉",
+      "en": "Braised Beef"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 184.3,
+      "carbohydrate": 0,
+      "protein": 20.9,
+      "fat": 13.1,
+      "vitamins": {
+        "c": 0,
+        "a": 10.1,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.1,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-cd-12-s1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 12,
+    "category": "staples",
+    "name": {
+      "zh": "小米",
+      "en": "Millet"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选粒色金黄、无虫蛀的",
+      "en": "Choose golden grains without insects"
+    },
+    "recipe": {
+      "zh": "小米粥",
+      "en": "Millet Congee"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 367.7,
+      "carbohydrate": 79.3,
+      "protein": 7.5,
+      "fat": 2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-cd-12-sf1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "成都市",
+    "month": 12,
+    "category": "seafood",
+    "name": {
+      "zh": "草鱼",
+      "en": "Grass Carp"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "清蒸草鱼",
+      "en": "Steamed Grass Carp"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 107.3,
+      "carbohydrate": 1,
+      "protein": 16.9,
+      "fat": 2,
+      "vitamins": {
+        "c": 1.9,
+        "a": 19.9,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1,
+        "b12": 3.2
+      }
+    }
+  },
+  {
+    "id": "cn-my-4-v1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "绵阳市",
+    "month": 4,
+    "category": "vegetables",
+    "name": {
+      "zh": "莴笋",
+      "en": "Lettuce Stem"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选茎秆粗壮、无空心的",
+      "en": "Choose thick stems without hollow centers"
+    },
+    "recipe": {
+      "zh": "清炒莴笋",
+      "en": "Stir-fried Lettuce Stem"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 32.6,
+      "carbohydrate": 6.2,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25.3,
+        "a": 101.3,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 46.7
+      }
+    }
+  },
+  {
+    "id": "cn-my-4-f1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "绵阳市",
+    "month": 4,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选色泽均匀、果蒂翠绿的",
+      "en": "Choose evenly colored fruit with green calyx"
+    },
+    "recipe": {
+      "zh": "草莓酸奶",
+      "en": "Strawberry Yogurt"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 59,
+      "carbohydrate": 13.5,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 31.6,
+        "a": 19.7,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.5
+      }
+    }
+  },
+  {
+    "id": "cn-my-4-m1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "绵阳市",
+    "month": 4,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽鲜红、有光泽的",
+      "en": "Choose bright red meat with sheen"
+    },
+    "recipe": {
+      "zh": "水煮牛肉",
+      "en": "Boiled Beef in Chili Oil"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 182.7,
+      "carbohydrate": 0,
+      "protein": 21.4,
+      "fat": 11.2,
+      "vitamins": {
+        "c": 0,
+        "a": 9.2,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 2.2
+      }
+    }
+  },
+  {
+    "id": "cn-my-4-s1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "绵阳市",
+    "month": 4,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "夏收（返青期）",
+      "en": "Summer Harvest (Greening Stage)"
+    },
+    "tip": {
+      "zh": "选麦粒饱满、无霉变的",
+      "en": "Choose full grains without mold"
+    },
+    "recipe": {
+      "zh": "挂面",
+      "en": "Dried Noodles"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 335,
+      "carbohydrate": 71.9,
+      "protein": 8.1,
+      "fat": 2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-my-4-sf1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "绵阳市",
+    "month": 4,
+    "category": "seafood",
+    "name": {
+      "zh": "鲫鱼",
+      "en": "Crucian Carp"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "鲫鱼豆腐汤",
+      "en": "Crucian Carp Tofu Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 93.4,
+      "carbohydrate": 1.1,
+      "protein": 18,
+      "fat": 2,
+      "vitamins": {
+        "c": 2,
+        "a": 22,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.9,
+        "k": 1,
+        "b12": 3
+      }
+    }
+  },
+  {
+    "id": "cn-my-8-v1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "绵阳市",
+    "month": 8,
+    "category": "vegetables",
+    "name": {
+      "zh": "黄瓜",
+      "en": "Cucumber"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果身坚硬、色泽翠绿的",
+      "en": "Choose firm, bright green cucumbers"
+    },
+    "recipe": {
+      "zh": "拍黄瓜",
+      "en": "Smashed Cucumber"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 27.2,
+      "carbohydrate": 6.4,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 26.7,
+        "a": 109.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 54.4
+      }
+    }
+  },
+  {
+    "id": "cn-my-8-f1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "绵阳市",
+    "month": 8,
+    "category": "fruits",
+    "name": {
+      "zh": "西瓜",
+      "en": "Watermelon"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选花纹清晰、敲击沙响的",
+      "en": "Choose clear stripes with hollow sound when tapped"
+    },
+    "recipe": {
+      "zh": "西瓜冰沙",
+      "en": "Watermelon Smoothie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 58.4,
+      "carbohydrate": 16,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.8,
+        "a": 19.8,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 9.8
+      }
+    }
+  },
+  {
+    "id": "cn-my-8-m1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "绵阳市",
+    "month": 8,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选皮薄、肉嫩、无异味的",
+      "en": "Choose thin-skinned, tender meat without odor"
+    },
+    "recipe": {
+      "zh": "白切鸡",
+      "en": "White-cut Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 181.1,
+      "carbohydrate": 0,
+      "protein": 19.1,
+      "fat": 13,
+      "vitamins": {
+        "c": 0,
+        "a": 10.1,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-my-8-s1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "绵阳市",
+    "month": 8,
+    "category": "staples",
+    "name": {
+      "zh": "米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米质晶莹、无碎米的",
+      "en": "Choose crystal-like grains with no broken rice"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 359.2,
+      "carbohydrate": 77.9,
+      "protein": 7.5,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-my-8-sf1",
+    "country": "cn",
+    "province": "四川省",
+    "city": "绵阳市",
+    "month": 8,
+    "category": "seafood",
+    "name": {
+      "zh": "虾",
+      "en": "Shrimp"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选个体壮硕、体表完整无残缺的",
+      "en": "Choose robust shrimp with intact bodies"
+    },
+    "recipe": {
+      "zh": "蒜蓉蒸虾",
+      "en": "Steamed Shrimp with Garlic"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 91.8,
+      "carbohydrate": 0.9,
+      "protein": 18,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 2.1,
+        "a": 18.7,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1.1,
+        "b12": 2.7
+      }
+    }
+  },
+  {
+    "id": "cn-bj-5-v1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 5,
+    "category": "vegetables",
+    "name": {
+      "zh": "黄瓜",
+      "en": "Cucumber"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果身坚硬、色泽翠绿的",
+      "en": "Choose firm, bright green cucumbers"
+    },
+    "recipe": {
+      "zh": "拍黄瓜",
+      "en": "Smashed Cucumber"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.5,
+      "carbohydrate": 6.1,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.1,
+        "a": 104.6,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 50.4
+      }
+    }
+  },
+  {
+    "id": "cn-bj-5-f1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 5,
+    "category": "fruits",
+    "name": {
+      "zh": "樱桃",
+      "en": "Cherry"
+    },
+    "season": {
+      "zh": "初夏",
+      "en": "Early Summer"
+    },
+    "tip": {
+      "zh": "选果色鲜艳、果梗新鲜的",
+      "en": "Choose bright color with fresh stems"
+    },
+    "recipe": {
+      "zh": "樱桃酒",
+      "en": "Cherry Wine"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 63.4,
+      "carbohydrate": 15.6,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 31.4,
+        "a": 18.9,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 9.8
+      }
+    }
+  },
+  {
+    "id": "cn-bj-5-m1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 5,
+    "category": "meats",
+    "name": {
+      "zh": "鸭肉",
+      "en": "Duck Meat"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选皮薄肉厚、无异味的",
+      "en": "Choose thin skin, thick flesh, no odor"
+    },
+    "recipe": {
+      "zh": "北京烤鸭",
+      "en": "Peking Roast Duck"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 210.5,
+      "carbohydrate": 0,
+      "protein": 21,
+      "fat": 12.3,
+      "vitamins": {
+        "c": 0,
+        "a": 9.8,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-bj-5-s1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 5,
+    "category": "staples",
+    "name": {
+      "zh": "面粉",
+      "en": "Wheat Flour"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选细腻无杂质的特制面粉",
+      "en": "Choose fine, impurity-free flour"
+    },
+    "recipe": {
+      "zh": "馒头",
+      "en": "Steamed Buns"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 328.7,
+      "carbohydrate": 69.8,
+      "protein": 8.1,
+      "fat": 2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-bj-5-sf1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 5,
+    "category": "seafood",
+    "name": {
+      "zh": "鲫鱼",
+      "en": "Crucian Carp"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "鲫鱼豆腐汤",
+      "en": "Crucian Carp Tofu Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 107.3,
+      "carbohydrate": 1.1,
+      "protein": 17.4,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 2,
+        "a": 20.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1.1,
+        "b12": 3
+      }
+    }
+  },
+  {
+    "id": "cn-bj-9-v1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 9,
+    "category": "vegetables",
+    "name": {
+      "zh": "白菜",
+      "en": "Chinese Cabbage"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选球体紧实、叶色翠绿的",
+      "en": "Choose compact heads with green leaves"
+    },
+    "recipe": {
+      "zh": "白菜炖豆腐",
+      "en": "Cabbage Stewed Tofu"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.3,
+      "carbohydrate": 5.7,
+      "protein": 2.2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 26.9,
+        "a": 105.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 48.8
+      }
+    }
+  },
+  {
+    "id": "cn-bj-9-f1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 9,
+    "category": "fruits",
+    "name": {
+      "zh": "梨",
+      "en": "Pear"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果形匀称、果皮光滑的",
+      "en": "Choose uniform shape with smooth skin"
+    },
+    "recipe": {
+      "zh": "冰糖炖梨",
+      "en": "Rock Sugar Stewed Pear"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 57,
+      "carbohydrate": 16.2,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 31.3,
+        "a": 21.4,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.9
+      }
+    }
+  },
+  {
+    "id": "cn-bj-9-m1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 9,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选肉色淡红、新鲜的",
+      "en": "Choose light red, fresh meat"
+    },
+    "recipe": {
+      "zh": "羊肉汤",
+      "en": "Mutton Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 215.2,
+      "carbohydrate": 0,
+      "protein": 21.9,
+      "fat": 11.6,
+      "vitamins": {
+        "c": 0,
+        "a": 9,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-bj-9-s1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 9,
+    "category": "staples",
+    "name": {
+      "zh": "小米",
+      "en": "Millet"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选粒色金黄、无虫蛀的",
+      "en": "Choose golden grains without insects"
+    },
+    "recipe": {
+      "zh": "小米粥",
+      "en": "Millet Congee"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 340.1,
+      "carbohydrate": 78.1,
+      "protein": 8.5,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "cn-bj-9-sf1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 9,
+    "category": "seafood",
+    "name": {
+      "zh": "鲤鱼",
+      "en": "Carp"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "红烧鲤鱼",
+      "en": "Braised Carp"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 102.5,
+      "carbohydrate": 1.1,
+      "protein": 18.5,
+      "fat": 2,
+      "vitamins": {
+        "c": 1.9,
+        "a": 18.2,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.9,
+        "k": 1.1,
+        "b12": 3
+      }
+    }
+  },
+  {
+    "id": "cn-bj-1-v1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 1,
+    "category": "vegetables",
+    "name": {
+      "zh": "白菜",
+      "en": "Chinese Cabbage"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选球体紧实、叶色翠绿的",
+      "en": "Choose compact heads with green leaves"
+    },
+    "recipe": {
+      "zh": "白菜炖豆腐",
+      "en": "Cabbage Stewed Tofu"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.2,
+      "carbohydrate": 6.4,
+      "protein": 1.8,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.4,
+        "a": 98.2,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 51.9
+      }
+    }
+  },
+  {
+    "id": "cn-bj-1-f1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 1,
+    "category": "fruits",
+    "name": {
+      "zh": "苹果",
+      "en": "Apple"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果面紧实、色泽鲜艳的",
+      "en": "Choose firm surface with bright color"
+    },
+    "recipe": {
+      "zh": "烤苹果",
+      "en": "Baked Apple"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 61.2,
+      "carbohydrate": 14.3,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.6,
+        "a": 20.6,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.3
+      }
+    }
+  },
+  {
+    "id": "cn-bj-1-m1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 1,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选肉色淡红、新鲜的",
+      "en": "Choose light red, fresh meat"
+    },
+    "recipe": {
+      "zh": "涮羊肉",
+      "en": "Hot Pot Mutton"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 194,
+      "carbohydrate": 0,
+      "protein": 19.1,
+      "fat": 12.9,
+      "vitamins": {
+        "c": 0,
+        "a": 9.9,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "cn-bj-1-s1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 1,
+    "category": "staples",
+    "name": {
+      "zh": "小米",
+      "en": "Millet"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选粒色金黄、无虫蛀的",
+      "en": "Choose golden grains without insects"
+    },
+    "recipe": {
+      "zh": "小米粥",
+      "en": "Millet Congee"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 321.3,
+      "carbohydrate": 69.6,
+      "protein": 8.7,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.2
+      }
+    }
+  },
+  {
+    "id": "cn-bj-1-sf1",
+    "country": "cn",
+    "province": "北京市",
+    "city": "北京市",
+    "month": 1,
+    "category": "seafood",
+    "name": {
+      "zh": "草鱼",
+      "en": "Grass Carp"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "清蒸草鱼",
+      "en": "Steamed Grass Carp"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 102.8,
+      "carbohydrate": 0.9,
+      "protein": 16.9,
+      "fat": 2,
+      "vitamins": {
+        "c": 2.1,
+        "a": 19.9,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 0.9,
+        "b12": 2.8
+      }
+    }
+  },
+  {
+    "id": "cn-sh-4-v1",
+    "country": "cn",
+    "province": "上海市",
+    "city": "上海市",
+    "month": 4,
+    "category": "vegetables",
+    "name": {
+      "zh": "莴笋",
+      "en": "Lettuce Stem"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选茎秆粗壮新鲜的",
+      "en": "Choose thick, fresh stems"
+    },
+    "recipe": {
+      "zh": "清炒莴笋",
+      "en": "Stir-fried Lettuce Stem"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 29.5,
+      "carbohydrate": 6.4,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.1,
+        "a": 98.2,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 49
+      }
+    }
+  },
+  {
+    "id": "cn-sh-4-f1",
+    "country": "cn",
+    "province": "上海市",
+    "city": "上海市",
+    "month": 4,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选色泽均匀、果蒂翠绿的",
+      "en": "Choose evenly colored fruit with green calyx"
+    },
+    "recipe": {
+      "zh": "草莓牛奶冰沙",
+      "en": "Strawberry Milk Smoothie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 62.3,
+      "carbohydrate": 14,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 28,
+        "a": 20.2,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.1
+      }
+    }
+  },
+  {
+    "id": "cn-sh-4-m1",
+    "country": "cn",
+    "province": "上海市",
+    "city": "上海市",
+    "month": 4,
+    "category": "meats",
+    "name": {
+      "zh": "鲫鱼",
+      "en": "Crucian Carp"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "鲫鱼豆腐汤",
+      "en": "Crucian Carp Tofu Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 184.6,
+      "carbohydrate": 0,
+      "protein": 19.2,
+      "fat": 13.2,
+      "vitamins": {
+        "c": 0,
+        "a": 10.2,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-sh-4-s1",
+    "country": "cn",
+    "province": "上海市",
+    "city": "上海市",
+    "month": 4,
+    "category": "staples",
+    "name": {
+      "zh": "糯米",
+      "en": "Glutinous Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒白如玉、粘性强的",
+      "en": "Choose white jade-like grains with strong stickiness"
+    },
+    "recipe": {
+      "zh": "糯米鸡",
+      "en": "Glutinous Rice Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 346,
+      "carbohydrate": 78.9,
+      "protein": 7.2,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.8
+      }
+    }
+  },
+  {
+    "id": "cn-sh-4-sf1",
+    "country": "cn",
+    "province": "上海市",
+    "city": "上海市",
+    "month": 4,
+    "category": "seafood",
+    "name": {
+      "zh": "蚝",
+      "en": "Oyster"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选贝壳紧闭、个体饱满的",
+      "en": "Choose closed shells with plump bodies"
+    },
+    "recipe": {
+      "zh": "蒜蓉蒸蚝",
+      "en": "Steamed Oysters with Garlic"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 109.8,
+      "carbohydrate": 1,
+      "protein": 18.3,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 1.9,
+        "a": 19,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 0.9,
+        "b12": 3.1
+      }
+    }
+  },
+  {
+    "id": "cn-sh-10-v1",
+    "country": "cn",
+    "province": "上海市",
+    "city": "上海市",
+    "month": 10,
+    "category": "vegetables",
+    "name": {
+      "zh": "芋艸",
+      "en": "Taro"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选个头大、表皮无损伤的",
+      "en": "Choose large tubers with undamaged skin"
+    },
+    "recipe": {
+      "zh": "芋艸排骨汤",
+      "en": "Taro Pork Rib Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 27.9,
+      "carbohydrate": 6,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 22.6,
+        "a": 105.7,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 53.1
+      }
+    }
+  },
+  {
+    "id": "cn-sh-10-f1",
+    "country": "cn",
+    "province": "上海市",
+    "city": "上海市",
+    "month": 10,
+    "category": "fruits",
+    "name": {
+      "zh": "橘子",
+      "en": "Tangerine"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄、果蒂翠绿的",
+      "en": "Choose orange skin with green calyx"
+    },
+    "recipe": {
+      "zh": "橘子茶",
+      "en": "Tangerine Tea"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 55.4,
+      "carbohydrate": 16.1,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.4,
+        "a": 20.2,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 11
+      }
+    }
+  },
+  {
+    "id": "cn-sh-10-m1",
+    "country": "cn",
+    "province": "上海市",
+    "city": "上海市",
+    "month": 10,
+    "category": "meats",
+    "name": {
+      "zh": "大闸蟹",
+      "en": "Hairy Crab"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选背壳青、肚脐凸的肥蟹",
+      "en": "Choose green-backed crabs with protruding umbilicus"
+    },
+    "recipe": {
+      "zh": "蒸大闸蟹",
+      "en": "Steamed Hairy Crab"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 182.9,
+      "carbohydrate": 0,
+      "protein": 19.5,
+      "fat": 12,
+      "vitamins": {
+        "c": 0,
+        "a": 9.8,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-sh-10-s1",
+    "country": "cn",
+    "province": "上海市",
+    "city": "上海市",
+    "month": 10,
+    "category": "staples",
+    "name": {
+      "zh": "米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米质晶莹、香气浓的",
+      "en": "Choose crystal grains with strong aroma"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 373.8,
+      "carbohydrate": 82.3,
+      "protein": 8.1,
+      "fat": 2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "cn-sh-10-sf1",
+    "country": "cn",
+    "province": "上海市",
+    "city": "上海市",
+    "month": 10,
+    "category": "seafood",
+    "name": {
+      "zh": "黄鱼",
+      "en": "Yellow Croaker"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "清蒸黄鱼",
+      "en": "Steamed Yellow Croaker"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 108.5,
+      "carbohydrate": 0.9,
+      "protein": 17,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 2.2,
+        "a": 21.8,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1.1,
+        "k": 1,
+        "b12": 3
+      }
+    }
+  }
+]

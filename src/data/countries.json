@@ -1,0 +1,10 @@
+[
+  { "code": "cn", "name": { "zh": "中国", "en": "China" }, "hemisphere": "north" },
+  { "code": "us", "name": { "zh": "美国", "en": "United States" }, "hemisphere": "north" },
+  { "code": "jp", "name": { "zh": "日本", "en": "Japan" }, "hemisphere": "north" },
+  { "code": "gb", "name": { "zh": "英国", "en": "United Kingdom" }, "hemisphere": "north" },
+  { "code": "au", "name": { "zh": "澳大利亚", "en": "Australia" }, "hemisphere": "south" },
+  { "code": "kr", "name": { "zh": "韩国", "en": "South Korea" }, "hemisphere": "north" },
+  { "code": "fr", "name": { "zh": "法国", "en": "France" }, "hemisphere": "north" },
+  { "code": "br", "name": { "zh": "巴西", "en": "Brazil" }, "hemisphere": "south" }
+]

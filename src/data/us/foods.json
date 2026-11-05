@@ -1,0 +1,944 @@
+[
+  {
+    "id": "us-ca-3-v1",
+    "country": "us",
+    "province": "加利福尼亚州",
+    "city": "洛杉矶",
+    "month": 3,
+    "category": "vegetables",
+    "name": {
+      "zh": "芦笋",
+      "en": "Asparagus"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选茎秆挺直、顶端紧闭的",
+      "en": "Choose straight stalks with tightly closed tips"
+    },
+    "recipe": {
+      "zh": "烤芦笋",
+      "en": "Grilled Asparagus"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 27.3,
+      "carbohydrate": 6.1,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.6,
+        "a": 95.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 54
+      }
+    }
+  },
+  {
+    "id": "us-ca-3-f1",
+    "country": "us",
+    "province": "加利福尼亚州",
+    "city": "洛杉矶",
+    "month": 3,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选色泽鲜红、果蒂翠绿的",
+      "en": "Choose bright red fruit with green calyx"
+    },
+    "recipe": {
+      "zh": "草莓沙拉",
+      "en": "Strawberry Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 56.5,
+      "carbohydrate": 13.9,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 28.1,
+        "a": 20,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.5
+      }
+    }
+  },
+  {
+    "id": "us-ca-3-m1",
+    "country": "us",
+    "province": "加利福尼亚州",
+    "city": "洛杉矶",
+    "month": 3,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉色泛白、弹性好的",
+      "en": "Choose pale meat with good elasticity"
+    },
+    "recipe": {
+      "zh": "烤鸡",
+      "en": "Roasted Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 194.7,
+      "carbohydrate": 0,
+      "protein": 19.3,
+      "fat": 12.4,
+      "vitamins": {
+        "c": 0,
+        "a": 10.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 2.2
+      }
+    }
+  },
+  {
+    "id": "us-ca-3-s1",
+    "country": "us",
+    "province": "加利福尼亚州",
+    "city": "洛杉矶",
+    "month": 3,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "夏收",
+      "en": "Summer Harvest"
+    },
+    "tip": {
+      "zh": "选麦粒饱满硬质的",
+      "en": "Choose full, hard grains"
+    },
+    "recipe": {
+      "zh": "全麦面包",
+      "en": "Whole Wheat Bread"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 336.8,
+      "carbohydrate": 82,
+      "protein": 8.1,
+      "fat": 2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "us-ca-9-v1",
+    "country": "us",
+    "province": "加利福尼亚州",
+    "city": "旧金山",
+    "month": 9,
+    "category": "vegetables",
+    "name": {
+      "zh": "西葫芦",
+      "en": "Zucchini"
+    },
+    "season": {
+      "zh": "夏末秋初",
+      "en": "Late Summer to Early Autumn"
+    },
+    "tip": {
+      "zh": "选表皮光滑、个头中等的",
+      "en": "Choose smooth, medium-sized zucchini"
+    },
+    "recipe": {
+      "zh": "炒西葫芦",
+      "en": "Sautéed Zucchini"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.7,
+      "carbohydrate": 6.2,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27,
+        "a": 101.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 52
+      }
+    }
+  },
+  {
+    "id": "us-ca-9-f1",
+    "country": "us",
+    "province": "加利福尼亚州",
+    "city": "旧金山",
+    "month": 9,
+    "category": "fruits",
+    "name": {
+      "zh": "葡萄",
+      "en": "Grape"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果粒紧实、果蒂干燥的",
+      "en": "Choose firm berries with dry stems"
+    },
+    "recipe": {
+      "zh": "葡萄派",
+      "en": "Grape Pie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 62.9,
+      "carbohydrate": 14.2,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 30.5,
+        "a": 21.7,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 9.6
+      }
+    }
+  },
+  {
+    "id": "us-ca-9-m1",
+    "country": "us",
+    "province": "加利福尼亚州",
+    "city": "旧金山",
+    "month": 9,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽鲜红、大理石花纹适中的",
+      "en": "Choose bright red meat with moderate marbling"
+    },
+    "recipe": {
+      "zh": "牛排",
+      "en": "Steak"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 181.1,
+      "carbohydrate": 0,
+      "protein": 18.4,
+      "fat": 12.9,
+      "vitamins": {
+        "c": 0,
+        "a": 10.8,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "us-ca-9-s1",
+    "country": "us",
+    "province": "加利福尼亚州",
+    "city": "旧金山",
+    "month": 9,
+    "category": "staples",
+    "name": {
+      "zh": "藜麦",
+      "en": "Quinoa"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选粒色均匀、无杂质的",
+      "en": "Choose uniform grains without impurities"
+    },
+    "recipe": {
+      "zh": "藜麦沙拉",
+      "en": "Quinoa Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 353.8,
+      "carbohydrate": 68.9,
+      "protein": 7.4,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.8
+      }
+    }
+  },
+  {
+    "id": "us-ny-5-v1",
+    "country": "us",
+    "province": "纽约州",
+    "city": "纽约市",
+    "month": 5,
+    "category": "vegetables",
+    "name": {
+      "zh": "豌豆",
+      "en": "Peas"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选荚色翠绿、饱满的",
+      "en": "Choose green, plump pods"
+    },
+    "recipe": {
+      "zh": "炒豌豆",
+      "en": "Sautéed Peas"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 32.8,
+      "carbohydrate": 5.9,
+      "protein": 2.2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.3,
+        "a": 96.3,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 45.1
+      }
+    }
+  },
+  {
+    "id": "us-ny-5-f1",
+    "country": "us",
+    "province": "纽约州",
+    "city": "纽约市",
+    "month": 5,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选色泽均匀、果蒂鲜绿的",
+      "en": "Choose even color with fresh green calyx"
+    },
+    "recipe": {
+      "zh": "草莓蛋糕",
+      "en": "Strawberry Cake"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 57.8,
+      "carbohydrate": 13.8,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.1,
+        "a": 20.8,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.2
+      }
+    }
+  },
+  {
+    "id": "us-ny-5-m1",
+    "country": "us",
+    "province": "纽约州",
+    "city": "纽约市",
+    "month": 5,
+    "category": "meats",
+    "name": {
+      "zh": "猪肉",
+      "en": "Pork"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽红润、肥瘦相间的",
+      "en": "Choose bright red meat with balanced fat"
+    },
+    "recipe": {
+      "zh": "排骨",
+      "en": "Pork Ribs"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 194.3,
+      "carbohydrate": 0,
+      "protein": 18.7,
+      "fat": 11.6,
+      "vitamins": {
+        "c": 0,
+        "a": 10.7,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "us-ny-5-s1",
+    "country": "us",
+    "province": "纽约州",
+    "city": "纽约市",
+    "month": 5,
+    "category": "staples",
+    "name": {
+      "zh": "玉米",
+      "en": "Corn"
+    },
+    "season": {
+      "zh": "夏初（种植期）",
+      "en": "Early Summer (Planting)"
+    },
+    "tip": {
+      "zh": "选果穗饱满的新种子",
+      "en": "Choose full cobs of new seed"
+    },
+    "recipe": {
+      "zh": "玉米面包",
+      "en": "Cornbread"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 362.7,
+      "carbohydrate": 74.1,
+      "protein": 7.4,
+      "fat": 2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "us-ny-10-v1",
+    "country": "us",
+    "province": "纽约州",
+    "city": "布法罗",
+    "month": 10,
+    "category": "vegetables",
+    "name": {
+      "zh": "南瓜",
+      "en": "Pumpkin"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果皮橙黄、蒂部干燥的",
+      "en": "Choose orange rind with dry stem"
+    },
+    "recipe": {
+      "zh": "南瓜饼",
+      "en": "Pumpkin Pie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.6,
+      "carbohydrate": 5.4,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 26.4,
+        "a": 93.9,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 51.1
+      }
+    }
+  },
+  {
+    "id": "us-ny-10-f1",
+    "country": "us",
+    "province": "纽约州",
+    "city": "布法罗",
+    "month": 10,
+    "category": "fruits",
+    "name": {
+      "zh": "苹果",
+      "en": "Apple"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果面紧实、色泽鲜艳的",
+      "en": "Choose firm surface with bright color"
+    },
+    "recipe": {
+      "zh": "苹果派",
+      "en": "Apple Pie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 54.2,
+      "carbohydrate": 14.9,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.3,
+        "a": 21,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10
+      }
+    }
+  },
+  {
+    "id": "us-ny-10-m1",
+    "country": "us",
+    "province": "纽约州",
+    "city": "布法罗",
+    "month": 10,
+    "category": "meats",
+    "name": {
+      "zh": "火鸡",
+      "en": "Turkey"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选肉色白净、新鲜的",
+      "en": "Choose white, fresh meat"
+    },
+    "recipe": {
+      "zh": "烤火鸡",
+      "en": "Roasted Turkey"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 180.1,
+      "carbohydrate": 0,
+      "protein": 18.3,
+      "fat": 12.5,
+      "vitamins": {
+        "c": 0,
+        "a": 10.4,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "us-ny-10-s1",
+    "country": "us",
+    "province": "纽约州",
+    "city": "布法罗",
+    "month": 10,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选麦粒干燥饱满的",
+      "en": "Choose dry, full grains"
+    },
+    "recipe": {
+      "zh": "吐司",
+      "en": "Toast"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 362.4,
+      "carbohydrate": 76.1,
+      "protein": 7.4,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "us-tx-4-v1",
+    "country": "us",
+    "province": "德克萨斯州",
+    "city": "休斯顿",
+    "month": 4,
+    "category": "vegetables",
+    "name": {
+      "zh": "番茄",
+      "en": "Tomato"
+    },
+    "season": {
+      "zh": "春末夏初",
+      "en": "Late Spring to Early Summer"
+    },
+    "tip": {
+      "zh": "选果实圆润、色泽鲜红的",
+      "en": "Choose round, bright red fruit"
+    },
+    "recipe": {
+      "zh": "番茄沙拉",
+      "en": "Tomato Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 32.1,
+      "carbohydrate": 5.4,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.5,
+        "a": 107.2,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 46.8
+      }
+    }
+  },
+  {
+    "id": "us-tx-4-f1",
+    "country": "us",
+    "province": "德克萨斯州",
+    "city": "休斯顿",
+    "month": 4,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选果形饱满、色泽鲜红的",
+      "en": "Choose plump, bright red fruit"
+    },
+    "recipe": {
+      "zh": "草莓冰淇淋",
+      "en": "Strawberry Ice Cream"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 55.6,
+      "carbohydrate": 15.5,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.9,
+        "a": 19,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.4
+      }
+    }
+  },
+  {
+    "id": "us-tx-4-m1",
+    "country": "us",
+    "province": "德克萨斯州",
+    "city": "休斯顿",
+    "month": 4,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实、色泽鲜红的",
+      "en": "Choose firm, bright red meat"
+    },
+    "recipe": {
+      "zh": "德州烤肉",
+      "en": "Texas BBQ"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 203.4,
+      "carbohydrate": 0,
+      "protein": 21.4,
+      "fat": 11.5,
+      "vitamins": {
+        "c": 0,
+        "a": 10.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.1,
+        "b12": 2.2
+      }
+    }
+  },
+  {
+    "id": "us-tx-4-s1",
+    "country": "us",
+    "province": "德克萨斯州",
+    "city": "休斯顿",
+    "month": 4,
+    "category": "staples",
+    "name": {
+      "zh": "玉米",
+      "en": "Corn"
+    },
+    "season": {
+      "zh": "春末（种植期）",
+      "en": "Late Spring (Planting)"
+    },
+    "tip": {
+      "zh": "选新鲜种子",
+      "en": "Choose fresh seed"
+    },
+    "recipe": {
+      "zh": "玉米饼",
+      "en": "Tortilla"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 356.7,
+      "carbohydrate": 81.6,
+      "protein": 7.7,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2.2
+      }
+    }
+  },
+  {
+    "id": "us-tx-11-v1",
+    "country": "us",
+    "province": "德克萨斯州",
+    "city": "奥斯汀",
+    "month": 11,
+    "category": "vegetables",
+    "name": {
+      "zh": "红薯",
+      "en": "Sweet Potato"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选个头大、表皮无损伤的",
+      "en": "Choose large tubers with undamaged skin"
+    },
+    "recipe": {
+      "zh": "烤红薯",
+      "en": "Baked Sweet Potato"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 33,
+      "carbohydrate": 6.2,
+      "protein": 2.2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.4,
+        "a": 100.4,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 50
+      }
+    }
+  },
+  {
+    "id": "us-tx-11-f1",
+    "country": "us",
+    "province": "德克萨斯州",
+    "city": "奥斯汀",
+    "month": 11,
+    "category": "fruits",
+    "name": {
+      "zh": "橙子",
+      "en": "Orange"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄、果蒂翠绿的",
+      "en": "Choose orange skin with green calyx"
+    },
+    "recipe": {
+      "zh": "橙汁",
+      "en": "Orange Juice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 59.7,
+      "carbohydrate": 16.4,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 31.6,
+        "a": 18.6,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10
+      }
+    }
+  },
+  {
+    "id": "us-tx-11-m1",
+    "country": "us",
+    "province": "德克萨斯州",
+    "city": "奥斯汀",
+    "month": 11,
+    "category": "meats",
+    "name": {
+      "zh": "猪肉",
+      "en": "Pork"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽红润、弹性好的",
+      "en": "Choose bright red meat with good elasticity"
+    },
+    "recipe": {
+      "zh": "炙烤猪排",
+      "en": "Grilled Pork Chop"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 182.6,
+      "carbohydrate": 0,
+      "protein": 18.5,
+      "fat": 11.8,
+      "vitamins": {
+        "c": 0,
+        "a": 10.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "us-tx-11-s1",
+    "country": "us",
+    "province": "德克萨斯州",
+    "city": "奥斯汀",
+    "month": 11,
+    "category": "staples",
+    "name": {
+      "zh": "玉米",
+      "en": "Corn"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选果穗饱满的",
+      "en": "Choose full cobs"
+    },
+    "recipe": {
+      "zh": "玉米饼",
+      "en": "Tortilla"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 354.7,
+      "carbohydrate": 78.8,
+      "protein": 7.6,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  }
+]

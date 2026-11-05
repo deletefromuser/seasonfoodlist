@@ -1,0 +1,5 @@
+[
+  { "code": "nsw", "name": { "zh": "新南威尔士州", "en": "New South Wales" }, "cities": ["悉尼", "纽卡斯尔"] },
+  { "code": "vic", "name": { "zh": "维多利亚州", "en": "Victoria" }, "cities": ["墨尔本"] },
+  { "code": "qld", "name": { "zh": "昆士兰州", "en": "Queensland" }, "cities": ["布里斯班"] }
+]

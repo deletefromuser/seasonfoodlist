@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "fr-paris-4-v1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 4,
+    "category": "vegetables",
+    "name": {
+      "zh": "芦笋",
+      "en": "Asparagus"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选茎秆挺直、顶端紧闭的",
+      "en": "Choose straight stalks with tightly closed tips"
+    },
+    "recipe": {
+      "zh": "煎芦笋",
+      "en": "Pan-fried Asparagus"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 32,
+      "carbohydrate": 6,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.2,
+        "a": 103.1,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 46.5
+      }
+    }
+  },
+  {
+    "id": "fr-paris-4-f1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 4,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选果皮鲜红、果蒂鲜绿的",
+      "en": "Choose bright red skin with fresh green calyx"
+    },
+    "recipe": {
+      "zh": "草莓塔",
+      "en": "Strawberry Tart"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 61.1,
+      "carbohydrate": 14.9,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.6,
+        "a": 19.3,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.4
+      }
+    }
+  },
+  {
+    "id": "fr-paris-4-m1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 4,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选肉色淡红的",
+      "en": "Choose light red meat"
+    },
+    "recipe": {
+      "zh": "炖羊排",
+      "en": "Stewed Lamb Chops"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 204.3,
+      "carbohydrate": 0,
+      "protein": 18.3,
+      "fat": 12.2,
+      "vitamins": {
+        "c": 0,
+        "a": 9.9,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "fr-paris-4-s1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 4,
+    "category": "staples",
+    "name": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选表皮酥脆、内部松软的",
+      "en": "Choose crispy crust with soft interior"
+    },
+    "recipe": {
+      "zh": "法棍",
+      "en": "Baguette"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 353.8,
+      "carbohydrate": 78.9,
+      "protein": 7.9,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "fr-paris-4-sf1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 4,
+    "category": "seafood",
+    "name": {
+      "zh": "牡蛎",
+      "en": "Oyster"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选贝壳紧闭、个体饱满的",
+      "en": "Choose closed shells with plump bodies"
+    },
+    "recipe": {
+      "zh": "生蚝",
+      "en": "Raw Oysters"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 94.7,
+      "carbohydrate": 1,
+      "protein": 18.5,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 2,
+        "a": 19.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1.1,
+        "b12": 2.9
+      }
+    }
+  },
+  {
+    "id": "fr-paris-7-v1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 7,
+    "category": "vegetables",
+    "name": {
+      "zh": "西葫芦",
+      "en": "Zucchini"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选表皮光滑、个头中等的",
+      "en": "Choose smooth, medium-sized zucchini"
+    },
+    "recipe": {
+      "zh": "普罗旺斯炖蔬菜",
+      "en": "Ratatouille"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.6,
+      "carbohydrate": 5.7,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25.9,
+        "a": 99.7,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 47.4
+      }
+    }
+  },
+  {
+    "id": "fr-paris-7-f1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 7,
+    "category": "fruits",
+    "name": {
+      "zh": "桃子",
+      "en": "Peach"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果实圆润、有绒毛的",
+      "en": "Choose round, fuzzy fruit"
+    },
+    "recipe": {
+      "zh": "桃子派",
+      "en": "Peach Pie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 56.1,
+      "carbohydrate": 13.6,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.4,
+        "a": 21.8,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 9.8
+      }
+    }
+  },
+  {
+    "id": "fr-paris-7-m1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 7,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选皮薄肉厚、无异味的",
+      "en": "Choose thin skin, thick flesh, no odor"
+    },
+    "recipe": {
+      "zh": "红酒炖鸡",
+      "en": "Coq au Vin"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 192.4,
+      "carbohydrate": 0,
+      "protein": 21.7,
+      "fat": 11.5,
+      "vitamins": {
+        "c": 0,
+        "a": 9.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "fr-paris-7-s1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 7,
+    "category": "staples",
+    "name": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选表皮酥脆的",
+      "en": "Choose crispy crust"
+    },
+    "recipe": {
+      "zh": "法棍",
+      "en": "Baguette"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 379.5,
+      "carbohydrate": 68.1,
+      "protein": 8.5,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2.2
+      }
+    }
+  },
+  {
+    "id": "fr-paris-7-sf1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 7,
+    "category": "seafood",
+    "name": {
+      "zh": "扇贝",
+      "en": "Scallop"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选贝肉紧实、色泽洁白的",
+      "en": "Choose firm flesh with white color"
+    },
+    "recipe": {
+      "zh": "煎扇贝",
+      "en": "Pan-seared Scallop"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 94.1,
+      "carbohydrate": 1.1,
+      "protein": 17.2,
+      "fat": 2,
+      "vitamins": {
+        "c": 2.1,
+        "a": 21.4,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1.1,
+        "b12": 3
+      }
+    }
+  },
+  {
+    "id": "fr-paris-10-v1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 10,
+    "category": "vegetables",
+    "name": {
+      "zh": "南瓜",
+      "en": "Pumpkin"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果皮橙黄、蒂部干燥的",
+      "en": "Choose orange rind with dry stem"
+    },
+    "recipe": {
+      "zh": "南瓜汤",
+      "en": "Pumpkin Soup"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.4,
+      "carbohydrate": 5.7,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.7,
+        "a": 102.5,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 47.2
+      }
+    }
+  },
+  {
+    "id": "fr-paris-10-f1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 10,
+    "category": "fruits",
+    "name": {
+      "zh": "苹果",
+      "en": "Apple"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果面紧实、色泽鲜艳的",
+      "en": "Choose firm surface with bright color"
+    },
+    "recipe": {
+      "zh": "苹果塔",
+      "en": "Apple Tart"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 59.8,
+      "carbohydrate": 14.8,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 31,
+        "a": 20.1,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.4
+      }
+    }
+  },
+  {
+    "id": "fr-paris-10-m1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 10,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "勃艮第炖牛肉",
+      "en": "Beef Bourguignon"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 187.6,
+      "carbohydrate": 0,
+      "protein": 21.3,
+      "fat": 11,
+      "vitamins": {
+        "c": 0,
+        "a": 10.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "fr-paris-10-s1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 10,
+    "category": "staples",
+    "name": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选表皮酥脆的",
+      "en": "Choose crispy crust"
+    },
+    "recipe": {
+      "zh": "法棍",
+      "en": "Baguette"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 344.7,
+      "carbohydrate": 69.7,
+      "protein": 8.5,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.8
+      }
+    }
+  },
+  {
+    "id": "fr-paris-10-sf1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 10,
+    "category": "seafood",
+    "name": {
+      "zh": "牡蛎",
+      "en": "Oyster"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选贝壳紧闭、个体饱满的",
+      "en": "Choose closed shells with plump bodies"
+    },
+    "recipe": {
+      "zh": "生蚝",
+      "en": "Raw Oysters"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 95.9,
+      "carbohydrate": 1,
+      "protein": 16.8,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 1.9,
+        "a": 21.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1,
+        "b12": 3.1
+      }
+    }
+  },
+  {
+    "id": "fr-paris-1-v1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 1,
+    "category": "vegetables",
+    "name": {
+      "zh": "土豆",
+      "en": "Potato"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选表皮光滑、无芽的",
+      "en": "Choose smooth skin without sprouts"
+    },
+    "recipe": {
+      "zh": "炸薯条",
+      "en": "French Fries"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 32.1,
+      "carbohydrate": 5.9,
+      "protein": 1.8,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27,
+        "a": 109.7,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 52.5
+      }
+    }
+  },
+  {
+    "id": "fr-paris-1-f1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 1,
+    "category": "fruits",
+    "name": {
+      "zh": "橙子",
+      "en": "Orange"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄、果蒂翠绿的",
+      "en": "Choose orange skin with green calyx"
+    },
+    "recipe": {
+      "zh": "橙汁",
+      "en": "Orange Juice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 62.9,
+      "carbohydrate": 13.6,
+      "protein": 1.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 30,
+        "a": 22,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.7
+      }
+    }
+  },
+  {
+    "id": "fr-paris-1-m1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 1,
+    "category": "meats",
+    "name": {
+      "zh": "猪肉",
+      "en": "Pork"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽红润、弹性好的",
+      "en": "Choose bright red meat with good elasticity"
+    },
+    "recipe": {
+      "zh": "炖猪肉",
+      "en": "Stewed Pork"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 205.5,
+      "carbohydrate": 0,
+      "protein": 19.9,
+      "fat": 11.7,
+      "vitamins": {
+        "c": 0,
+        "a": 10.2,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "fr-paris-1-s1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 1,
+    "category": "staples",
+    "name": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选表皮酥脆、内部松软的",
+      "en": "Choose crispy crust with soft interior"
+    },
+    "recipe": {
+      "zh": "法棍",
+      "en": "Baguette"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 355.3,
+      "carbohydrate": 81.4,
+      "protein": 7.6,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "fr-paris-1-sf1",
+    "country": "fr",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "month": 1,
+    "category": "seafood",
+    "name": {
+      "zh": "牡蛎",
+      "en": "Oyster"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选贝壳紧闭、个体饱满的",
+      "en": "Choose closed shells with plump bodies"
+    },
+    "recipe": {
+      "zh": "生蚝",
+      "en": "Raw Oysters"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 100.5,
+      "carbohydrate": 1.1,
+      "protein": 18.1,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 2.1,
+        "a": 21,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1.1,
+        "k": 0.9,
+        "b12": 2.8
+      }
+    }
+  },
+  {
+    "id": "fr-marseille-7-v1",
+    "country": "fr",
+    "province": "普罗旺斯-阿尔卑斯-蓝色海岸大区",
+    "city": "马赛",
+    "month": 7,
+    "category": "vegetables",
+    "name": {
+      "zh": "茄子",
+      "en": "Eggplant"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果皮光滑、有光泽的",
+      "en": "Choose smooth skin with sheen"
+    },
+    "recipe": {
+      "zh": "普罗旺斯炖蔬菜",
+      "en": "Ratatouille"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 27.5,
+      "carbohydrate": 5.5,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.5,
+        "a": 98.9,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 50
+      }
+    }
+  },
+  {
+    "id": "fr-marseille-7-f1",
+    "country": "fr",
+    "province": "普罗旺斯-阿尔卑斯-蓝色海岸大区",
+    "city": "马赛",
+    "month": 7,
+    "category": "fruits",
+    "name": {
+      "zh": "无花果",
+      "en": "Fig"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果实饱满、色泽紫红的",
+      "en": "Choose plump fruit with purple-red color"
+    },
+    "recipe": {
+      "zh": "无花果塔",
+      "en": "Fig Tart"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 56.8,
+      "carbohydrate": 14.5,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.8,
+        "a": 19.5,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.7
+      }
+    }
+  },
+  {
+    "id": "fr-marseille-7-m1",
+    "country": "fr",
+    "province": "普罗旺斯-阿尔卑斯-蓝色海岸大区",
+    "city": "马赛",
+    "month": 7,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉色淡红的",
+      "en": "Choose light red meat"
+    },
+    "recipe": {
+      "zh": "普罗旺斯炖羊肉",
+      "en": "Provençal Lamb Stew"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 201.5,
+      "carbohydrate": 0,
+      "protein": 19.4,
+      "fat": 12,
+      "vitamins": {
+        "c": 0,
+        "a": 9.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "fr-marseille-7-s1",
+    "country": "fr",
+    "province": "普罗旺斯-阿尔卑斯-蓝色海岸大区",
+    "city": "马赛",
+    "month": 7,
+    "category": "staples",
+    "name": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选表皮酥脆的",
+      "en": "Choose crispy crust"
+    },
+    "recipe": {
+      "zh": "法棍",
+      "en": "Baguette"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 332.2,
+      "carbohydrate": 69.5,
+      "protein": 8.3,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "fr-marseille-7-sf1",
+    "country": "fr",
+    "province": "普罗旺斯-阿尔卑斯-蓝色海岸大区",
+    "city": "马赛",
+    "month": 7,
+    "category": "seafood",
+    "name": {
+      "zh": "鱼汤",
+      "en": "Fish Soup (Bouillabaisse)"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选新鲜海产混合",
+      "en": "Choose mixed fresh seafood"
+    },
+    "recipe": {
+      "zh": "马赛鱼汤",
+      "en": "Bouillabaisse"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 105.5,
+      "carbohydrate": 0.9,
+      "protein": 18.1,
+      "fat": 2,
+      "vitamins": {
+        "c": 1.9,
+        "a": 19,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1.1,
+        "b12": 2.8
+      }
+    }
+  },
+  {
+    "id": "fr-marseille-1-v1",
+    "country": "fr",
+    "province": "普罗旺斯-阿尔卑斯-蓝色海岸大区",
+    "city": "马赛",
+    "month": 1,
+    "category": "vegetables",
+    "name": {
+      "zh": "韭菜",
+      "en": "Leek"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选叶片挺翠、根部新鲜的",
+      "en": "Choose green leaves with fresh roots"
+    },
+    "recipe": {
+      "zh": "炖韭菜",
+      "en": "Stewed Leek"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 29.2,
+      "carbohydrate": 6.4,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.2,
+        "a": 90,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 53.1
+      }
+    }
+  },
+  {
+    "id": "fr-marseille-1-f1",
+    "country": "fr",
+    "province": "普罗旺斯-阿尔卑斯-蓝色海岸大区",
+    "city": "马赛",
+    "month": 1,
+    "category": "fruits",
+    "name": {
+      "zh": "橙子",
+      "en": "Orange"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄的",
+      "en": "Choose orange skin"
+    },
+    "recipe": {
+      "zh": "橙汁",
+      "en": "Orange Juice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 61.9,
+      "carbohydrate": 14.2,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.3,
+        "a": 20.9,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10
+      }
+    }
+  },
+  {
+    "id": "fr-marseille-1-m1",
+    "country": "fr",
+    "province": "普罗旺斯-阿尔卑斯-蓝色海岸大区",
+    "city": "马赛",
+    "month": 1,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "炖牛肉",
+      "en": "Stewed Beef"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 193,
+      "carbohydrate": 0,
+      "protein": 18.8,
+      "fat": 11.1,
+      "vitamins": {
+        "c": 0,
+        "a": 10.8,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "fr-marseille-1-s1",
+    "country": "fr",
+    "province": "普罗旺斯-阿尔卑斯-蓝色海岸大区",
+    "city": "马赛",
+    "month": 1,
+    "category": "staples",
+    "name": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选表皮酥脆的",
+      "en": "Choose crispy crust"
+    },
+    "recipe": {
+      "zh": "法棍",
+      "en": "Baguette"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 318.6,
+      "carbohydrate": 70.2,
+      "protein": 7.4,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "fr-marseille-1-sf1",
+    "country": "fr",
+    "province": "普罗旺斯-阿尔卑斯-蓝色海岸大区",
+    "city": "马赛",
+    "month": 1,
+    "category": "seafood",
+    "name": {
+      "zh": "牡蛎",
+      "en": "Oyster"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选贝壳紧闭的",
+      "en": "Choose closed shells"
+    },
+    "recipe": {
+      "zh": "生蚝",
+      "en": "Raw Oysters"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 101.3,
+      "carbohydrate": 1,
+      "protein": 18,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 1.9,
+        "a": 20.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1.1,
+        "k": 0.9,
+        "b12": 2.9
+      }
+    }
+  }
+]

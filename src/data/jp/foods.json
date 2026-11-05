@@ -1,0 +1,944 @@
+[
+  {
+    "id": "jp-tk-4-v1",
+    "country": "jp",
+    "province": "东京都",
+    "city": "东京23区",
+    "month": 4,
+    "category": "vegetables",
+    "name": {
+      "zh": "竹笋",
+      "en": "Bamboo Shoots"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选表皮有光泽、切口新鲜的",
+      "en": "Choose shiny skin with fresh cut surface"
+    },
+    "recipe": {
+      "zh": "竹笋和田炊",
+      "en": "Simmered Bamboo Shoots"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.6,
+      "carbohydrate": 6.2,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.5,
+        "a": 102.9,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 45.8
+      }
+    }
+  },
+  {
+    "id": "jp-tk-4-f1",
+    "country": "jp",
+    "province": "东京都",
+    "city": "东京23区",
+    "month": 4,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选果皮鲜红、果蒂鲜绿的",
+      "en": "Choose bright red skin with fresh green calyx"
+    },
+    "recipe": {
+      "zh": "草莓大福",
+      "en": "Strawberry Daifuku"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 56.2,
+      "carbohydrate": 13.9,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 28.9,
+        "a": 21.3,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.5
+      }
+    }
+  },
+  {
+    "id": "jp-tk-4-m1",
+    "country": "jp",
+    "province": "东京都",
+    "city": "东京23区",
+    "month": 4,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉色泽白、新鲜的",
+      "en": "Choose pale, fresh meat"
+    },
+    "recipe": {
+      "zh": "照烧鸡",
+      "en": "Teriyaki Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 193.6,
+      "carbohydrate": 0,
+      "protein": 20.4,
+      "fat": 12,
+      "vitamins": {
+        "c": 0,
+        "a": 9.2,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.1,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "jp-tk-4-s1",
+    "country": "jp",
+    "province": "东京都",
+    "city": "东京23区",
+    "month": 4,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒白如玉、粘性适中的",
+      "en": "Choose white jade-like grains with moderate stickiness"
+    },
+    "recipe": {
+      "zh": "寿司饭",
+      "en": "Sushi Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 334.3,
+      "carbohydrate": 69.2,
+      "protein": 8.6,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "jp-tk-10-v1",
+    "country": "jp",
+    "province": "东京都",
+    "city": "横浜市",
+    "month": 10,
+    "category": "vegetables",
+    "name": {
+      "zh": "红薯",
+      "en": "Sweet Potato"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选表皮无损伤、个头大的",
+      "en": "Choose undamaged, large tubers"
+    },
+    "recipe": {
+      "zh": "烤红薯",
+      "en": "Baked Sweet Potato"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.2,
+      "carbohydrate": 6.3,
+      "protein": 1.8,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.4,
+        "a": 95.8,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 54.5
+      }
+    }
+  },
+  {
+    "id": "jp-tk-10-f1",
+    "country": "jp",
+    "province": "东京都",
+    "city": "横浜市",
+    "month": 10,
+    "category": "fruits",
+    "name": {
+      "zh": "柿子",
+      "en": "Persimmon"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果皮橙红、果蒂翠绿的",
+      "en": "Choose orange-red skin with green calyx"
+    },
+    "recipe": {
+      "zh": "柿子饼",
+      "en": "Persimmon Cake"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 57.6,
+      "carbohydrate": 14.1,
+      "protein": 1.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 28.1,
+        "a": 18.9,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.8
+      }
+    }
+  },
+  {
+    "id": "jp-tk-10-m1",
+    "country": "jp",
+    "province": "东京都",
+    "city": "横浜市",
+    "month": 10,
+    "category": "meats",
+    "name": {
+      "zh": "猪肉",
+      "en": "Pork"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽红润、有光泽的",
+      "en": "Choose bright red meat with sheen"
+    },
+    "recipe": {
+      "zh": "炸猪排",
+      "en": "Tonkatsu"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 189.4,
+      "carbohydrate": 0,
+      "protein": 20.2,
+      "fat": 12.8,
+      "vitamins": {
+        "c": 0,
+        "a": 9.3,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.1,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "jp-tk-10-s1",
+    "country": "jp",
+    "province": "东京都",
+    "city": "横浜市",
+    "month": 10,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "秋收（新米）",
+      "en": "Autumn Harvest (New Rice)"
+    },
+    "tip": {
+      "zh": "选新米米质晶莹的",
+      "en": "Choose crystal-like new rice"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 343.6,
+      "carbohydrate": 77.8,
+      "protein": 8.7,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "jp-os-5-v1",
+    "country": "jp",
+    "province": "大阪府",
+    "city": "大阪市",
+    "month": 5,
+    "category": "vegetables",
+    "name": {
+      "zh": "豌豆",
+      "en": "Peas"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选荚色翠绿饱满的",
+      "en": "Choose green, plump pods"
+    },
+    "recipe": {
+      "zh": "豌豆饭",
+      "en": "Pea Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.7,
+      "carbohydrate": 5.9,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.3,
+        "a": 100.5,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 54.6
+      }
+    }
+  },
+  {
+    "id": "jp-os-5-f1",
+    "country": "jp",
+    "province": "大阪府",
+    "city": "大阪市",
+    "month": 5,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选果色鲜红的",
+      "en": "Choose bright red fruit"
+    },
+    "recipe": {
+      "zh": "草莓千层蛋糕",
+      "en": "Strawberry Shortcake"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 62.2,
+      "carbohydrate": 13.8,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32,
+        "a": 19.8,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.4
+      }
+    }
+  },
+  {
+    "id": "jp-os-5-m1",
+    "country": "jp",
+    "province": "大阪府",
+    "city": "大阪市",
+    "month": 5,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "涮涮锅",
+      "en": "Shabu-shabu"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 210.9,
+      "carbohydrate": 0,
+      "protein": 20.7,
+      "fat": 11.6,
+      "vitamins": {
+        "c": 0,
+        "a": 10.3,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "jp-os-5-s1",
+    "country": "jp",
+    "province": "大阪府",
+    "city": "大阪市",
+    "month": 5,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒洁白的",
+      "en": "Choose white grains"
+    },
+    "recipe": {
+      "zh": "章鱼烧面糊",
+      "en": "Takoyaki Batter"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 316.7,
+      "carbohydrate": 70.5,
+      "protein": 8.4,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "jp-os-11-v1",
+    "country": "jp",
+    "province": "大阪府",
+    "city": "大阪市",
+    "month": 11,
+    "category": "vegetables",
+    "name": {
+      "zh": "白菜",
+      "en": "Chinese Cabbage"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选球体紧实的",
+      "en": "Choose compact heads"
+    },
+    "recipe": {
+      "zh": "火锅白菜",
+      "en": "Nabemono Cabbage"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.6,
+      "carbohydrate": 6.1,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.1,
+        "a": 102.9,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 53.5
+      }
+    }
+  },
+  {
+    "id": "jp-os-11-f1",
+    "country": "jp",
+    "province": "大阪府",
+    "city": "大阪市",
+    "month": 11,
+    "category": "fruits",
+    "name": {
+      "zh": "苹果",
+      "en": "Apple"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果面紧实的",
+      "en": "Choose firm surface"
+    },
+    "recipe": {
+      "zh": "苹果派",
+      "en": "Apple Pie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 57.7,
+      "carbohydrate": 16.5,
+      "protein": 1.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.7,
+        "a": 18.5,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.5
+      }
+    }
+  },
+  {
+    "id": "jp-os-11-m1",
+    "country": "jp",
+    "province": "大阪府",
+    "city": "大阪市",
+    "month": 11,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选新鲜的",
+      "en": "Choose fresh"
+    },
+    "recipe": {
+      "zh": "唐揚げ",
+      "en": "Karaage"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 194,
+      "carbohydrate": 0,
+      "protein": 18.7,
+      "fat": 12.1,
+      "vitamins": {
+        "c": 0,
+        "a": 9.7,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.2,
+        "b12": 2.2
+      }
+    }
+  },
+  {
+    "id": "jp-os-11-s1",
+    "country": "jp",
+    "province": "大阪府",
+    "city": "大阪市",
+    "month": 11,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "秋收（新米）",
+      "en": "Autumn Harvest (New Rice)"
+    },
+    "tip": {
+      "zh": "选新米的",
+      "en": "Choose new rice"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 370.4,
+      "carbohydrate": 80.7,
+      "protein": 8.1,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "jp-hk-6-v1",
+    "country": "jp",
+    "province": "北海道",
+    "city": "札幌市",
+    "month": 6,
+    "category": "vegetables",
+    "name": {
+      "zh": "土豆",
+      "en": "Potato"
+    },
+    "season": {
+      "zh": "初夏",
+      "en": "Early Summer"
+    },
+    "tip": {
+      "zh": "选表皮光滑、无芽的",
+      "en": "Choose smooth skin without sprouts"
+    },
+    "recipe": {
+      "zh": "肉豆饼",
+      "en": "Nikujaga"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.3,
+      "carbohydrate": 5.8,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 26.1,
+        "a": 106.9,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 54.1
+      }
+    }
+  },
+  {
+    "id": "jp-hk-6-f1",
+    "country": "jp",
+    "province": "北海道",
+    "city": "札幌市",
+    "month": 6,
+    "category": "fruits",
+    "name": {
+      "zh": "樱桃",
+      "en": "Cherry"
+    },
+    "season": {
+      "zh": "初夏",
+      "en": "Early Summer"
+    },
+    "tip": {
+      "zh": "选果色鲜艳的",
+      "en": "Choose bright color"
+    },
+    "recipe": {
+      "zh": "生樱桃",
+      "en": "Fresh Cherry"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 58.8,
+      "carbohydrate": 15.6,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 28.4,
+        "a": 20.9,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.7
+      }
+    }
+  },
+  {
+    "id": "jp-hk-6-m1",
+    "country": "jp",
+    "province": "北海道",
+    "city": "札幌市",
+    "month": 6,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选和牛花纹好的",
+      "en": "Choose wagyu with good marbling"
+    },
+    "recipe": {
+      "zh": "北海道牛排",
+      "en": "Hokkaido Steak"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 186.5,
+      "carbohydrate": 0,
+      "protein": 21.4,
+      "fat": 10.9,
+      "vitamins": {
+        "c": 0,
+        "a": 11,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.2,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "jp-hk-6-s1",
+    "country": "jp",
+    "province": "北海道",
+    "city": "札幌市",
+    "month": 6,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "夏收",
+      "en": "Summer Harvest"
+    },
+    "tip": {
+      "zh": "选麦粒饱满的",
+      "en": "Choose full grains"
+    },
+    "recipe": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 381.3,
+      "carbohydrate": 69.9,
+      "protein": 7.6,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "jp-hk-11-v1",
+    "country": "jp",
+    "province": "北海道",
+    "city": "札幌市",
+    "month": 11,
+    "category": "vegetables",
+    "name": {
+      "zh": "南瓜",
+      "en": "Pumpkin"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果皮橙黄的",
+      "en": "Choose orange rind"
+    },
+    "recipe": {
+      "zh": "南瓜炖菜",
+      "en": "Simmered Pumpkin"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.8,
+      "carbohydrate": 6,
+      "protein": 1.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 22.6,
+        "a": 104.7,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.3,
+        "k": 50.6
+      }
+    }
+  },
+  {
+    "id": "jp-hk-11-f1",
+    "country": "jp",
+    "province": "北海道",
+    "city": "札幌市",
+    "month": 11,
+    "category": "fruits",
+    "name": {
+      "zh": "苹果",
+      "en": "Apple"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选紧实的",
+      "en": "Choose firm"
+    },
+    "recipe": {
+      "zh": "烤苹果",
+      "en": "Baked Apple"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 57.9,
+      "carbohydrate": 16.3,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 30.9,
+        "a": 20.9,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.5
+      }
+    }
+  },
+  {
+    "id": "jp-hk-11-m1",
+    "country": "jp",
+    "province": "北海道",
+    "city": "札幌市",
+    "month": 11,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选新鲜的",
+      "en": "Choose fresh"
+    },
+    "recipe": {
+      "zh": "羊肉锅",
+      "en": "Mutton Hot Pot"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 182.8,
+      "carbohydrate": 0,
+      "protein": 21.4,
+      "fat": 12.2,
+      "vitamins": {
+        "c": 0,
+        "a": 10.5,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.2,
+        "b12": 2.2
+      }
+    }
+  },
+  {
+    "id": "jp-hk-11-s1",
+    "country": "jp",
+    "province": "北海道",
+    "city": "札幌市",
+    "month": 11,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选干燥饱满的",
+      "en": "Choose dry, full grains"
+    },
+    "recipe": {
+      "en": "Bread",
+      "zh": "面包"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 318.1,
+      "carbohydrate": 71.9,
+      "protein": 8.8,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  }
+]

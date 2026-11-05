@@ -1,0 +1,630 @@
+[
+  {
+    "id": "gb-en-4-v1",
+    "country": "gb",
+    "province": "英格兰",
+    "city": "伦敦",
+    "month": 4,
+    "category": "vegetables",
+    "name": {
+      "zh": "春笋",
+      "en": "Spring Onion"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选茎秆挺直、色泽新鲜的",
+      "en": "Choose straight stalks with fresh color"
+    },
+    "recipe": {
+      "zh": "炒春笋",
+      "en": "Stir-fried Spring Onion"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 32.7,
+      "carbohydrate": 5.4,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.5,
+        "a": 105.9,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 46.4
+      }
+    }
+  },
+  {
+    "id": "gb-en-4-f1",
+    "country": "gb",
+    "province": "英格兰",
+    "city": "伦敦",
+    "month": 4,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选果色鲜红的",
+      "en": "Choose bright red fruit"
+    },
+    "recipe": {
+      "zh": "草莓奶油",
+      "en": "Strawberry Cream"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 64.6,
+      "carbohydrate": 14.4,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 29.6,
+        "a": 18.5,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.1
+      }
+    }
+  },
+  {
+    "id": "gb-en-4-m1",
+    "country": "gb",
+    "province": "英格兰",
+    "city": "伦敦",
+    "month": 4,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选肉色淡红的",
+      "en": "Choose light red meat"
+    },
+    "recipe": {
+      "zh": "烤羊排",
+      "en": "Roasted Lamb Chops"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 214.3,
+      "carbohydrate": 0,
+      "protein": 20.3,
+      "fat": 12.1,
+      "vitamins": {
+        "c": 0,
+        "a": 10.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.2,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "gb-en-4-s1",
+    "country": "gb",
+    "province": "英格兰",
+    "city": "伦敦",
+    "month": 4,
+    "category": "staples",
+    "name": {
+      "zh": "土豆",
+      "en": "Potato"
+    },
+    "season": {
+      "zh": "春末（种植期）",
+      "en": "Late Spring (Planting)"
+    },
+    "tip": {
+      "zh": "选表皮光滑的种薯",
+      "en": "Choose smooth seed potatoes"
+    },
+    "recipe": {
+      "zh": "薯条",
+      "en": "Chips"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 383.9,
+      "carbohydrate": 81.1,
+      "protein": 7.3,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "gb-en-8-v1",
+    "country": "gb",
+    "province": "英格兰",
+    "city": "曼彻斯特",
+    "month": 8,
+    "category": "vegetables",
+    "name": {
+      "zh": "豌豆",
+      "en": "Peas"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选荚色翠绿饱满的",
+      "en": "Choose green, plump pods"
+    },
+    "recipe": {
+      "zh": "烩豌豆",
+      "en": "Stewed Peas"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.3,
+      "carbohydrate": 6.4,
+      "protein": 1.8,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.4,
+        "a": 109.2,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 48.9
+      }
+    }
+  },
+  {
+    "id": "gb-en-8-f1",
+    "country": "gb",
+    "province": "英格兰",
+    "city": "曼彻斯特",
+    "month": 8,
+    "category": "fruits",
+    "name": {
+      "zh": "覆盆子",
+      "en": "Raspberry"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果粒饱满、色泽鲜红的",
+      "en": "Choose plump, bright red berries"
+    },
+    "recipe": {
+      "zh": "莓果派",
+      "en": "Berry Pie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 63.3,
+      "carbohydrate": 16,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 31.5,
+        "a": 19.5,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 10.7
+      }
+    }
+  },
+  {
+    "id": "gb-en-8-m1",
+    "country": "gb",
+    "province": "英格兰",
+    "city": "曼彻斯特",
+    "month": 8,
+    "category": "meats",
+    "name": {
+      "zh": "猪肉",
+      "en": "Pork"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选色泽红润的",
+      "en": "Choose bright red meat"
+    },
+    "recipe": {
+      "zh": "烤猪肉",
+      "en": "Roast Pork"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 197.1,
+      "carbohydrate": 0,
+      "protein": 21.6,
+      "fat": 12.5,
+      "vitamins": {
+        "c": 0,
+        "a": 10,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "gb-en-8-s1",
+    "country": "gb",
+    "province": "英格兰",
+    "city": "曼彻斯特",
+    "month": 8,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "夏末（收获期）",
+      "en": "Late Summer (Harvest)"
+    },
+    "tip": {
+      "zh": "选麦粒饱满干燥的",
+      "en": "Choose full, dry grains"
+    },
+    "recipe": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 329.9,
+      "carbohydrate": 80.8,
+      "protein": 8.1,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  },
+  {
+    "id": "gb-sc-9-v1",
+    "country": "gb",
+    "province": "苏格兰",
+    "city": "爱丁堡",
+    "month": 9,
+    "category": "vegetables",
+    "name": {
+      "zh": "芜菁",
+      "en": "Turnip"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选根部紧实、表皮光滑的",
+      "en": "Choose firm roots with smooth skin"
+    },
+    "recipe": {
+      "zh": "芜菁泥",
+      "en": "Mashed Turnip"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.1,
+      "carbohydrate": 6,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23,
+        "a": 102.3,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 50.3
+      }
+    }
+  },
+  {
+    "id": "gb-sc-9-f1",
+    "country": "gb",
+    "province": "苏格兰",
+    "city": "爱丁堡",
+    "month": 9,
+    "category": "fruits",
+    "name": {
+      "zh": "苹果",
+      "en": "Apple"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果面紧实的",
+      "en": "Choose firm surface"
+    },
+    "recipe": {
+      "zh": "苹果派",
+      "en": "Apple Pie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 54.1,
+      "carbohydrate": 16.1,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.9,
+        "a": 20.1,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.1
+      }
+    }
+  },
+  {
+    "id": "gb-sc-9-m1",
+    "country": "gb",
+    "province": "苏格兰",
+    "city": "爱丁堡",
+    "month": 9,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "炖牛肉",
+      "en": "Stewed Beef"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 199.6,
+      "carbohydrate": 0,
+      "protein": 21.9,
+      "fat": 11.6,
+      "vitamins": {
+        "c": 0,
+        "a": 10.7,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "gb-sc-9-s1",
+    "country": "gb",
+    "province": "苏格兰",
+    "city": "爱丁堡",
+    "month": 9,
+    "category": "staples",
+    "name": {
+      "zh": "燕麦",
+      "en": "Oat"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选麦粒干燥无杂质的",
+      "en": "Choose dry grains without impurities"
+    },
+    "recipe": {
+      "zh": "燕麦粥",
+      "en": "Oatmeal"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 352.4,
+      "carbohydrate": 79.1,
+      "protein": 8.7,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "gb-wa-10-v1",
+    "country": "gb",
+    "province": "威尔士",
+    "city": "卡迪夫",
+    "month": 10,
+    "category": "vegetables",
+    "name": {
+      "zh": "韭菜",
+      "en": "Leek"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选叶片挺翠、根部新鲜的",
+      "en": "Choose green leaves with fresh roots"
+    },
+    "recipe": {
+      "zh": "炖韭菜",
+      "en": "Stewed Leek"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.3,
+      "carbohydrate": 6.5,
+      "protein": 2.2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 23.4,
+        "a": 94.5,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 48
+      }
+    }
+  },
+  {
+    "id": "gb-wa-10-f1",
+    "country": "gb",
+    "province": "威尔士",
+    "city": "卡迪夫",
+    "month": 10,
+    "category": "fruits",
+    "name": {
+      "zh": "梨",
+      "en": "Pear"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果形匀称的",
+      "en": "Choose uniform shape"
+    },
+    "recipe": {
+      "zh": "梨干",
+      "en": "Dried Pear"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 57.8,
+      "carbohydrate": 14.1,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 30.8,
+        "a": 20.9,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.9
+      }
+    }
+  },
+  {
+    "id": "gb-wa-10-m1",
+    "country": "gb",
+    "province": "威尔士",
+    "city": "卡迪夫",
+    "month": 10,
+    "category": "meats",
+    "name": {
+      "zh": "羊肉",
+      "en": "Mutton"
+    },
+    "season": {
+      "zh": "秋冬",
+      "en": "Autumn to Winter"
+    },
+    "tip": {
+      "zh": "选新鲜的",
+      "en": "Choose fresh"
+    },
+    "recipe": {
+      "zh": "威尔士羊肉汤",
+      "en": "Welsh Lamb Cawl"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 205.6,
+      "carbohydrate": 0,
+      "protein": 20.4,
+      "fat": 12.8,
+      "vitamins": {
+        "c": 0,
+        "a": 10,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 1.9
+      }
+    }
+  },
+  {
+    "id": "gb-wa-10-s1",
+    "country": "gb",
+    "province": "威尔士",
+    "city": "卡迪夫",
+    "month": 10,
+    "category": "staples",
+    "name": {
+      "zh": "土豆",
+      "en": "Potato"
+    },
+    "season": {
+      "zh": "秋收",
+      "en": "Autumn Harvest"
+    },
+    "tip": {
+      "zh": "选块茎紧实的",
+      "en": "Choose firm tubers"
+    },
+    "recipe": {
+      "zh": "烤土豆",
+      "en": "Baked Potato"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 370.4,
+      "carbohydrate": 75.4,
+      "protein": 8.8,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 1.9
+      }
+    }
+  }
+]

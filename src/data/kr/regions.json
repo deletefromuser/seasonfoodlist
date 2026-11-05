@@ -1,0 +1,5 @@
+[
+  { "code": "seoul", "name": { "zh": "首尔特别市", "en": "Seoul" }, "cities": ["首尔市"] },
+  { "code": "gyeonggi", "name": { "zh": "京畿道", "en": "Gyeonggi Province" }, "cities": ["水原市", "高阳市"] },
+  { "code": "busan", "name": { "zh": "庆尚南道", "en": "South Gyeongsang Province" }, "cities": ["釜山市"] }
+]

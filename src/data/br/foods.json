@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "br-sp-12-v1",
+    "country": "br",
+    "province": "圣保罗州",
+    "city": "圣保罗",
+    "month": 12,
+    "category": "vegetables",
+    "name": {
+      "zh": "番茄",
+      "en": "Tomato"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果实圆润、色泽鲜红的",
+      "en": "Choose round, bright red fruit"
+    },
+    "recipe": {
+      "zh": "番茄沙拉",
+      "en": "Tomato Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 30.3,
+      "carbohydrate": 6.1,
+      "protein": 2.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25.4,
+        "a": 98.6,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 51.1
+      }
+    }
+  },
+  {
+    "id": "br-sp-12-f1",
+    "country": "br",
+    "province": "圣保罗州",
+    "city": "圣保罗",
+    "month": 12,
+    "category": "fruits",
+    "name": {
+      "zh": "芒果",
+      "en": "Mango"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果实圆润、有香气的",
+      "en": "Choose round, aromatic fruit"
+    },
+    "recipe": {
+      "zh": "芒果冰沙",
+      "en": "Mango Smoothie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 64.4,
+      "carbohydrate": 14.9,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.1,
+        "a": 20.6,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 9.3
+      }
+    }
+  },
+  {
+    "id": "br-sp-12-m1",
+    "country": "br",
+    "province": "圣保罗州",
+    "city": "圣保罗",
+    "month": 12,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "巴西烤肉",
+      "en": "Churrasco"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 184.9,
+      "carbohydrate": 0,
+      "protein": 20.9,
+      "fat": 12.5,
+      "vitamins": {
+        "c": 0,
+        "a": 10.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.8,
+        "b12": 2.2
+      }
+    }
+  },
+  {
+    "id": "br-sp-12-s1",
+    "country": "br",
+    "province": "圣保罗州",
+    "city": "圣保罗",
+    "month": 12,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒洁白的",
+      "en": "Choose white grains"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 365.3,
+      "carbohydrate": 78.3,
+      "protein": 7.5,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "br-sp-12-sf1",
+    "country": "br",
+    "province": "圣保罗州",
+    "city": "圣保罗",
+    "month": 12,
+    "category": "seafood",
+    "name": {
+      "zh": "虾",
+      "en": "Shrimp"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选个体壮硕、体表完整无残缺的",
+      "en": "Choose robust shrimp with intact bodies"
+    },
+    "recipe": {
+      "zh": "莫凯鱼杂烩",
+      "en": "Moqueca"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 93.6,
+      "carbohydrate": 1.1,
+      "protein": 19.3,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 2.2,
+        "a": 21.1,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.9,
+        "k": 1,
+        "b12": 2.8
+      }
+    }
+  },
+  {
+    "id": "br-sp-6-v1",
+    "country": "br",
+    "province": "圣保罗州",
+    "city": "圣保罗",
+    "month": 6,
+    "category": "vegetables",
+    "name": {
+      "zh": "南瓜",
+      "en": "Pumpkin"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄的",
+      "en": "Choose orange rind"
+    },
+    "recipe": {
+      "zh": "烤南瓜",
+      "en": "Roasted Pumpkin"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.1,
+      "carbohydrate": 5.9,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25.5,
+        "a": 98,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 48.3
+      }
+    }
+  },
+  {
+    "id": "br-sp-6-f1",
+    "country": "br",
+    "province": "圣保罗州",
+    "city": "圣保罗",
+    "month": 6,
+    "category": "fruits",
+    "name": {
+      "zh": "橙子",
+      "en": "Orange"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选果皮橙黄的",
+      "en": "Choose orange skin"
+    },
+    "recipe": {
+      "zh": "橙汁",
+      "en": "Orange Juice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 56.1,
+      "carbohydrate": 15,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.1,
+        "a": 20.9,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.8
+      }
+    }
+  },
+  {
+    "id": "br-sp-6-m1",
+    "country": "br",
+    "province": "圣保罗州",
+    "city": "圣保罗",
+    "month": 6,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "炖牛肉",
+      "en": "Stewed Beef"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 190.3,
+      "carbohydrate": 0,
+      "protein": 18.3,
+      "fat": 11.2,
+      "vitamins": {
+        "c": 0,
+        "a": 9.4,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 2.1
+      }
+    }
+  },
+  {
+    "id": "br-sp-6-s1",
+    "country": "br",
+    "province": "圣保罗州",
+    "city": "圣保罗",
+    "month": 6,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒洁白的",
+      "en": "Choose white grains"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 325.7,
+      "carbohydrate": 70.4,
+      "protein": 8.5,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "br-sp-6-sf1",
+    "country": "br",
+    "province": "圣保罗州",
+    "city": "圣保罗",
+    "month": 6,
+    "category": "seafood",
+    "name": {
+      "zh": "鱼",
+      "en": "Fish"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "烤鱼",
+      "en": "Grilled Fish"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 99,
+      "carbohydrate": 0.9,
+      "protein": 17.7,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 1.9,
+        "a": 20.6,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1.1,
+        "k": 1.1,
+        "b12": 3.2
+      }
+    }
+  },
+  {
+    "id": "br-rio-3-v1",
+    "country": "br",
+    "province": "里约热内卢州",
+    "city": "里约热内卢",
+    "month": 3,
+    "category": "vegetables",
+    "name": {
+      "zh": "番茄",
+      "en": "Tomato"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选圆润鲜红的",
+      "en": "Choose round, bright red fruit"
+    },
+    "recipe": {
+      "zh": "番茄沙拉",
+      "en": "Tomato Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 32.3,
+      "carbohydrate": 5.5,
+      "protein": 2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 25.6,
+        "a": 109.7,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 51.2
+      }
+    }
+  },
+  {
+    "id": "br-rio-3-f1",
+    "country": "br",
+    "province": "里约热内卢州",
+    "city": "里约热内卢",
+    "month": 3,
+    "category": "fruits",
+    "name": {
+      "zh": "芒果",
+      "en": "Mango"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选果实圆润、有香气的",
+      "en": "Choose round, aromatic fruit"
+    },
+    "recipe": {
+      "zh": "芒果冰沙",
+      "en": "Mango Smoothie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 65,
+      "carbohydrate": 16.2,
+      "protein": 0.9,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 27.3,
+        "a": 20.2,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.3
+      }
+    }
+  },
+  {
+    "id": "br-rio-3-m1",
+    "country": "br",
+    "province": "里约热内卢州",
+    "city": "里约热内卢",
+    "month": 3,
+    "category": "meats",
+    "name": {
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选新鲜的",
+      "en": "Choose fresh"
+    },
+    "recipe": {
+      "zh": "烤鸡",
+      "en": "Roasted Chicken"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 193.2,
+      "carbohydrate": 0,
+      "protein": 18.4,
+      "fat": 10.9,
+      "vitamins": {
+        "c": 0,
+        "a": 9.4,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.2,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "br-rio-3-s1",
+    "country": "br",
+    "province": "里约热内卢州",
+    "city": "里约热内卢",
+    "month": 3,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒洁白的",
+      "en": "Choose white grains"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 316.4,
+      "carbohydrate": 71,
+      "protein": 7.7,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "br-rio-3-sf1",
+    "country": "br",
+    "province": "里约热内卢州",
+    "city": "里约热内卢",
+    "month": 3,
+    "category": "seafood",
+    "name": {
+      "zh": "虾",
+      "en": "Shrimp"
+    },
+    "season": {
+      "zh": "秋季",
+      "en": "Autumn"
+    },
+    "tip": {
+      "zh": "选个体壮硕的",
+      "en": "Choose robust shrimp"
+    },
+    "recipe": {
+      "zh": "莫凯鱼杂烩",
+      "en": "Moqueca"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 92.3,
+      "carbohydrate": 1.1,
+      "protein": 18.3,
+      "fat": 1.9,
+      "vitamins": {
+        "c": 2,
+        "a": 18.3,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.9,
+        "k": 0.9,
+        "b12": 2.8
+      }
+    }
+  },
+  {
+    "id": "br-rio-9-v1",
+    "country": "br",
+    "province": "里约热内卢州",
+    "city": "里约热内卢",
+    "month": 9,
+    "category": "vegetables",
+    "name": {
+      "zh": "胡萝卜",
+      "en": "Carrot"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选根部紧实、色泽橙红的",
+      "en": "Choose firm roots with orange-red color"
+    },
+    "recipe": {
+      "zh": "胡萝卜沙拉",
+      "en": "Carrot Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.8,
+      "carbohydrate": 6.3,
+      "protein": 1.8,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 26.3,
+        "a": 92.2,
+        "b1": 0,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 51.8
+      }
+    }
+  },
+  {
+    "id": "br-rio-9-f1",
+    "country": "br",
+    "province": "里约热内卢州",
+    "city": "里约热内卢",
+    "month": 9,
+    "category": "fruits",
+    "name": {
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选果色鲜红的",
+      "en": "Choose bright red fruit"
+    },
+    "recipe": {
+      "zh": "草莓蛋糕",
+      "en": "Strawberry Cake"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 57.3,
+      "carbohydrate": 13.7,
+      "protein": 1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 30.9,
+        "a": 20.4,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.4
+      }
+    }
+  },
+  {
+    "id": "br-rio-9-m1",
+    "country": "br",
+    "province": "里约热内卢州",
+    "city": "里约热内卢",
+    "month": 9,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "巴西烤肉",
+      "en": "Churrasco"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 200.3,
+      "carbohydrate": 0,
+      "protein": 21,
+      "fat": 12.5,
+      "vitamins": {
+        "c": 0,
+        "a": 9.5,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2.1,
+        "b12": 1.8
+      }
+    }
+  },
+  {
+    "id": "br-rio-9-s1",
+    "country": "br",
+    "province": "里约热内卢州",
+    "city": "里约热内卢",
+    "month": 9,
+    "category": "staples",
+    "name": {
+      "zh": "小麦",
+      "en": "Wheat"
+    },
+    "season": {
+      "zh": "春收",
+      "en": "Spring Harvest"
+    },
+    "tip": {
+      "zh": "选饱满的",
+      "en": "Choose full grains"
+    },
+    "recipe": {
+      "zh": "面包",
+      "en": "Bread"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 318.9,
+      "carbohydrate": 69.5,
+      "protein": 7.3,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "br-rio-9-sf1",
+    "country": "br",
+    "province": "里约热内卢州",
+    "city": "里约热内卢",
+    "month": 9,
+    "category": "seafood",
+    "name": {
+      "zh": "鱼",
+      "en": "Fish"
+    },
+    "season": {
+      "zh": "春季",
+      "en": "Spring"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "烤鱼",
+      "en": "Grilled Fish"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 96.9,
+      "carbohydrate": 0.9,
+      "protein": 17.3,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 2,
+        "a": 19.6,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1.1,
+        "k": 1.1,
+        "b12": 3.1
+      }
+    }
+  },
+  {
+    "id": "br-brasilia-1-v1",
+    "country": "br",
+    "province": "联邦特区",
+    "city": "巴西利亚",
+    "month": 1,
+    "category": "vegetables",
+    "name": {
+      "zh": "西葫芦",
+      "en": "Zucchini"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选表皮光滑的",
+      "en": "Choose smooth skin"
+    },
+    "recipe": {
+      "zh": "烤西葫芦",
+      "en": "Grilled Zucchini"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 31.2,
+      "carbohydrate": 6.3,
+      "protein": 1.8,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.1,
+        "a": 105.6,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 49.1
+      }
+    }
+  },
+  {
+    "id": "br-brasilia-1-f1",
+    "country": "br",
+    "province": "联邦特区",
+    "city": "巴西利亚",
+    "month": 1,
+    "category": "fruits",
+    "name": {
+      "zh": "桃子",
+      "en": "Peach"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选果实圆润、有绒毛的",
+      "en": "Choose round, fuzzy fruit"
+    },
+    "recipe": {
+      "zh": "桃子派",
+      "en": "Peach Pie"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 54.2,
+      "carbohydrate": 15.9,
+      "protein": 1.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 33,
+        "a": 19.4,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 10.6
+      }
+    }
+  },
+  {
+    "id": "br-brasilia-1-m1",
+    "country": "br",
+    "province": "联邦特区",
+    "city": "巴西利亚",
+    "month": 1,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "巴西烤肉",
+      "en": "Churrasco"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 202.6,
+      "carbohydrate": 0,
+      "protein": 18.2,
+      "fat": 10.9,
+      "vitamins": {
+        "c": 0,
+        "a": 10.6,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 2,
+        "b12": 2.2
+      }
+    }
+  },
+  {
+    "id": "br-brasilia-1-s1",
+    "country": "br",
+    "province": "联邦特区",
+    "city": "巴西利亚",
+    "month": 1,
+    "category": "staples",
+    "name": {
+      "zh": "大米",
+      "en": "Rice"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选米粒洁白的",
+      "en": "Choose white grains"
+    },
+    "recipe": {
+      "zh": "白饭",
+      "en": "Steamed Rice"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 319,
+      "carbohydrate": 71.1,
+      "protein": 7.3,
+      "fat": 1.8,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2
+      }
+    }
+  },
+  {
+    "id": "br-brasilia-1-sf1",
+    "country": "br",
+    "province": "联邦特区",
+    "city": "巴西利亚",
+    "month": 1,
+    "category": "seafood",
+    "name": {
+      "zh": "鱼",
+      "en": "Fish"
+    },
+    "season": {
+      "zh": "夏季",
+      "en": "Summer"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "烤鱼",
+      "en": "Grilled Fish"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 91.2,
+      "carbohydrate": 0.9,
+      "protein": 19.1,
+      "fat": 2.1,
+      "vitamins": {
+        "c": 1.9,
+        "a": 19.5,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1,
+        "k": 1.1,
+        "b12": 2.7
+      }
+    }
+  },
+  {
+    "id": "br-brasilia-7-v1",
+    "country": "br",
+    "province": "联邦特区",
+    "city": "巴西利亚",
+    "month": 7,
+    "category": "vegetables",
+    "name": {
+      "zh": "花椰菜",
+      "en": "Broccoli"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选花球紧实的",
+      "en": "Choose tight heads"
+    },
+    "recipe": {
+      "zh": "烩花椰菜",
+      "en": "Stewed Broccoli"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 28.6,
+      "carbohydrate": 6.4,
+      "protein": 2.2,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 24.6,
+        "a": 97.6,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.3,
+        "k": 46.7
+      }
+    }
+  },
+  {
+    "id": "br-brasilia-7-f1",
+    "country": "br",
+    "province": "联邦特区",
+    "city": "巴西利亚",
+    "month": 7,
+    "category": "fruits",
+    "name": {
+      "zh": "猕猴桃",
+      "en": "Kiwi"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选表皮有绒毛、质地适中的",
+      "en": "Choose fuzzy skin with moderate texture"
+    },
+    "recipe": {
+      "zh": "猕猴桃沙拉",
+      "en": "Kiwi Salad"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 64,
+      "carbohydrate": 14.5,
+      "protein": 1.1,
+      "fat": 0.3,
+      "vitamins": {
+        "c": 32.4,
+        "a": 20.8,
+        "b1": 0,
+        "b2": 0,
+        "e": 0.2,
+        "k": 9.3
+      }
+    }
+  },
+  {
+    "id": "br-brasilia-7-m1",
+    "country": "br",
+    "province": "联邦特区",
+    "city": "巴西利亚",
+    "month": 7,
+    "category": "meats",
+    "name": {
+      "zh": "牛肉",
+      "en": "Beef"
+    },
+    "season": {
+      "zh": "四季",
+      "en": "All Year"
+    },
+    "tip": {
+      "zh": "选肉质紧实的",
+      "en": "Choose firm meat"
+    },
+    "recipe": {
+      "zh": "炖牛肉",
+      "en": "Stewed Beef"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 191.8,
+      "carbohydrate": 0,
+      "protein": 21.2,
+      "fat": 12.2,
+      "vitamins": {
+        "c": 0,
+        "a": 9.4,
+        "b1": 0.1,
+        "b2": 0.2,
+        "e": 0.5,
+        "k": 1.9,
+        "b12": 2
+      }
+    }
+  },
+  {
+    "id": "br-brasilia-7-s1",
+    "country": "br",
+    "province": "联邦特区",
+    "city": "巴西利亚",
+    "month": 7,
+    "category": "staples",
+    "name": {
+      "zh": "燕麦",
+      "en": "Oat"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选干燥的",
+      "en": "Choose dry"
+    },
+    "recipe": {
+      "zh": "燕麦粥",
+      "en": "Oatmeal"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 355,
+      "carbohydrate": 80.2,
+      "protein": 8,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 0,
+        "a": 0,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.2,
+        "k": 2.1
+      }
+    }
+  },
+  {
+    "id": "br-brasilia-7-sf1",
+    "country": "br",
+    "province": "联邦特区",
+    "city": "巴西利亚",
+    "month": 7,
+    "category": "seafood",
+    "name": {
+      "zh": "鱼",
+      "en": "Fish"
+    },
+    "season": {
+      "zh": "冬季",
+      "en": "Winter"
+    },
+    "tip": {
+      "zh": "选鳞片完整、眼睛清澈的",
+      "en": "Choose intact scales with clear eyes"
+    },
+    "recipe": {
+      "zh": "烤鱼",
+      "en": "Grilled Fish"
+    },
+    "nutrition": {
+      "per": "100g",
+      "calories": 102.7,
+      "carbohydrate": 1.1,
+      "protein": 16.9,
+      "fat": 2.2,
+      "vitamins": {
+        "c": 1.9,
+        "a": 20.9,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 1.1,
+        "k": 0.9,
+        "b12": 2.8
+      }
+    }
+  }
+]

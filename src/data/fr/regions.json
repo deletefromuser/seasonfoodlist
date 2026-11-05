@@ -1,0 +1,5 @@
+[
+  { "code": "idf", "name": { "zh": "法兰西岛大区", "en": "Île-de-France" }, "cities": ["巴黎"] },
+  { "code": "ara", "name": { "zh": "奥弗涅-罗讷-阿尔卑斯大区", "en": "Auvergne-Rhône-Alpes" }, "cities": ["里昂"] },
+  { "code": "paca", "name": { "zh": "普罗旺斯-阿尔卑斯-蓝色海岸大区", "en": "Provence-Alpes-Côte d'Azur" }, "cities": ["马赛", "尼斯"] }
+]
