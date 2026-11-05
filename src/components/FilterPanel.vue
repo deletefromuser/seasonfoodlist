@@ -74,7 +74,7 @@
 import { computed } from 'vue'
 import { filterStore, t } from '../store.js'
 
-defineProps({
+const props = defineProps({
   regions: {
     type: Array,
     required: true
@@ -82,7 +82,7 @@ defineProps({
 })
 
 const provinceOptions = computed(() => {
-  return regions.filter((r) => {
+  return props.regions.filter((r) => {
     return true
   })
 })
@@ -90,7 +90,7 @@ const provinceOptions = computed(() => {
 const cityOptions = computed(() => {
   const provinceName = filterStore.province
   if (!provinceName) return []
-  const region = regions.find(
+  const region = props.regions.find(
     (r) => (r.name[filterStore.lang] || r.name.zh) === provinceName
   )
   return region ? region.cities : []
