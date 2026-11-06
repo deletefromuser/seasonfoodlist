@@ -52,8 +52,7 @@ const loadCountries = async () => {
 
 const loadRegions = async () => {
   regions.value = await foodDataService.loadRegions(filterStore.country)
-  filterStore.province = ''
-  filterStore.city = ''
+  filterStore.region = ''
 }
 
 const loadFoods = async () => {
@@ -70,8 +69,7 @@ const filtered = computed(() => {
   // 季节快捷月份集合（优先级高于单月）
   const seasonMonths = f._seasonMonths || []
   return foods.value.filter((item) => {
-    if (f.province && item.province !== f.province) return false
-    if (f.city && item.city !== f.city) return false
+    if (f.region && item.region !== f.region) return false
     // 月份过滤：季节快捷优先，否则用单月
     if (seasonMonths.length > 0) {
       if (!seasonMonths.includes(item.month)) return false

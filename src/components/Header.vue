@@ -35,8 +35,7 @@ defineProps({
 })
 
 const resetLocation = () => {
-  filterStore.province = ''
-  filterStore.city = ''
+  filterStore.region = ''
 }
 </script>
 

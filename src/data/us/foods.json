@@ -2,8 +2,7 @@
   {
     "id": "us-ca-3-v1",
     "country": "us",
-    "province": "加利福尼亚州",
-    "city": "洛杉矶",
+    "region": "us-west",
     "month": 3,
     "category": "vegetables",
     "name": {
@@ -41,8 +40,7 @@
   {
     "id": "us-ca-3-f1",
     "country": "us",
-    "province": "加利福尼亚州",
-    "city": "洛杉矶",
+    "region": "us-west",
     "month": 3,
     "category": "fruits",
     "name": {
@@ -80,8 +78,7 @@
   {
     "id": "us-ca-3-m1",
     "country": "us",
-    "province": "加利福尼亚州",
-    "city": "洛杉矶",
+    "region": "us-west",
     "month": 3,
     "category": "meats",
     "name": {
@@ -120,8 +117,7 @@
   {
     "id": "us-ca-3-s1",
     "country": "us",
-    "province": "加利福尼亚州",
-    "city": "洛杉矶",
+    "region": "us-west",
     "month": 3,
     "category": "staples",
     "name": {
@@ -159,8 +155,7 @@
   {
     "id": "us-ca-9-v1",
     "country": "us",
-    "province": "加利福尼亚州",
-    "city": "旧金山",
+    "region": "us-west",
     "month": 9,
     "category": "vegetables",
     "name": {
@@ -198,8 +193,7 @@
   {
     "id": "us-ca-9-f1",
     "country": "us",
-    "province": "加利福尼亚州",
-    "city": "旧金山",
+    "region": "us-west",
     "month": 9,
     "category": "fruits",
     "name": {
@@ -237,8 +231,7 @@
   {
     "id": "us-ca-9-m1",
     "country": "us",
-    "province": "加利福尼亚州",
-    "city": "旧金山",
+    "region": "us-west",
     "month": 9,
     "category": "meats",
     "name": {
@@ -277,8 +270,7 @@
   {
     "id": "us-ca-9-s1",
     "country": "us",
-    "province": "加利福尼亚州",
-    "city": "旧金山",
+    "region": "us-west",
     "month": 9,
     "category": "staples",
     "name": {
@@ -316,8 +308,7 @@
   {
     "id": "us-ny-5-v1",
     "country": "us",
-    "province": "纽约州",
-    "city": "纽约市",
+    "region": "us-northeast",
     "month": 5,
     "category": "vegetables",
     "name": {
@@ -355,8 +346,7 @@
   {
     "id": "us-ny-5-f1",
     "country": "us",
-    "province": "纽约州",
-    "city": "纽约市",
+    "region": "us-northeast",
     "month": 5,
     "category": "fruits",
     "name": {
@@ -394,8 +384,7 @@
   {
     "id": "us-ny-5-m1",
     "country": "us",
-    "province": "纽约州",
-    "city": "纽约市",
+    "region": "us-northeast",
     "month": 5,
     "category": "meats",
     "name": {
@@ -434,8 +423,7 @@
   {
     "id": "us-ny-5-s1",
     "country": "us",
-    "province": "纽约州",
-    "city": "纽约市",
+    "region": "us-northeast",
     "month": 5,
     "category": "staples",
     "name": {
@@ -473,8 +461,7 @@
   {
     "id": "us-ny-10-v1",
     "country": "us",
-    "province": "纽约州",
-    "city": "布法罗",
+    "region": "us-northeast",
     "month": 10,
     "category": "vegetables",
     "name": {
@@ -512,8 +499,7 @@
   {
     "id": "us-ny-10-f1",
     "country": "us",
-    "province": "纽约州",
-    "city": "布法罗",
+    "region": "us-northeast",
     "month": 10,
     "category": "fruits",
     "name": {
@@ -551,8 +537,7 @@
   {
     "id": "us-ny-10-m1",
     "country": "us",
-    "province": "纽约州",
-    "city": "布法罗",
+    "region": "us-northeast",
     "month": 10,
     "category": "meats",
     "name": {
@@ -591,8 +576,7 @@
   {
     "id": "us-ny-10-s1",
     "country": "us",
-    "province": "纽约州",
-    "city": "布法罗",
+    "region": "us-northeast",
     "month": 10,
     "category": "staples",
     "name": {
@@ -630,8 +614,7 @@
   {
     "id": "us-tx-4-v1",
     "country": "us",
-    "province": "德克萨斯州",
-    "city": "休斯顿",
+    "region": "us-south",
     "month": 4,
     "category": "vegetables",
     "name": {
@@ -669,8 +652,7 @@
   {
     "id": "us-tx-4-f1",
     "country": "us",
-    "province": "德克萨斯州",
-    "city": "休斯顿",
+    "region": "us-south",
     "month": 4,
     "category": "fruits",
     "name": {
@@ -708,8 +690,7 @@
   {
     "id": "us-tx-4-m1",
     "country": "us",
-    "province": "德克萨斯州",
-    "city": "休斯顿",
+    "region": "us-south",
     "month": 4,
     "category": "meats",
     "name": {
@@ -748,8 +729,7 @@
   {
     "id": "us-tx-4-s1",
     "country": "us",
-    "province": "德克萨斯州",
-    "city": "休斯顿",
+    "region": "us-south",
     "month": 4,
     "category": "staples",
     "name": {
@@ -787,8 +767,7 @@
   {
     "id": "us-tx-11-v1",
     "country": "us",
-    "province": "德克萨斯州",
-    "city": "奥斯汀",
+    "region": "us-south",
     "month": 11,
     "category": "vegetables",
     "name": {
@@ -826,8 +805,7 @@
   {
     "id": "us-tx-11-f1",
     "country": "us",
-    "province": "德克萨斯州",
-    "city": "奥斯汀",
+    "region": "us-south",
     "month": 11,
     "category": "fruits",
     "name": {
@@ -865,8 +843,7 @@
   {
     "id": "us-tx-11-m1",
     "country": "us",
-    "province": "德克萨斯州",
-    "city": "奥斯汀",
+    "region": "us-south",
     "month": 11,
     "category": "meats",
     "name": {
@@ -905,8 +882,7 @@
   {
     "id": "us-tx-11-s1",
     "country": "us",
-    "province": "德克萨斯州",
-    "city": "奥斯汀",
+    "region": "us-south",
     "month": 11,
     "category": "staples",
     "name": {

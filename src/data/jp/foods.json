@@ -2,8 +2,7 @@
   {
     "id": "jp-tk-4-v1",
     "country": "jp",
-    "province": "东京都",
-    "city": "东京23区",
+    "region": "jp-east",
     "month": 4,
     "category": "vegetables",
     "name": {
@@ -41,8 +40,7 @@
   {
     "id": "jp-tk-4-f1",
     "country": "jp",
-    "province": "东京都",
-    "city": "东京23区",
+    "region": "jp-east",
     "month": 4,
     "category": "fruits",
     "name": {
@@ -80,8 +78,7 @@
   {
     "id": "jp-tk-4-m1",
     "country": "jp",
-    "province": "东京都",
-    "city": "东京23区",
+    "region": "jp-east",
     "month": 4,
     "category": "meats",
     "name": {
@@ -120,8 +117,7 @@
   {
     "id": "jp-tk-4-s1",
     "country": "jp",
-    "province": "东京都",
-    "city": "东京23区",
+    "region": "jp-east",
     "month": 4,
     "category": "staples",
     "name": {
@@ -159,8 +155,7 @@
   {
     "id": "jp-tk-10-v1",
     "country": "jp",
-    "province": "东京都",
-    "city": "横浜市",
+    "region": "jp-east",
     "month": 10,
     "category": "vegetables",
     "name": {
@@ -198,8 +193,7 @@
   {
     "id": "jp-tk-10-f1",
     "country": "jp",
-    "province": "东京都",
-    "city": "横浜市",
+    "region": "jp-east",
     "month": 10,
     "category": "fruits",
     "name": {
@@ -237,8 +231,7 @@
   {
     "id": "jp-tk-10-m1",
     "country": "jp",
-    "province": "东京都",
-    "city": "横浜市",
+    "region": "jp-east",
     "month": 10,
     "category": "meats",
     "name": {
@@ -277,8 +270,7 @@
   {
     "id": "jp-tk-10-s1",
     "country": "jp",
-    "province": "东京都",
-    "city": "横浜市",
+    "region": "jp-east",
     "month": 10,
     "category": "staples",
     "name": {
@@ -316,8 +308,7 @@
   {
     "id": "jp-os-5-v1",
     "country": "jp",
-    "province": "大阪府",
-    "city": "大阪市",
+    "region": "jp-west",
     "month": 5,
     "category": "vegetables",
     "name": {
@@ -355,8 +346,7 @@
   {
     "id": "jp-os-5-f1",
     "country": "jp",
-    "province": "大阪府",
-    "city": "大阪市",
+    "region": "jp-west",
     "month": 5,
     "category": "fruits",
     "name": {
@@ -394,8 +384,7 @@
   {
     "id": "jp-os-5-m1",
     "country": "jp",
-    "province": "大阪府",
-    "city": "大阪市",
+    "region": "jp-west",
     "month": 5,
     "category": "meats",
     "name": {
@@ -434,8 +423,7 @@
   {
     "id": "jp-os-5-s1",
     "country": "jp",
-    "province": "大阪府",
-    "city": "大阪市",
+    "region": "jp-west",
     "month": 5,
     "category": "staples",
     "name": {
@@ -473,8 +461,7 @@
   {
     "id": "jp-os-11-v1",
     "country": "jp",
-    "province": "大阪府",
-    "city": "大阪市",
+    "region": "jp-west",
     "month": 11,
     "category": "vegetables",
     "name": {
@@ -512,8 +499,7 @@
   {
     "id": "jp-os-11-f1",
     "country": "jp",
-    "province": "大阪府",
-    "city": "大阪市",
+    "region": "jp-west",
     "month": 11,
     "category": "fruits",
     "name": {
@@ -551,8 +537,7 @@
   {
     "id": "jp-os-11-m1",
     "country": "jp",
-    "province": "大阪府",
-    "city": "大阪市",
+    "region": "jp-west",
     "month": 11,
     "category": "meats",
     "name": {
@@ -591,8 +576,7 @@
   {
     "id": "jp-os-11-s1",
     "country": "jp",
-    "province": "大阪府",
-    "city": "大阪市",
+    "region": "jp-west",
     "month": 11,
     "category": "staples",
     "name": {
@@ -630,8 +614,7 @@
   {
     "id": "jp-hk-6-v1",
     "country": "jp",
-    "province": "北海道",
-    "city": "札幌市",
+    "region": "jp-hokkaido",
     "month": 6,
     "category": "vegetables",
     "name": {
@@ -669,8 +652,7 @@
   {
     "id": "jp-hk-6-f1",
     "country": "jp",
-    "province": "北海道",
-    "city": "札幌市",
+    "region": "jp-hokkaido",
     "month": 6,
     "category": "fruits",
     "name": {
@@ -708,8 +690,7 @@
   {
     "id": "jp-hk-6-m1",
     "country": "jp",
-    "province": "北海道",
-    "city": "札幌市",
+    "region": "jp-hokkaido",
     "month": 6,
     "category": "meats",
     "name": {
@@ -748,8 +729,7 @@
   {
     "id": "jp-hk-6-s1",
     "country": "jp",
-    "province": "北海道",
-    "city": "札幌市",
+    "region": "jp-hokkaido",
     "month": 6,
     "category": "staples",
     "name": {
@@ -787,8 +767,7 @@
   {
     "id": "jp-hk-11-v1",
     "country": "jp",
-    "province": "北海道",
-    "city": "札幌市",
+    "region": "jp-hokkaido",
     "month": 11,
     "category": "vegetables",
     "name": {
@@ -826,8 +805,7 @@
   {
     "id": "jp-hk-11-f1",
     "country": "jp",
-    "province": "北海道",
-    "city": "札幌市",
+    "region": "jp-hokkaido",
     "month": 11,
     "category": "fruits",
     "name": {
@@ -865,8 +843,7 @@
   {
     "id": "jp-hk-11-m1",
     "country": "jp",
-    "province": "北海道",
-    "city": "札幌市",
+    "region": "jp-hokkaido",
     "month": 11,
     "category": "meats",
     "name": {
@@ -905,8 +882,7 @@
   {
     "id": "jp-hk-11-s1",
     "country": "jp",
-    "province": "北海道",
-    "city": "札幌市",
+    "region": "jp-hokkaido",
     "month": 11,
     "category": "staples",
     "name": {

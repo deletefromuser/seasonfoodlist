@@ -2,8 +2,7 @@
   {
     "id": "gb-en-4-v1",
     "country": "gb",
-    "province": "英格兰",
-    "city": "伦敦",
+    "region": "gb-england",
     "month": 4,
     "category": "vegetables",
     "name": {
@@ -41,8 +40,7 @@
   {
     "id": "gb-en-4-f1",
     "country": "gb",
-    "province": "英格兰",
-    "city": "伦敦",
+    "region": "gb-england",
     "month": 4,
     "category": "fruits",
     "name": {
@@ -80,8 +78,7 @@
   {
     "id": "gb-en-4-m1",
     "country": "gb",
-    "province": "英格兰",
-    "city": "伦敦",
+    "region": "gb-england",
     "month": 4,
     "category": "meats",
     "name": {
@@ -120,8 +117,7 @@
   {
     "id": "gb-en-4-s1",
     "country": "gb",
-    "province": "英格兰",
-    "city": "伦敦",
+    "region": "gb-england",
     "month": 4,
     "category": "staples",
     "name": {
@@ -159,8 +155,7 @@
   {
     "id": "gb-en-8-v1",
     "country": "gb",
-    "province": "英格兰",
-    "city": "曼彻斯特",
+    "region": "gb-england",
     "month": 8,
     "category": "vegetables",
     "name": {
@@ -198,8 +193,7 @@
   {
     "id": "gb-en-8-f1",
     "country": "gb",
-    "province": "英格兰",
-    "city": "曼彻斯特",
+    "region": "gb-england",
     "month": 8,
     "category": "fruits",
     "name": {
@@ -237,8 +231,7 @@
   {
     "id": "gb-en-8-m1",
     "country": "gb",
-    "province": "英格兰",
-    "city": "曼彻斯特",
+    "region": "gb-england",
     "month": 8,
     "category": "meats",
     "name": {
@@ -277,8 +270,7 @@
   {
     "id": "gb-en-8-s1",
     "country": "gb",
-    "province": "英格兰",
-    "city": "曼彻斯特",
+    "region": "gb-england",
     "month": 8,
     "category": "staples",
     "name": {
@@ -316,8 +308,7 @@
   {
     "id": "gb-sc-9-v1",
     "country": "gb",
-    "province": "苏格兰",
-    "city": "爱丁堡",
+    "region": "gb-scotland",
     "month": 9,
     "category": "vegetables",
     "name": {
@@ -355,8 +346,7 @@
   {
     "id": "gb-sc-9-f1",
     "country": "gb",
-    "province": "苏格兰",
-    "city": "爱丁堡",
+    "region": "gb-scotland",
     "month": 9,
     "category": "fruits",
     "name": {
@@ -394,8 +384,7 @@
   {
     "id": "gb-sc-9-m1",
     "country": "gb",
-    "province": "苏格兰",
-    "city": "爱丁堡",
+    "region": "gb-scotland",
     "month": 9,
     "category": "meats",
     "name": {
@@ -434,8 +423,7 @@
   {
     "id": "gb-sc-9-s1",
     "country": "gb",
-    "province": "苏格兰",
-    "city": "爱丁堡",
+    "region": "gb-scotland",
     "month": 9,
     "category": "staples",
     "name": {
@@ -473,8 +461,7 @@
   {
     "id": "gb-wa-10-v1",
     "country": "gb",
-    "province": "威尔士",
-    "city": "卡迪夫",
+    "region": "gb-wales",
     "month": 10,
     "category": "vegetables",
     "name": {
@@ -512,8 +499,7 @@
   {
     "id": "gb-wa-10-f1",
     "country": "gb",
-    "province": "威尔士",
-    "city": "卡迪夫",
+    "region": "gb-wales",
     "month": 10,
     "category": "fruits",
     "name": {
@@ -551,8 +537,7 @@
   {
     "id": "gb-wa-10-m1",
     "country": "gb",
-    "province": "威尔士",
-    "city": "卡迪夫",
+    "region": "gb-wales",
     "month": 10,
     "category": "meats",
     "name": {
@@ -591,8 +576,7 @@
   {
     "id": "gb-wa-10-s1",
     "country": "gb",
-    "province": "威尔士",
-    "city": "卡迪夫",
+    "region": "gb-wales",
     "month": 10,
     "category": "staples",
     "name": {

@@ -2,8 +2,7 @@
   {
     "id": "au-nsw-12-v1",
     "country": "au",
-    "province": "新南威尔士州",
-    "city": "悉尼",
+    "region": "au-southeast",
     "month": 12,
     "category": "vegetables",
     "name": {
@@ -41,8 +40,7 @@
   {
     "id": "au-nsw-12-f1",
     "country": "au",
-    "province": "新南威尔士州",
-    "city": "悉尼",
+    "region": "au-southeast",
     "month": 12,
     "category": "fruits",
     "name": {
@@ -80,8 +78,7 @@
   {
     "id": "au-nsw-12-m1",
     "country": "au",
-    "province": "新南威尔士州",
-    "city": "悉尼",
+    "region": "au-southeast",
     "month": 12,
     "category": "meats",
     "name": {
@@ -120,8 +117,7 @@
   {
     "id": "au-nsw-12-s1",
     "country": "au",
-    "province": "新南威尔士州",
-    "city": "悉尼",
+    "region": "au-southeast",
     "month": 12,
     "category": "staples",
     "name": {
@@ -159,8 +155,7 @@
   {
     "id": "au-nsw-6-v1",
     "country": "au",
-    "province": "新南威尔士州",
-    "city": "纽卡斯尔",
+    "region": "au-southeast",
     "month": 6,
     "category": "vegetables",
     "name": {
@@ -198,8 +193,7 @@
   {
     "id": "au-nsw-6-f1",
     "country": "au",
-    "province": "新南威尔士州",
-    "city": "纽卡斯尔",
+    "region": "au-southeast",
     "month": 6,
     "category": "fruits",
     "name": {
@@ -237,8 +231,7 @@
   {
     "id": "au-nsw-6-m1",
     "country": "au",
-    "province": "新南威尔士州",
-    "city": "纽卡斯尔",
+    "region": "au-southeast",
     "month": 6,
     "category": "meats",
     "name": {
@@ -277,8 +270,7 @@
   {
     "id": "au-nsw-6-s1",
     "country": "au",
-    "province": "新南威尔士州",
-    "city": "纽卡斯尔",
+    "region": "au-southeast",
     "month": 6,
     "category": "staples",
     "name": {
@@ -316,8 +308,7 @@
   {
     "id": "au-vic-1-v1",
     "country": "au",
-    "province": "维多利亚州",
-    "city": "墨尔本",
+    "region": "au-southeast",
     "month": 1,
     "category": "vegetables",
     "name": {
@@ -355,8 +346,7 @@
   {
     "id": "au-vic-1-f1",
     "country": "au",
-    "province": "维多利亚州",
-    "city": "墨尔本",
+    "region": "au-southeast",
     "month": 1,
     "category": "fruits",
     "name": {
@@ -394,8 +384,7 @@
   {
     "id": "au-vic-1-m1",
     "country": "au",
-    "province": "维多利亚州",
-    "city": "墨尔本",
+    "region": "au-southeast",
     "month": 1,
     "category": "meats",
     "name": {
@@ -434,8 +423,7 @@
   {
     "id": "au-vic-1-s1",
     "country": "au",
-    "province": "维多利亚州",
-    "city": "墨尔本",
+    "region": "au-southeast",
     "month": 1,
     "category": "staples",
     "name": {
@@ -473,8 +461,7 @@
   {
     "id": "au-vic-7-v1",
     "country": "au",
-    "province": "维多利亚州",
-    "city": "墨尔本",
+    "region": "au-southeast",
     "month": 7,
     "category": "vegetables",
     "name": {
@@ -512,8 +499,7 @@
   {
     "id": "au-vic-7-f1",
     "country": "au",
-    "province": "维多利亚州",
-    "city": "墨尔本",
+    "region": "au-southeast",
     "month": 7,
     "category": "fruits",
     "name": {
@@ -551,8 +537,7 @@
   {
     "id": "au-vic-7-m1",
     "country": "au",
-    "province": "维多利亚州",
-    "city": "墨尔本",
+    "region": "au-southeast",
     "month": 7,
     "category": "meats",
     "name": {
@@ -591,8 +576,7 @@
   {
     "id": "au-vic-7-s1",
     "country": "au",
-    "province": "维多利亚州",
-    "city": "墨尔本",
+    "region": "au-southeast",
     "month": 7,
     "category": "staples",
     "name": {
@@ -630,8 +614,7 @@
   {
     "id": "au-qld-3-v1",
     "country": "au",
-    "province": "昆士兰州",
-    "city": "布里斯班",
+    "region": "au-northeast",
     "month": 3,
     "category": "vegetables",
     "name": {
@@ -669,8 +652,7 @@
   {
     "id": "au-qld-3-f1",
     "country": "au",
-    "province": "昆士兰州",
-    "city": "布里斯班",
+    "region": "au-northeast",
     "month": 3,
     "category": "fruits",
     "name": {
@@ -708,8 +690,7 @@
   {
     "id": "au-qld-3-m1",
     "country": "au",
-    "province": "昆士兰州",
-    "city": "布里斯班",
+    "region": "au-northeast",
     "month": 3,
     "category": "meats",
     "name": {
@@ -748,8 +729,7 @@
   {
     "id": "au-qld-3-s1",
     "country": "au",
-    "province": "昆士兰州",
-    "city": "布里斯班",
+    "region": "au-northeast",
     "month": 3,
     "category": "staples",
     "name": {
@@ -787,8 +767,7 @@
   {
     "id": "au-qld-9-v1",
     "country": "au",
-    "province": "昆士兰州",
-    "city": "布里斯班",
+    "region": "au-northeast",
     "month": 9,
     "category": "vegetables",
     "name": {
@@ -826,8 +805,7 @@
   {
     "id": "au-qld-9-f1",
     "country": "au",
-    "province": "昆士兰州",
-    "city": "布里斯班",
+    "region": "au-northeast",
     "month": 9,
     "category": "fruits",
     "name": {
@@ -865,8 +843,7 @@
   {
     "id": "au-qld-9-m1",
     "country": "au",
-    "province": "昆士兰州",
-    "city": "布里斯班",
+    "region": "au-northeast",
     "month": 9,
     "category": "meats",
     "name": {
@@ -905,8 +882,7 @@
   {
     "id": "au-qld-9-s1",
     "country": "au",
-    "province": "昆士兰州",
-    "city": "布里斯班",
+    "region": "au-northeast",
     "month": 9,
     "category": "staples",
     "name": {

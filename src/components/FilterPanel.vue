@@ -1,26 +1,14 @@
 <template>
   <aside class="filter-panel">
-    <div class="panel-title">{{ t('nav.country') }} / {{ t('nav.province') }} / {{ t('nav.city') }}</div>
+    <div class="panel-title">{{ t('nav.country') }} / {{ t('nav.region') }}</div>
 
     <div class="filter-group">
-      <label class="filter-label">{{ t('nav.province') }}</label>
-      <select v-model="filterStore.province" class="filter-select">
+      <label class="filter-label">{{ t('nav.region') }}</label>
+      <select v-model="filterStore.region" class="filter-select">
         <option value="">{{ t('btn.all') }}</option>
-        <option
-          v-for="r in provinceOptions"
-          :key="r.code"
-          :value="r.name[filterStore.lang] || r.name.zh"
-        >
+        <option v-for="r in regionOptions" :key="r.code" :value="r.code">
           {{ r.name[filterStore.lang] || r.name.zh }}
         </option>
-      </select>
-    </div>
-
-    <div class="filter-group">
-      <label class="filter-label">{{ t('nav.city') }}</label>
-      <select v-model="filterStore.city" class="filter-select">
-        <option value="">{{ t('btn.all') }}</option>
-        <option v-for="c in cityOptions" :key="c" :value="c">{{ c }}</option>
       </select>
     </div>
 
@@ -81,19 +69,8 @@ const props = defineProps({
   }
 })
 
-const provinceOptions = computed(() => {
-  return props.regions.filter((r) => {
-    return true
-  })
-})
-
-const cityOptions = computed(() => {
-  const provinceName = filterStore.province
-  if (!provinceName) return []
-  const region = props.regions.find(
-    (r) => (r.name[filterStore.lang] || r.name.zh) === provinceName
-  )
-  return region ? region.cities : []
+const regionOptions = computed(() => {
+  return props.regions
 })
 
 const seasonOptions = [
@@ -122,8 +99,7 @@ const monthsLabel = (key) => {
 }
 
 const resetFilters = () => {
-  filterStore.province = ''
-  filterStore.city = ''
+  filterStore.region = ''
   filterStore.month = ''
   filterStore.seasonQuick = 'all'
   filterStore.category = 'all'

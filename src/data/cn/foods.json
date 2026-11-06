@@ -2,8 +2,7 @@
   {
     "id": "cn-gd-3-v1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 3,
     "category": "vegetables",
     "name": {
@@ -41,8 +40,7 @@
   {
     "id": "cn-gd-3-f1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 3,
     "category": "fruits",
     "name": {
@@ -80,8 +78,7 @@
   {
     "id": "cn-gd-3-m1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 3,
     "category": "meats",
     "name": {
@@ -120,8 +117,7 @@
   {
     "id": "cn-gd-3-s1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 3,
     "category": "staples",
     "name": {
@@ -159,8 +155,7 @@
   {
     "id": "cn-gd-6-v1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 6,
     "category": "vegetables",
     "name": {
@@ -198,8 +193,7 @@
   {
     "id": "cn-gd-6-f1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 6,
     "category": "fruits",
     "name": {
@@ -237,8 +231,7 @@
   {
     "id": "cn-gd-6-m1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 6,
     "category": "meats",
     "name": {
@@ -277,8 +270,7 @@
   {
     "id": "cn-gd-6-s1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 6,
     "category": "staples",
     "name": {
@@ -316,8 +308,7 @@
   {
     "id": "cn-gd-6-sf1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 6,
     "category": "seafood",
     "name": {
@@ -356,8 +347,7 @@
   {
     "id": "cn-gd-9-v1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 9,
     "category": "vegetables",
     "name": {
@@ -395,8 +385,7 @@
   {
     "id": "cn-gd-9-f1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 9,
     "category": "fruits",
     "name": {
@@ -434,8 +423,7 @@
   {
     "id": "cn-gd-9-m1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 9,
     "category": "meats",
     "name": {
@@ -474,8 +462,7 @@
   {
     "id": "cn-gd-9-s1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 9,
     "category": "staples",
     "name": {
@@ -513,8 +500,7 @@
   {
     "id": "cn-gd-9-sf1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 9,
     "category": "seafood",
     "name": {
@@ -553,8 +539,7 @@
   {
     "id": "cn-gd-12-v1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 12,
     "category": "vegetables",
     "name": {
@@ -592,8 +577,7 @@
   {
     "id": "cn-gd-12-f1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 12,
     "category": "fruits",
     "name": {
@@ -631,8 +615,7 @@
   {
     "id": "cn-gd-12-m1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 12,
     "category": "meats",
     "name": {
@@ -671,8 +654,7 @@
   {
     "id": "cn-gd-12-s1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 12,
     "category": "staples",
     "name": {
@@ -710,8 +692,7 @@
   {
     "id": "cn-gd-12-sf1",
     "country": "cn",
-    "province": "广东省",
-    "city": "广州市",
+    "region": "cn-south",
     "month": 12,
     "category": "seafood",
     "name": {
@@ -750,8 +731,7 @@
   {
     "id": "cn-sz-4-v1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 4,
     "category": "vegetables",
     "name": {
@@ -789,8 +769,7 @@
   {
     "id": "cn-sz-4-f1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 4,
     "category": "fruits",
     "name": {
@@ -828,8 +807,7 @@
   {
     "id": "cn-sz-4-m1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 4,
     "category": "meats",
     "name": {
@@ -868,8 +846,7 @@
   {
     "id": "cn-sz-4-s1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 4,
     "category": "staples",
     "name": {
@@ -907,8 +884,7 @@
   {
     "id": "cn-sz-4-sf1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 4,
     "category": "seafood",
     "name": {
@@ -947,8 +923,7 @@
   {
     "id": "cn-sz-7-v1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 7,
     "category": "vegetables",
     "name": {
@@ -986,8 +961,7 @@
   {
     "id": "cn-sz-7-f1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 7,
     "category": "fruits",
     "name": {
@@ -1025,8 +999,7 @@
   {
     "id": "cn-sz-7-m1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 7,
     "category": "meats",
     "name": {
@@ -1065,8 +1038,7 @@
   {
     "id": "cn-sz-7-s1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 7,
     "category": "staples",
     "name": {
@@ -1104,8 +1076,7 @@
   {
     "id": "cn-sz-7-sf1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 7,
     "category": "seafood",
     "name": {
@@ -1144,8 +1115,7 @@
   {
     "id": "cn-sz-10-v1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 10,
     "category": "vegetables",
     "name": {
@@ -1183,8 +1153,7 @@
   {
     "id": "cn-sz-10-f1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 10,
     "category": "fruits",
     "name": {
@@ -1222,8 +1191,7 @@
   {
     "id": "cn-sz-10-m1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 10,
     "category": "meats",
     "name": {
@@ -1262,8 +1230,7 @@
   {
     "id": "cn-sz-10-s1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 10,
     "category": "staples",
     "name": {
@@ -1301,8 +1268,7 @@
   {
     "id": "cn-sz-10-sf1",
     "country": "cn",
-    "province": "广东省",
-    "city": "深圳市",
+    "region": "cn-south",
     "month": 10,
     "category": "seafood",
     "name": {
@@ -1341,8 +1307,7 @@
   {
     "id": "cn-zh-1-v1",
     "country": "cn",
-    "province": "广东省",
-    "city": "珠海市",
+    "region": "cn-south",
     "month": 1,
     "category": "vegetables",
     "name": {
@@ -1380,8 +1345,7 @@
   {
     "id": "cn-zh-1-f1",
     "country": "cn",
-    "province": "广东省",
-    "city": "珠海市",
+    "region": "cn-south",
     "month": 1,
     "category": "fruits",
     "name": {
@@ -1419,8 +1383,7 @@
   {
     "id": "cn-zh-1-m1",
     "country": "cn",
-    "province": "广东省",
-    "city": "珠海市",
+    "region": "cn-south",
     "month": 1,
     "category": "meats",
     "name": {
@@ -1459,8 +1422,7 @@
   {
     "id": "cn-zh-1-s1",
     "country": "cn",
-    "province": "广东省",
-    "city": "珠海市",
+    "region": "cn-south",
     "month": 1,
     "category": "staples",
     "name": {
@@ -1498,8 +1460,7 @@
   {
     "id": "cn-zh-1-sf1",
     "country": "cn",
-    "province": "广东省",
-    "city": "珠海市",
+    "region": "cn-south",
     "month": 1,
     "category": "seafood",
     "name": {
@@ -1538,8 +1499,7 @@
   {
     "id": "cn-zh-5-v1",
     "country": "cn",
-    "province": "广东省",
-    "city": "珠海市",
+    "region": "cn-south",
     "month": 5,
     "category": "vegetables",
     "name": {
@@ -1577,8 +1537,7 @@
   {
     "id": "cn-zh-5-f1",
     "country": "cn",
-    "province": "广东省",
-    "city": "珠海市",
+    "region": "cn-south",
     "month": 5,
     "category": "fruits",
     "name": {
@@ -1616,8 +1575,7 @@
   {
     "id": "cn-zh-5-m1",
     "country": "cn",
-    "province": "广东省",
-    "city": "珠海市",
+    "region": "cn-south",
     "month": 5,
     "category": "meats",
     "name": {
@@ -1656,8 +1614,7 @@
   {
     "id": "cn-zh-5-s1",
     "country": "cn",
-    "province": "广东省",
-    "city": "珠海市",
+    "region": "cn-south",
     "month": 5,
     "category": "staples",
     "name": {
@@ -1695,8 +1652,7 @@
   {
     "id": "cn-zh-5-sf1",
     "country": "cn",
-    "province": "广东省",
-    "city": "珠海市",
+    "region": "cn-south",
     "month": 5,
     "category": "seafood",
     "name": {
@@ -1735,8 +1691,7 @@
   {
     "id": "cn-cd-3-v1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 3,
     "category": "vegetables",
     "name": {
@@ -1774,8 +1729,7 @@
   {
     "id": "cn-cd-3-f1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 3,
     "category": "fruits",
     "name": {
@@ -1813,8 +1767,7 @@
   {
     "id": "cn-cd-3-m1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 3,
     "category": "meats",
     "name": {
@@ -1853,8 +1806,7 @@
   {
     "id": "cn-cd-3-s1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 3,
     "category": "staples",
     "name": {
@@ -1892,8 +1844,7 @@
   {
     "id": "cn-cd-3-sf1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 3,
     "category": "seafood",
     "name": {
@@ -1932,8 +1883,7 @@
   {
     "id": "cn-cd-6-v1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 6,
     "category": "vegetables",
     "name": {
@@ -1971,8 +1921,7 @@
   {
     "id": "cn-cd-6-f1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 6,
     "category": "fruits",
     "name": {
@@ -2010,8 +1959,7 @@
   {
     "id": "cn-cd-6-m1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 6,
     "category": "meats",
     "name": {
@@ -2050,8 +1998,7 @@
   {
     "id": "cn-cd-6-s1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 6,
     "category": "staples",
     "name": {
@@ -2089,8 +2036,7 @@
   {
     "id": "cn-cd-6-sf1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 6,
     "category": "seafood",
     "name": {
@@ -2129,8 +2075,7 @@
   {
     "id": "cn-cd-9-v1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 9,
     "category": "vegetables",
     "name": {
@@ -2168,8 +2113,7 @@
   {
     "id": "cn-cd-9-f1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 9,
     "category": "fruits",
     "name": {
@@ -2207,8 +2151,7 @@
   {
     "id": "cn-cd-9-m1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 9,
     "category": "meats",
     "name": {
@@ -2247,8 +2190,7 @@
   {
     "id": "cn-cd-9-s1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 9,
     "category": "staples",
     "name": {
@@ -2286,8 +2228,7 @@
   {
     "id": "cn-cd-9-sf1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 9,
     "category": "seafood",
     "name": {
@@ -2326,8 +2267,7 @@
   {
     "id": "cn-cd-12-v1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 12,
     "category": "vegetables",
     "name": {
@@ -2365,8 +2305,7 @@
   {
     "id": "cn-cd-12-f1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 12,
     "category": "fruits",
     "name": {
@@ -2404,8 +2343,7 @@
   {
     "id": "cn-cd-12-m1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 12,
     "category": "meats",
     "name": {
@@ -2444,8 +2382,7 @@
   {
     "id": "cn-cd-12-s1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 12,
     "category": "staples",
     "name": {
@@ -2483,8 +2420,7 @@
   {
     "id": "cn-cd-12-sf1",
     "country": "cn",
-    "province": "四川省",
-    "city": "成都市",
+    "region": "cn-southwest",
     "month": 12,
     "category": "seafood",
     "name": {
@@ -2523,8 +2459,7 @@
   {
     "id": "cn-my-4-v1",
     "country": "cn",
-    "province": "四川省",
-    "city": "绵阳市",
+    "region": "cn-southwest",
     "month": 4,
     "category": "vegetables",
     "name": {
@@ -2562,8 +2497,7 @@
   {
     "id": "cn-my-4-f1",
     "country": "cn",
-    "province": "四川省",
-    "city": "绵阳市",
+    "region": "cn-southwest",
     "month": 4,
     "category": "fruits",
     "name": {
@@ -2601,8 +2535,7 @@
   {
     "id": "cn-my-4-m1",
     "country": "cn",
-    "province": "四川省",
-    "city": "绵阳市",
+    "region": "cn-southwest",
     "month": 4,
     "category": "meats",
     "name": {
@@ -2641,8 +2574,7 @@
   {
     "id": "cn-my-4-s1",
     "country": "cn",
-    "province": "四川省",
-    "city": "绵阳市",
+    "region": "cn-southwest",
     "month": 4,
     "category": "staples",
     "name": {
@@ -2680,8 +2612,7 @@
   {
     "id": "cn-my-4-sf1",
     "country": "cn",
-    "province": "四川省",
-    "city": "绵阳市",
+    "region": "cn-southwest",
     "month": 4,
     "category": "seafood",
     "name": {
@@ -2720,8 +2651,7 @@
   {
     "id": "cn-my-8-v1",
     "country": "cn",
-    "province": "四川省",
-    "city": "绵阳市",
+    "region": "cn-southwest",
     "month": 8,
     "category": "vegetables",
     "name": {
@@ -2759,8 +2689,7 @@
   {
     "id": "cn-my-8-f1",
     "country": "cn",
-    "province": "四川省",
-    "city": "绵阳市",
+    "region": "cn-southwest",
     "month": 8,
     "category": "fruits",
     "name": {
@@ -2798,8 +2727,7 @@
   {
     "id": "cn-my-8-m1",
     "country": "cn",
-    "province": "四川省",
-    "city": "绵阳市",
+    "region": "cn-southwest",
     "month": 8,
     "category": "meats",
     "name": {
@@ -2838,8 +2766,7 @@
   {
     "id": "cn-my-8-s1",
     "country": "cn",
-    "province": "四川省",
-    "city": "绵阳市",
+    "region": "cn-southwest",
     "month": 8,
     "category": "staples",
     "name": {
@@ -2877,8 +2804,7 @@
   {
     "id": "cn-my-8-sf1",
     "country": "cn",
-    "province": "四川省",
-    "city": "绵阳市",
+    "region": "cn-southwest",
     "month": 8,
     "category": "seafood",
     "name": {
@@ -2917,8 +2843,7 @@
   {
     "id": "cn-bj-5-v1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 5,
     "category": "vegetables",
     "name": {
@@ -2956,8 +2881,7 @@
   {
     "id": "cn-bj-5-f1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 5,
     "category": "fruits",
     "name": {
@@ -2995,8 +2919,7 @@
   {
     "id": "cn-bj-5-m1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 5,
     "category": "meats",
     "name": {
@@ -3035,8 +2958,7 @@
   {
     "id": "cn-bj-5-s1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 5,
     "category": "staples",
     "name": {
@@ -3074,8 +2996,7 @@
   {
     "id": "cn-bj-5-sf1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 5,
     "category": "seafood",
     "name": {
@@ -3114,8 +3035,7 @@
   {
     "id": "cn-bj-9-v1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 9,
     "category": "vegetables",
     "name": {
@@ -3153,8 +3073,7 @@
   {
     "id": "cn-bj-9-f1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 9,
     "category": "fruits",
     "name": {
@@ -3192,8 +3111,7 @@
   {
     "id": "cn-bj-9-m1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 9,
     "category": "meats",
     "name": {
@@ -3232,8 +3150,7 @@
   {
     "id": "cn-bj-9-s1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 9,
     "category": "staples",
     "name": {
@@ -3271,8 +3188,7 @@
   {
     "id": "cn-bj-9-sf1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 9,
     "category": "seafood",
     "name": {
@@ -3311,8 +3227,7 @@
   {
     "id": "cn-bj-1-v1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 1,
     "category": "vegetables",
     "name": {
@@ -3350,8 +3265,7 @@
   {
     "id": "cn-bj-1-f1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 1,
     "category": "fruits",
     "name": {
@@ -3389,8 +3303,7 @@
   {
     "id": "cn-bj-1-m1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 1,
     "category": "meats",
     "name": {
@@ -3429,8 +3342,7 @@
   {
     "id": "cn-bj-1-s1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 1,
     "category": "staples",
     "name": {
@@ -3468,8 +3380,7 @@
   {
     "id": "cn-bj-1-sf1",
     "country": "cn",
-    "province": "北京市",
-    "city": "北京市",
+    "region": "cn-north",
     "month": 1,
     "category": "seafood",
     "name": {
@@ -3508,8 +3419,7 @@
   {
     "id": "cn-sh-4-v1",
     "country": "cn",
-    "province": "上海市",
-    "city": "上海市",
+    "region": "cn-east",
     "month": 4,
     "category": "vegetables",
     "name": {
@@ -3547,8 +3457,7 @@
   {
     "id": "cn-sh-4-f1",
     "country": "cn",
-    "province": "上海市",
-    "city": "上海市",
+    "region": "cn-east",
     "month": 4,
     "category": "fruits",
     "name": {
@@ -3586,8 +3495,7 @@
   {
     "id": "cn-sh-4-m1",
     "country": "cn",
-    "province": "上海市",
-    "city": "上海市",
+    "region": "cn-east",
     "month": 4,
     "category": "meats",
     "name": {
@@ -3626,8 +3534,7 @@
   {
     "id": "cn-sh-4-s1",
     "country": "cn",
-    "province": "上海市",
-    "city": "上海市",
+    "region": "cn-east",
     "month": 4,
     "category": "staples",
     "name": {
@@ -3665,8 +3572,7 @@
   {
     "id": "cn-sh-4-sf1",
     "country": "cn",
-    "province": "上海市",
-    "city": "上海市",
+    "region": "cn-east",
     "month": 4,
     "category": "seafood",
     "name": {
@@ -3705,8 +3611,7 @@
   {
     "id": "cn-sh-10-v1",
     "country": "cn",
-    "province": "上海市",
-    "city": "上海市",
+    "region": "cn-east",
     "month": 10,
     "category": "vegetables",
     "name": {
@@ -3744,8 +3649,7 @@
   {
     "id": "cn-sh-10-f1",
     "country": "cn",
-    "province": "上海市",
-    "city": "上海市",
+    "region": "cn-east",
     "month": 10,
     "category": "fruits",
     "name": {
@@ -3783,8 +3687,7 @@
   {
     "id": "cn-sh-10-m1",
     "country": "cn",
-    "province": "上海市",
-    "city": "上海市",
+    "region": "cn-east",
     "month": 10,
     "category": "meats",
     "name": {
@@ -3823,8 +3726,7 @@
   {
     "id": "cn-sh-10-s1",
     "country": "cn",
-    "province": "上海市",
-    "city": "上海市",
+    "region": "cn-east",
     "month": 10,
     "category": "staples",
     "name": {
@@ -3862,8 +3764,7 @@
   {
     "id": "cn-sh-10-sf1",
     "country": "cn",
-    "province": "上海市",
-    "city": "上海市",
+    "region": "cn-east",
     "month": 10,
     "category": "seafood",
     "name": {

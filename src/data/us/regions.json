@@ -1,5 +1,6 @@
 [
-  { "code": "ca", "name": { "zh": "加利福尼亚州", "en": "California" }, "cities": ["洛杉矶", "旧金山", "圣地亚哥"] },
-  { "code": "ny", "name": { "zh": "纽约州", "en": "New York" }, "cities": ["纽约市", "布法罗"] },
-  { "code": "tx", "name": { "zh": "德克萨斯州", "en": "Texas" }, "cities": ["休斯顿", "奥斯汀"] }
+  { "code": "us-west", "name": { "zh": "美国西部", "en": "US West" } },
+  { "code": "us-northeast", "name": { "zh": "美国东北部", "en": "US Northeast" } },
+  { "code": "us-south", "name": { "zh": "美国南部", "en": "US South" } },
+  { "code": "us-midwest", "name": { "zh": "美国中西部", "en": "US Midwest" } }
 ]

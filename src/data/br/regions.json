@@ -1,5 +1,4 @@
 [
-  { "code": "sp", "name": { "zh": "圣保罗州", "en": "São Paulo" }, "cities": ["圣保罗"] },
-  { "code": "rj", "name": { "zh": "里约热内卢州", "en": "Rio de Janeiro" }, "cities": ["里约热内卢"] },
-  { "code": "df", "name": { "zh": "联邦特区", "en": "Federal District" }, "cities": ["巴西利亚"] }
+  { "code": "br-southeast", "name": { "zh": "巴西东南部", "en": "Brazil Southeast" } },
+  { "code": "br-centralwest", "name": { "zh": "巴西中西部", "en": "Brazil Central-West" } }
 ]

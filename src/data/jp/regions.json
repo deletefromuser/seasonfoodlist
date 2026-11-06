@@ -1,5 +1,5 @@
 [
-  { "code": "tk", "name": { "zh": "东京都", "en": "Tokyo" }, "cities": ["东京23区", "横浜市"] },
-  { "code": "os", "name": { "zh": "大阪府", "en": "Osaka" }, "cities": ["大阪市"] },
-  { "code": "hk", "name": { "zh": "北海道", "en": "Hokkaido" }, "cities": ["札幌市"] }
+  { "code": "jp-east", "name": { "zh": "东日本", "en": "East Japan" } },
+  { "code": "jp-west", "name": { "zh": "西日本", "en": "West Japan" } },
+  { "code": "jp-hokkaido", "name": { "zh": "北海道地区", "en": "Hokkaido Region" } }
 ]

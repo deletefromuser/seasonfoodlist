@@ -1,5 +1,5 @@
 [
-  { "code": "en", "name": { "zh": "英格兰", "en": "England" }, "cities": ["伦敦", "曼彻斯特"] },
-  { "code": "sc", "name": { "zh": "苏格兰", "en": "Scotland" }, "cities": ["爱丁堡", "格拉斯哥"] },
-  { "code": "wa", "name": { "zh": "威尔士", "en": "Wales" }, "cities": ["卡迪夫"] }
+  { "code": "gb-england", "name": { "zh": "英格兰", "en": "England" } },
+  { "code": "gb-scotland", "name": { "zh": "苏格兰", "en": "Scotland" } },
+  { "code": "gb-wales", "name": { "zh": "威尔士", "en": "Wales" } }
 ]

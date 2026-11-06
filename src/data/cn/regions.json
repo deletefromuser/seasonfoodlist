@@ -1,6 +1,9 @@
 [
-  { "code": "gd", "name": { "zh": "广东省", "en": "Guangdong Province" }, "cities": ["广州市", "深圳市", "珠海市"] },
-  { "code": "sc", "name": { "zh": "四川省", "en": "Sichuan Province" }, "cities": ["成都市", "绵阳市"] },
-  { "code": "bj", "name": { "zh": "北京市", "en": "Beijing" }, "cities": ["北京市"] },
-  { "code": "sh", "name": { "zh": "上海市", "en": "Shanghai" }, "cities": ["上海市"] }
+  { "code": "cn-south", "name": { "zh": "华南地区", "en": "South China" } },
+  { "code": "cn-east", "name": { "zh": "华东地区", "en": "East China" } },
+  { "code": "cn-north", "name": { "zh": "华北地区", "en": "North China" } },
+  { "code": "cn-southwest", "name": { "zh": "西南地区", "en": "Southwest China" } },
+  { "code": "cn-central", "name": { "zh": "华中地区", "en": "Central China" } },
+  { "code": "cn-northwest", "name": { "zh": "西北地区", "en": "Northwest China" } },
+  { "code": "cn-northeast", "name": { "zh": "东北地区", "en": "Northeast China" } }
 ]

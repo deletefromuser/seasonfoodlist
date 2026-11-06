@@ -2,8 +2,7 @@
   {
     "id": "br-sp-12-v1",
     "country": "br",
-    "province": "圣保罗州",
-    "city": "圣保罗",
+    "region": "br-southeast",
     "month": 12,
     "category": "vegetables",
     "name": {
@@ -41,8 +40,7 @@
   {
     "id": "br-sp-12-f1",
     "country": "br",
-    "province": "圣保罗州",
-    "city": "圣保罗",
+    "region": "br-southeast",
     "month": 12,
     "category": "fruits",
     "name": {
@@ -80,8 +78,7 @@
   {
     "id": "br-sp-12-m1",
     "country": "br",
-    "province": "圣保罗州",
-    "city": "圣保罗",
+    "region": "br-southeast",
     "month": 12,
     "category": "meats",
     "name": {
@@ -120,8 +117,7 @@
   {
     "id": "br-sp-12-s1",
     "country": "br",
-    "province": "圣保罗州",
-    "city": "圣保罗",
+    "region": "br-southeast",
     "month": 12,
     "category": "staples",
     "name": {
@@ -159,8 +155,7 @@
   {
     "id": "br-sp-12-sf1",
     "country": "br",
-    "province": "圣保罗州",
-    "city": "圣保罗",
+    "region": "br-southeast",
     "month": 12,
     "category": "seafood",
     "name": {
@@ -199,8 +194,7 @@
   {
     "id": "br-sp-6-v1",
     "country": "br",
-    "province": "圣保罗州",
-    "city": "圣保罗",
+    "region": "br-southeast",
     "month": 6,
     "category": "vegetables",
     "name": {
@@ -238,8 +232,7 @@
   {
     "id": "br-sp-6-f1",
     "country": "br",
-    "province": "圣保罗州",
-    "city": "圣保罗",
+    "region": "br-southeast",
     "month": 6,
     "category": "fruits",
     "name": {
@@ -277,8 +270,7 @@
   {
     "id": "br-sp-6-m1",
     "country": "br",
-    "province": "圣保罗州",
-    "city": "圣保罗",
+    "region": "br-southeast",
     "month": 6,
     "category": "meats",
     "name": {
@@ -317,8 +309,7 @@
   {
     "id": "br-sp-6-s1",
     "country": "br",
-    "province": "圣保罗州",
-    "city": "圣保罗",
+    "region": "br-southeast",
     "month": 6,
     "category": "staples",
     "name": {
@@ -356,8 +347,7 @@
   {
     "id": "br-sp-6-sf1",
     "country": "br",
-    "province": "圣保罗州",
-    "city": "圣保罗",
+    "region": "br-southeast",
     "month": 6,
     "category": "seafood",
     "name": {
@@ -396,8 +386,7 @@
   {
     "id": "br-rio-3-v1",
     "country": "br",
-    "province": "里约热内卢州",
-    "city": "里约热内卢",
+    "region": "br-southeast",
     "month": 3,
     "category": "vegetables",
     "name": {
@@ -435,8 +424,7 @@
   {
     "id": "br-rio-3-f1",
     "country": "br",
-    "province": "里约热内卢州",
-    "city": "里约热内卢",
+    "region": "br-southeast",
     "month": 3,
     "category": "fruits",
     "name": {
@@ -474,8 +462,7 @@
   {
     "id": "br-rio-3-m1",
     "country": "br",
-    "province": "里约热内卢州",
-    "city": "里约热内卢",
+    "region": "br-southeast",
     "month": 3,
     "category": "meats",
     "name": {
@@ -514,8 +501,7 @@
   {
     "id": "br-rio-3-s1",
     "country": "br",
-    "province": "里约热内卢州",
-    "city": "里约热内卢",
+    "region": "br-southeast",
     "month": 3,
     "category": "staples",
     "name": {
@@ -553,8 +539,7 @@
   {
     "id": "br-rio-3-sf1",
     "country": "br",
-    "province": "里约热内卢州",
-    "city": "里约热内卢",
+    "region": "br-southeast",
     "month": 3,
     "category": "seafood",
     "name": {
@@ -593,8 +578,7 @@
   {
     "id": "br-rio-9-v1",
     "country": "br",
-    "province": "里约热内卢州",
-    "city": "里约热内卢",
+    "region": "br-southeast",
     "month": 9,
     "category": "vegetables",
     "name": {
@@ -632,8 +616,7 @@
   {
     "id": "br-rio-9-f1",
     "country": "br",
-    "province": "里约热内卢州",
-    "city": "里约热内卢",
+    "region": "br-southeast",
     "month": 9,
     "category": "fruits",
     "name": {
@@ -671,8 +654,7 @@
   {
     "id": "br-rio-9-m1",
     "country": "br",
-    "province": "里约热内卢州",
-    "city": "里约热内卢",
+    "region": "br-southeast",
     "month": 9,
     "category": "meats",
     "name": {
@@ -711,8 +693,7 @@
   {
     "id": "br-rio-9-s1",
     "country": "br",
-    "province": "里约热内卢州",
-    "city": "里约热内卢",
+    "region": "br-southeast",
     "month": 9,
     "category": "staples",
     "name": {
@@ -750,8 +731,7 @@
   {
     "id": "br-rio-9-sf1",
     "country": "br",
-    "province": "里约热内卢州",
-    "city": "里约热内卢",
+    "region": "br-southeast",
     "month": 9,
     "category": "seafood",
     "name": {
@@ -790,8 +770,7 @@
   {
     "id": "br-brasilia-1-v1",
     "country": "br",
-    "province": "联邦特区",
-    "city": "巴西利亚",
+    "region": "br-centralwest",
     "month": 1,
     "category": "vegetables",
     "name": {
@@ -829,8 +808,7 @@
   {
     "id": "br-brasilia-1-f1",
     "country": "br",
-    "province": "联邦特区",
-    "city": "巴西利亚",
+    "region": "br-centralwest",
     "month": 1,
     "category": "fruits",
     "name": {
@@ -868,8 +846,7 @@
   {
     "id": "br-brasilia-1-m1",
     "country": "br",
-    "province": "联邦特区",
-    "city": "巴西利亚",
+    "region": "br-centralwest",
     "month": 1,
     "category": "meats",
     "name": {
@@ -908,8 +885,7 @@
   {
     "id": "br-brasilia-1-s1",
     "country": "br",
-    "province": "联邦特区",
-    "city": "巴西利亚",
+    "region": "br-centralwest",
     "month": 1,
     "category": "staples",
     "name": {
@@ -947,8 +923,7 @@
   {
     "id": "br-brasilia-1-sf1",
     "country": "br",
-    "province": "联邦特区",
-    "city": "巴西利亚",
+    "region": "br-centralwest",
     "month": 1,
     "category": "seafood",
     "name": {
@@ -987,8 +962,7 @@
   {
     "id": "br-brasilia-7-v1",
     "country": "br",
-    "province": "联邦特区",
-    "city": "巴西利亚",
+    "region": "br-centralwest",
     "month": 7,
     "category": "vegetables",
     "name": {
@@ -1026,8 +1000,7 @@
   {
     "id": "br-brasilia-7-f1",
     "country": "br",
-    "province": "联邦特区",
-    "city": "巴西利亚",
+    "region": "br-centralwest",
     "month": 7,
     "category": "fruits",
     "name": {
@@ -1065,8 +1038,7 @@
   {
     "id": "br-brasilia-7-m1",
     "country": "br",
-    "province": "联邦特区",
-    "city": "巴西利亚",
+    "region": "br-centralwest",
     "month": 7,
     "category": "meats",
     "name": {
@@ -1105,8 +1077,7 @@
   {
     "id": "br-brasilia-7-s1",
     "country": "br",
-    "province": "联邦特区",
-    "city": "巴西利亚",
+    "region": "br-centralwest",
     "month": 7,
     "category": "staples",
     "name": {
@@ -1144,8 +1115,7 @@
   {
     "id": "br-brasilia-7-sf1",
     "country": "br",
-    "province": "联邦特区",
-    "city": "巴西利亚",
+    "region": "br-centralwest",
     "month": 7,
     "category": "seafood",
     "name": {

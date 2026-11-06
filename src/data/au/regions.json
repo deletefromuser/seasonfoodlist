@@ -1,5 +1,5 @@
 [
-  { "code": "nsw", "name": { "zh": "新南威尔士州", "en": "New South Wales" }, "cities": ["悉尼", "纽卡斯尔"] },
-  { "code": "vic", "name": { "zh": "维多利亚州", "en": "Victoria" }, "cities": ["墨尔本"] },
-  { "code": "qld", "name": { "zh": "昆士兰州", "en": "Queensland" }, "cities": ["布里斯班"] }
+  { "code": "au-southeast", "name": { "zh": "澳大利亚东南部", "en": "Australia Southeast" } },
+  { "code": "au-northeast", "name": { "zh": "澳大利亚东北部", "en": "Australia Northeast" } },
+  { "code": "au-south", "name": { "zh": "澳大利亚南部", "en": "Australia South" } }
 ]
