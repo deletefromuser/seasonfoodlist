@@ -23,17 +23,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 32.1,
-      "carbohydrate": 5.9,
-      "protein": 2.1,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 29,
+      "carbohydrate": 6.2,
+      "protein": 1.9,
       "fat": 0.3,
       "vitamins": {
-        "c": 25,
-        "a": 102.3,
+        "c": 24.8,
+        "a": 98,
         "b1": 0.1,
-        "b2": 0,
+        "b2": 0.1,
         "e": 0.3,
-        "k": 45.1
+        "k": 53.8
       }
     }
   },
@@ -61,17 +62,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 57.8,
-      "carbohydrate": 16,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 59.4,
+      "carbohydrate": 16.1,
       "protein": 1,
       "fat": 0.3,
       "vitamins": {
-        "c": 32.7,
-        "a": 19.7,
-        "b1": 0.1,
-        "b2": 0.1,
+        "c": 28.4,
+        "a": 18.5,
+        "b1": 0,
+        "b2": 0,
         "e": 0.2,
-        "k": 11
+        "k": 10.4
       }
     }
   },
@@ -99,18 +101,19 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 198.4,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 211.4,
       "carbohydrate": 0,
-      "protein": 21.1,
-      "fat": 10.8,
+      "protein": 19.7,
+      "fat": 11.4,
       "vitamins": {
         "c": 0,
-        "a": 10.5,
+        "a": 10.6,
         "b1": 0.1,
         "b2": 0.2,
         "e": 0.5,
         "k": 1.9,
-        "b12": 1.9
+        "b12": 2.2
       }
     }
   },
@@ -138,15 +141,16 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 358.9,
-      "carbohydrate": 80.7,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 349.2,
+      "carbohydrate": 81,
       "protein": 7.7,
-      "fat": 2.2,
+      "fat": 1.9,
       "vitamins": {
         "c": 0,
         "a": 0,
         "b1": 0.1,
-        "b2": 0.1,
+        "b2": 0,
         "e": 0.2,
         "k": 1.9
       }
@@ -176,17 +180,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 31.8,
-      "carbohydrate": 6.4,
-      "protein": 2,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 27.8,
+      "carbohydrate": 5.9,
+      "protein": 2.1,
       "fat": 0.3,
       "vitamins": {
-        "c": 27.4,
+        "c": 26,
         "a": 106.7,
         "b1": 0,
-        "b2": 0,
+        "b2": 0.1,
         "e": 0.3,
-        "k": 48.9
+        "k": 48.7
       }
     }
   },
@@ -214,17 +219,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 54.5,
-      "carbohydrate": 16,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 64.2,
+      "carbohydrate": 13.9,
       "protein": 1,
       "fat": 0.3,
       "vitamins": {
-        "c": 30,
-        "a": 20.3,
+        "c": 29.2,
+        "a": 21.6,
         "b1": 0,
-        "b2": 0.1,
+        "b2": 0,
         "e": 0.2,
-        "k": 9.4
+        "k": 9.5
       }
     }
   },
@@ -252,18 +258,19 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 192.9,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 209.7,
       "carbohydrate": 0,
-      "protein": 20.4,
-      "fat": 11.1,
+      "protein": 20.9,
+      "fat": 12.4,
       "vitamins": {
         "c": 0,
-        "a": 9.8,
+        "a": 10.3,
         "b1": 0.1,
         "b2": 0.2,
         "e": 0.5,
-        "k": 2.2,
-        "b12": 1.8
+        "k": 2,
+        "b12": 1.9
       }
     }
   },
@@ -291,17 +298,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 339.2,
-      "carbohydrate": 74.1,
-      "protein": 8.7,
-      "fat": 1.9,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 368.6,
+      "carbohydrate": 69.2,
+      "protein": 7.4,
+      "fat": 2.1,
       "vitamins": {
         "c": 0,
         "a": 0,
         "b1": 0.1,
         "b2": 0,
         "e": 0.2,
-        "k": 1.9
+        "k": 2.1
       }
     }
   },
@@ -329,17 +337,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 31.1,
-      "carbohydrate": 6.5,
-      "protein": 2.2,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 31.2,
+      "carbohydrate": 5.9,
+      "protein": 2.1,
       "fat": 0.3,
       "vitamins": {
-        "c": 25.5,
-        "a": 99.8,
-        "b1": 0.1,
-        "b2": 0,
+        "c": 26.4,
+        "a": 101.6,
+        "b1": 0,
+        "b2": 0.1,
         "e": 0.3,
-        "k": 53.6
+        "k": 48.1
       }
     }
   },
@@ -367,17 +376,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 56.7,
-      "carbohydrate": 15.8,
-      "protein": 0.9,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 63.3,
+      "carbohydrate": 15.7,
+      "protein": 1,
       "fat": 0.3,
       "vitamins": {
-        "c": 29.4,
-        "a": 18.6,
-        "b1": 0.1,
+        "c": 31.1,
+        "a": 20.1,
+        "b1": 0,
         "b2": 0.1,
         "e": 0.2,
-        "k": 10
+        "k": 10.7
       }
     }
   },
@@ -405,18 +415,19 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 190.3,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 204,
       "carbohydrate": 0,
-      "protein": 18.4,
-      "fat": 11.9,
+      "protein": 21.4,
+      "fat": 12.2,
       "vitamins": {
         "c": 0,
-        "a": 9.6,
+        "a": 9.5,
         "b1": 0.1,
         "b2": 0.2,
         "e": 0.5,
-        "k": 2.1,
-        "b12": 1.9
+        "k": 2,
+        "b12": 2
       }
     }
   },
@@ -444,17 +455,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 383.4,
-      "carbohydrate": 68.9,
-      "protein": 7.9,
-      "fat": 2.1,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 327.3,
+      "carbohydrate": 76.7,
+      "protein": 7.4,
+      "fat": 1.9,
       "vitamins": {
         "c": 0,
         "a": 0,
         "b1": 0.1,
         "b2": 0.1,
         "e": 0.2,
-        "k": 2
+        "k": 1.9
       }
     }
   },
@@ -482,17 +494,20 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 28.6,
-      "carbohydrate": 5.7,
-      "protein": 2.2,
-      "fat": 0.3,
+      "source": "USDA FoodData Central (exact)",
+      "calories": 32.4,
+      "carbohydrate": 6.6,
+      "protein": 3,
+      "fat": 0.4,
       "vitamins": {
-        "c": 24,
-        "a": 91.9,
-        "b1": 0,
-        "b2": 0,
-        "e": 0.3,
-        "k": 52.3
+        "c": 82.1,
+        "a": 32.4,
+        "b1": 0.1,
+        "b2": 0.1,
+        "e": 0.8,
+        "k": 95.7,
+        "b6": 0.2,
+        "folate": 66
       }
     }
   },
@@ -520,17 +535,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 54.7,
-      "carbohydrate": 14.4,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 60.5,
+      "carbohydrate": 14.7,
       "protein": 1,
       "fat": 0.3,
       "vitamins": {
-        "c": 30.8,
-        "a": 20.6,
+        "c": 30.5,
+        "a": 21,
         "b1": 0.1,
-        "b2": 0.1,
+        "b2": 0,
         "e": 0.2,
-        "k": 9.9
+        "k": 10.6
       }
     }
   },
@@ -558,17 +574,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 201,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 202.7,
       "carbohydrate": 0,
-      "protein": 21.1,
-      "fat": 11.3,
+      "protein": 21,
+      "fat": 12.5,
       "vitamins": {
         "c": 0,
-        "a": 10.9,
+        "a": 9.7,
         "b1": 0.1,
         "b2": 0.2,
         "e": 0.5,
-        "k": 2,
+        "k": 1.9,
         "b12": 2.1
       }
     }
@@ -597,17 +614,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 324,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 354.4,
       "carbohydrate": 78.5,
-      "protein": 8.2,
-      "fat": 2.1,
+      "protein": 8.4,
+      "fat": 2,
       "vitamins": {
         "c": 0,
         "a": 0,
         "b1": 0.1,
-        "b2": 0.1,
+        "b2": 0,
         "e": 0.2,
-        "k": 2.2
+        "k": 2.1
       }
     }
   },
@@ -635,17 +653,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 30.2,
-      "carbohydrate": 5.5,
-      "protein": 1.8,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 27.7,
+      "carbohydrate": 6.1,
+      "protein": 1.9,
       "fat": 0.3,
       "vitamins": {
-        "c": 23,
-        "a": 108.8,
+        "c": 23.7,
+        "a": 104.1,
         "b1": 0.1,
         "b2": 0.1,
         "e": 0.3,
-        "k": 53.6
+        "k": 53.4
       }
     }
   },
@@ -673,17 +692,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 55,
-      "carbohydrate": 13.7,
-      "protein": 1,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 63.1,
+      "carbohydrate": 15.1,
+      "protein": 0.9,
       "fat": 0.3,
       "vitamins": {
-        "c": 28.2,
-        "a": 20.1,
-        "b1": 0.1,
+        "c": 29.1,
+        "a": 20.5,
+        "b1": 0,
         "b2": 0,
         "e": 0.2,
-        "k": 10.4
+        "k": 9.9
       }
     }
   },
@@ -711,18 +731,19 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 190,
+      "source": "USDA FoodData Central (exact)",
+      "calories": 114.5,
       "carbohydrate": 0,
-      "protein": 18.8,
-      "fat": 11.3,
+      "protein": 21.1,
+      "fat": 2.8,
       "vitamins": {
         "c": 0,
         "a": 9.3,
         "b1": 0.1,
-        "b2": 0.2,
-        "e": 0.5,
-        "k": 2,
-        "b12": 1.9
+        "b2": 0.1,
+        "e": 0.3,
+        "k": 1.8,
+        "b12": 0.3
       }
     }
   },
@@ -750,17 +771,20 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 371.2,
-      "carbohydrate": 73.1,
-      "protein": 7.5,
-      "fat": 2,
+      "source": "USDA FoodData Central (exact)",
+      "calories": 131.3,
+      "carbohydrate": 30.4,
+      "protein": 2.6,
+      "fat": 0.3,
       "vitamins": {
         "c": 0,
         "a": 0,
-        "b1": 0.1,
+        "b1": 0,
         "b2": 0,
-        "e": 0.2,
-        "k": 1.9
+        "e": 0,
+        "k": 0.1,
+        "b6": 0.1,
+        "folate": 55
       }
     }
   },
@@ -788,17 +812,18 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 31.4,
-      "carbohydrate": 6.3,
-      "protein": 1.9,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 28.5,
+      "carbohydrate": 5.6,
+      "protein": 2,
       "fat": 0.3,
       "vitamins": {
-        "c": 25.4,
-        "a": 105.8,
-        "b1": 0.1,
-        "b2": 0.1,
+        "c": 24.8,
+        "a": 98.6,
+        "b1": 0,
+        "b2": 0,
         "e": 0.3,
-        "k": 46.1
+        "k": 53.8
       }
     }
   },
@@ -826,17 +851,20 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 56.7,
-      "carbohydrate": 16.2,
-      "protein": 1,
+      "source": "USDA FoodData Central (exact)",
+      "calories": 30.7,
+      "carbohydrate": 8.2,
+      "protein": 0.6,
       "fat": 0.3,
       "vitamins": {
-        "c": 29.5,
-        "a": 18.8,
-        "b1": 0.1,
+        "c": 57.9,
+        "a": 1,
+        "b1": 0,
         "b2": 0,
-        "e": 0.2,
-        "k": 10.5
+        "e": 0.3,
+        "k": 2.1,
+        "b6": 0,
+        "folate": 23.7
       }
     }
   },
@@ -864,18 +892,19 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 214.9,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 210.3,
       "carbohydrate": 0,
-      "protein": 21.2,
-      "fat": 13.2,
+      "protein": 21.1,
+      "fat": 12.9,
       "vitamins": {
         "c": 0,
-        "a": 9.6,
+        "a": 10.4,
         "b1": 0.1,
         "b2": 0.2,
         "e": 0.5,
-        "k": 2.1,
-        "b12": 2
+        "k": 2,
+        "b12": 2.1
       }
     }
   },
@@ -903,10 +932,11 @@
     },
     "nutrition": {
       "per": "100g",
-      "calories": 325.2,
-      "carbohydrate": 75.5,
-      "protein": 7.7,
-      "fat": 1.9,
+      "source": "USDA FoodData Central (category reference)",
+      "calories": 339.2,
+      "carbohydrate": 74.9,
+      "protein": 7.5,
+      "fat": 2,
       "vitamins": {
         "c": 0,
         "a": 0,
